@@ -1,12 +1,12 @@
 {
   "generator": "fresh-vite-app-preact-ts",
-  "size": 101970183,
+  "size": 101996169,
   "timing": {
-    "startTime": "2022-10-02T18:00:12.676Z",
-    "finishTime": "2022-10-02T18:00:25.553Z"
+    "startTime": "2022-10-02T18:23:04.335Z",
+    "finishTime": "2022-10-02T18:23:18.162Z"
   },
   "log": [
-    "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=preact-ts && cd fresh-app && yarn' < /dev/null && exit\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=preact-ts && cd fresh-app && yarn && yarn build' < /dev/null && exit\r",
     "+ yarn create vite fresh-app --template=preact-ts\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
@@ -26,13 +26,14 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 0.58s.\r",
+    "Done in 0.56s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
     "\u001b[34;22minfo\u001b[0m No lockfile found.\r",
     "\u001b[2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
+    "\u001b[34minfo\u001b[0m There appears to be trouble with your network connection. Retrying...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \" > @preact/preset-vite@2.4.0\" has unmet peer dependency \"@babel/core@7.x\".\r",
     "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > @babel/plugin-transform-react-jsx@7.19.0\" has unmet peer dependency \"@babel/core@^7.0.0-0\".\r",
@@ -41,11 +42,21 @@
     "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > babel-plugin-transform-hook-names@1.0.2\" has unmet peer dependency \"@babel/core@^7.12.10\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 8.48s.\r",
+    "Done in 7.37s.\r",
+    "+ yarn build\r",
+    "\u001b[1myarn run v1.22.19\r",
+    "\u001b[22;2m$ tsc && vite build\r",
+    "\u001b[36;22mvite v3.1.4 \u001b[32mbuilding for production...\r",
+    "✓\u001b[0m 10 modules transformed.\r",
+    "\u001b[37;2mdist/\u001b[32;22massets/preact.48177e6f.svg  \u001b[0m \u001b[2m1.55 KiB\r",
+    "\u001b[37mdist/\u001b[32;22mindex.html                  \u001b[0m \u001b[2m0.45 KiB\r",
+    "\u001b[37mdist/\u001b[35;22massets/index.b09fabce.css   \u001b[0m \u001b[2m1.17 KiB / gzip: 0.61 KiB\r",
+    "\u001b[37mdist/\u001b[36;22massets/index.0be1c036.js    \u001b[0m \u001b[2m12.74 KiB / gzip: 5.17 KiB\r",
+    "\u001b[0mDone in 1.95s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
-  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact-ts && cd fresh-app && yarn\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact-ts\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
