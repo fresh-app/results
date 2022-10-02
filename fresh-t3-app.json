@@ -2,8 +2,8 @@
   "generator": "fresh-t3-app",
   "size": 485955843,
   "timing": {
-    "startTime": "2022-10-02T13:39:16.755Z",
-    "finishTime": "2022-10-02T13:40:33.506Z"
+    "startTime": "2022-10-02T17:59:20.814Z",
+    "finishTime": "2022-10-02T18:00:35.391Z"
   },
   "log": [
     "node@factory:/workspace$ exec yarn create t3-app fresh-app\r",
@@ -44,8 +44,10 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 74.30s.\u001b[1B\u001b[15D"
+    "\u001b[0mDone in 72.65s.\u001b[1B\u001b[15D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://create.t3.gg/",
+  "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
