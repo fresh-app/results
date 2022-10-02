@@ -1,12 +1,12 @@
 {
   "generator": "fresh-vite-app-svelte",
-  "size": 30173958,
+  "size": 30192646,
   "timing": {
-    "startTime": "2022-10-02T18:00:11.478Z",
-    "finishTime": "2022-10-02T18:00:19.187Z"
+    "startTime": "2022-10-02T18:23:11.001Z",
+    "finishTime": "2022-10-02T18:23:20.315Z"
   },
   "log": [
-    "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=svelte && cd fresh-app && yarn' < /dev/null && exit\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=svelte && cd fresh-app && yarn && yarn build' < /dev/null && exit\r",
     "+ yarn create vite fresh-app --template=svelte\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
@@ -26,7 +26,7 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 0.93s.\r",
+    "Done in 1.01s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -36,11 +36,21 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 4.01s.\r",
+    "Done in 4.63s.\r",
+    "+ yarn build\r",
+    "\u001b[1myarn run v1.22.19\r",
+    "\u001b[22;2m$ vite build\r",
+    "\u001b[36;22mvite v3.1.4 \u001b[32mbuilding for production...\r",
+    "✓\u001b[0m 9 modules transformed.\r",
+    "\u001b[37;2mdist/\u001b[32;22massets/svelte.a39f39b7.svg  \u001b[0m \u001b[2m1.90 KiB\r",
+    "\u001b[37mdist/\u001b[32;22mindex.html                  \u001b[0m \u001b[2m0.44 KiB\r",
+    "\u001b[37mdist/\u001b[35;22massets/index.3635012e.css   \u001b[0m \u001b[2m1.25 KiB / gzip: 0.63 KiB\r",
+    "\u001b[37mdist/\u001b[36;22massets/index.9f2e5e82.js    \u001b[0m \u001b[2m5.20 KiB / gzip: 2.41 KiB\r",
+    "\u001b[0mDone in 0.84s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
-  "description": "Fresh Svelte app, automatically generated everyday with \"yarn create vite fresh-app --template=svelte && cd fresh-app && yarn\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "description": "Fresh Svelte app, automatically generated everyday with \"yarn create vite fresh-app --template=svelte\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
