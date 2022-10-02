@@ -1,13 +1,14 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13110067,
+  "size": 13112954,
   "timing": {
-    "startTime": "2022-10-02T18:21:45.058Z",
-    "finishTime": "2022-10-02T18:21:49.546Z"
+    "startTime": "2022-10-02T20:03:31.726Z",
+    "finishTime": "2022-10-02T20:03:37.491Z"
   },
   "log": [
-    "pwuser@factory:/workspace$ bash -exc 'yarn create playwright fresh-app --quiet --lang=TypeScript --gha --no-browsers' < /dev/null && exit\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create playwright fresh-app --quiet --lang=TypeScript --gha --no-browsers' < /dev/null; echo 'Finished running generator.'\r",
     "+ yarn create playwright fresh-app --quiet --lang=TypeScript --gha --no-browsers\r",
+    "exit\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
@@ -22,7 +23,7 @@
     "\u001b[1myarn init v1.22.19\r",
     "\u001b[33;22mwarning\u001b[0m The yes flag has been set. This will automatically answer yes to all questions, which may have security implications.\r",
     "\u001b[32msuccess\u001b[0m Saved package.json\r",
-    "Done in 0.02s.\r",
+    "Done in 0.03s.\r",
     "Installing Playwright Test (yarn add --dev @playwright/test)…\r",
     "\u001b[1myarn add v1.22.19\r",
     "\u001b[34;22minfo\u001b[0m No lockfile found.\r",
@@ -37,15 +38,10 @@
     "└─ @playwright/test@1.26.1\r",
     "\u001b[34minfo\u001b[0m All dependencies\r",
     "├─ @playwright/test@1.26.1\r",
-    "├─ @types/node@18.7.23\r",
+    "├─ @types/node@18.8.0\r",
     "└─ playwright-core@1.26.1\r",
-    "Done in 1.19s.\r",
+    "Done in 1.37s.\r",
     "Downloading browsers (npx playwright install)…\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@8.19.2\u001b[0m to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[90mWriting fresh-app/playwright.config.ts.\r",
     "Writing fresh-app/.github/workflows/playwright.yml.\r",
     "Writing fresh-app/tests/example.spec.ts.\r",
@@ -83,11 +79,13 @@
     "Visit https://playwright.dev/docs/intro for more information. ✨\r",
     "\r",
     "Happy hacking! 🎭\r",
-    "Done in 3.00s.\r",
+    "Done in 3.64s.\r",
+    "Finished running generator.\r",
+    "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"yarn create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169905680",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
