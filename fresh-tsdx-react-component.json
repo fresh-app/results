@@ -1,13 +1,14 @@
 {
   "generator": "fresh-tsdx-react-component",
-  "size": 306618842,
+  "size": 306621729,
   "timing": {
-    "startTime": "2022-10-02T18:21:29.827Z",
-    "finishTime": "2022-10-02T18:22:31.738Z"
+    "startTime": "2022-10-02T20:02:35.764Z",
+    "finishTime": "2022-10-02T20:03:37.671Z"
   },
   "log": [
-    "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null && exit\r",
+    "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ npm config set init-author-name Author\r",
+    "exit\r",
     "+ rm -rf fresh-component\r",
     "+ npx tsdx create fresh-component --template=react\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following package was not found and will be installed: tsdx@0.14.1\r",
@@ -51,16 +52,13 @@
     "  Questions? Feedback? Please let me know!\r",
     "  \u001b[32mhttps://github.com/formium/tsdx/issues\r",
     "\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@8.19.2\u001b[0m to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "+ mv fresh-component fresh-app\r",
+    "\u001b[0m+ mv fresh-component fresh-app\r",
+    "Finished running generator.\r",
+    "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library built with TSDX, automatically generated everyday from its official generator script and template",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169905680",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
