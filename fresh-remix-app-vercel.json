@@ -1,19 +1,19 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 318716648,
+  "size": 318717256,
   "timing": {
-    "startTime": "2022-10-02T17:59:02.383Z",
-    "finishTime": "2022-10-02T17:59:52.060Z"
+    "startTime": "2022-10-02T18:21:30.657Z",
+    "finishTime": "2022-10-02T18:22:26.612Z"
   },
   "log": [
-    "node@factory:/workspace$ exec yarn create remix fresh-app\r",
+    "pwuser@factory:/workspace$ exec yarn create remix fresh-app\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
-    "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
+    "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \"create-remix > @remix-run/dev > @remix-run/server-runtime@1.7.2\" has unmet peer dependency \"react@>=16.8\".\r",
@@ -34,20 +34,19 @@
     "\u001b[2m[2/5]\u001b[0m Resolving packages...\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r",
-    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
+    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[2m[3/5]\u001b[0m Fetching packages...\r",
-    "\u001b[34minfo\u001b[0m There appears to be trouble with your network connection. Retrying...\r",
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 24.39s.\r",
+    "Done in 29.87s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 45.71s.\u001b[1B\u001b[15D"
+    "Done in 53.15s.\u001b[1B\u001b[15D"
   ],
   "description": "Fresh Remix app preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
