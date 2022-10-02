@@ -1,12 +1,12 @@
 {
   "generator": "fresh-vite-app-preact",
-  "size": 32867392,
+  "size": 32893373,
   "timing": {
-    "startTime": "2022-10-02T17:59:04.258Z",
-    "finishTime": "2022-10-02T17:59:14.974Z"
+    "startTime": "2022-10-02T18:21:32.377Z",
+    "finishTime": "2022-10-02T18:21:43.609Z"
   },
   "log": [
-    "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=preact && cd fresh-app && yarn' < /dev/null && exit\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=preact && cd fresh-app && yarn && yarn build' < /dev/null && exit\r",
     "+ yarn create vite fresh-app --template=preact\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
@@ -41,11 +41,21 @@
     "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > babel-plugin-transform-hook-names@1.0.2\" has unmet peer dependency \"@babel/core@^7.12.10\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 8.08s.\r",
+    "Done in 7.45s.\r",
+    "+ yarn build\r",
+    "\u001b[1myarn run v1.22.19\r",
+    "\u001b[22;2m$ vite build\r",
+    "\u001b[36;22mvite v3.1.4 \u001b[32mbuilding for production...\r",
+    "✓\u001b[0m 10 modules transformed.\r",
+    "\u001b[37;2mdist/\u001b[32;22massets/preact.48177e6f.svg  \u001b[0m \u001b[2m1.55 KiB\r",
+    "\u001b[37mdist/\u001b[32;22mindex.html                  \u001b[0m \u001b[2m0.44 KiB\r",
+    "\u001b[37mdist/\u001b[36;22massets/index.26c6e6ab.js    \u001b[0m \u001b[2m12.74 KiB / gzip: 5.17 KiB\r",
+    "\u001b[37mdist/\u001b[35;22massets/index.b09fabce.css   \u001b[0m \u001b[2m1.17 KiB / gzip: 0.61 KiB\r",
+    "\u001b[0mDone in 1.02s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
-  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact && cd fresh-app && yarn\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
