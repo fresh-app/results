@@ -2,8 +2,8 @@
   "generator": "fresh-tsdx-lib",
   "size": 300203238,
   "timing": {
-    "startTime": "2022-10-02T13:38:58.484Z",
-    "finishTime": "2022-10-02T13:39:59.246Z"
+    "startTime": "2022-10-02T17:59:49.866Z",
+    "finishTime": "2022-10-02T18:01:08.732Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-lib && npx tsdx create fresh-lib --template=basic && mv fresh-lib fresh-app' < /dev/null && exit\r",
@@ -60,5 +60,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh TypeScript library built with TSDX, automatically generated everyday from its official generator script and template",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://tsdx.io/",
+  "frameworkDocumentationUrl": "https://tsdx.io/"
 }
