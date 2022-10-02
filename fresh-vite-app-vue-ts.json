@@ -2,8 +2,43 @@
   "generator": "fresh-vite-app-vue-ts",
   "size": 104558892,
   "timing": {
-    "startTime": "2022-10-02T13:18:37.900Z",
-    "finishTime": "2022-10-02T13:18:50.174Z"
+    "startTime": "2022-10-02T13:45:20.473Z",
+    "finishTime": "2022-10-02T13:45:31.617Z"
   },
-  "log": "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=vue-ts && cd fresh-app && yarn' < /dev/null && exit\r\n+ yarn create vite fresh-app --template=vue-ts\r\n\u001b[1myarn create v1.22.19\r\n\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r\n\u001b[2m[2/4]\u001b[0m Fetching packages...\r\n\u001b[2m[3/4]\u001b[0m Linking dependencies...\r\n\u001b[2m[4/4]\u001b[0m Building fresh packages...\r\n\r\n\u001b[32msuccess\u001b[0m Installed \"create-vite@3.1.0\" with binaries:\r\n      - create-vite\r\n      - cva\r\n[##] 2/2\r\nScaffolding project in /workspace/fresh-app...\r\n\r\nDone. Now run:\r\n\r\n  cd fresh-app\r\n  yarn\r\n  yarn dev\r\n\r\nDone in 0.61s.\r\n+ cd fresh-app\r\n+ yarn\r\n\u001b[1myarn install v1.22.19\r\n\u001b[34;22minfo\u001b[0m No lockfile found.\r\n\u001b[2m[1/4]\u001b[0m Resolving packages...\r\n\u001b[2m[2/4]\u001b[0m Fetching packages...\r\n\u001b[2m[3/4]\u001b[0m Linking dependencies...\r\n\u001b[2m[4/4]\u001b[0m Building fresh packages...\r\n\u001b[32msuccess\u001b[0m Saved lockfile.\r\nDone in 8.29s.\r\nexit\u001b[1B\u001b[4D"
+  "log": [
+    "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=vue-ts && cd fresh-app && yarn' < /dev/null && exit\r",
+    "+ yarn create vite fresh-app --template=vue-ts\r",
+    "\u001b[1myarn create v1.22.19\r",
+    "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
+    "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
+    "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
+    "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
+    "\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-vite@3.1.0\" with binaries:\r",
+    "      - create-vite\r",
+    "      - cva\r",
+    "[##] 2/2\r",
+    "Scaffolding project in /workspace/fresh-app...\r",
+    "\r",
+    "Done. Now run:\r",
+    "\r",
+    "  cd fresh-app\r",
+    "  yarn\r",
+    "  yarn dev\r",
+    "\r",
+    "Done in 0.60s.\r",
+    "+ cd fresh-app\r",
+    "+ yarn\r",
+    "\u001b[1myarn install v1.22.19\r",
+    "\u001b[34;22minfo\u001b[0m No lockfile found.\r",
+    "\u001b[2m[1/4]\u001b[0m Resolving packages...\r",
+    "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
+    "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
+    "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
+    "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
+    "Done in 6.29s.\r",
+    "exit\u001b[1B\u001b[4D"
+  ],
+  "description": "Fresh Vue app, automatically generated everyday with \"yarn create vite fresh-app --template=vue-ts\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
 }
