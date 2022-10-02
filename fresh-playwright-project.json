@@ -2,8 +2,8 @@
   "generator": "fresh-playwright-project",
   "size": 13110067,
   "timing": {
-    "startTime": "2022-10-02T13:39:13.755Z",
-    "finishTime": "2022-10-02T13:39:36.218Z"
+    "startTime": "2022-10-02T17:59:10.325Z",
+    "finishTime": "2022-10-02T17:59:29.396Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'yarn create playwright fresh-app --quiet --lang=TypeScript --gha --no-browsers' < /dev/null && exit\r",
@@ -39,7 +39,7 @@
     "├─ @playwright/test@1.26.1\r",
     "├─ @types/node@18.7.23\r",
     "└─ playwright-core@1.26.1\r",
-    "Done in 1.40s.\r",
+    "Done in 1.26s.\r",
     "Downloading browsers (npx playwright install)…\r",
     "BEWARE: your OS is not officially supported by Playwright; downloading fallback build.\r",
     "Downloading Chromium 106.0.5249.30 (playwright build v1024) - 135.1 Mb [====================] 100% 0.0s \r",
@@ -95,9 +95,11 @@
     "Visit https://playwright.dev/docs/intro for more information. ✨\r",
     "\r",
     "Happy hacking! 🎭\r",
-    "Done in 19.24s.\r",
+    "Done in 15.49s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"yarn create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://playwright.dev/",
+  "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
