@@ -2,8 +2,8 @@
   "generator": "fresh-tsdx-react-component-with-storybook",
   "size": 514960222,
   "timing": {
-    "startTime": "2022-10-02T13:39:00.979Z",
-    "finishTime": "2022-10-02T13:40:47.792Z"
+    "startTime": "2022-10-02T17:59:36.687Z",
+    "finishTime": "2022-10-02T18:01:11.160Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react-with-storybook && mv fresh-component fresh-app' < /dev/null && exit\r",
@@ -16,8 +16,8 @@
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m sane@4.1.0: some dependency vulnerabilities fixed, support for node < 10 dropped, and newer ECMAScript syntax/features added\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m babel-eslint@10.1.0: babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.\r",
@@ -60,5 +60,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library built with TSDX, storybooks included, automatically generated everyday from its official generator script and template",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://tsdx.io/",
+  "frameworkDocumentationUrl": "https://tsdx.io/"
 }
