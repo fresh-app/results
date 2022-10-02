@@ -2,8 +2,8 @@
   "generator": "fresh-vite-app-preact-ts",
   "size": 101970183,
   "timing": {
-    "startTime": "2022-10-02T13:41:55.437Z",
-    "finishTime": "2022-10-02T13:42:07.647Z"
+    "startTime": "2022-10-02T18:00:12.676Z",
+    "finishTime": "2022-10-02T18:00:25.553Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=preact-ts && cd fresh-app && yarn' < /dev/null && exit\r",
@@ -26,7 +26,7 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 0.64s.\r",
+    "Done in 0.58s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -35,15 +35,17 @@
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \" > @preact/preset-vite@2.4.0\" has unmet peer dependency \"@babel/core@7.x\".\r",
-    "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > @babel/plugin-transform-react-jsx-development@7.18.6\" has unmet peer dependency \"@babel/core@^7.0.0-0\".\r",
     "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > @babel/plugin-transform-react-jsx@7.19.0\" has unmet peer dependency \"@babel/core@^7.0.0-0\".\r",
-    "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > babel-plugin-transform-hook-names@1.0.2\" has unmet peer dependency \"@babel/core@^7.12.10\".\r",
+    "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > @babel/plugin-transform-react-jsx-development@7.18.6\" has unmet peer dependency \"@babel/core@^7.0.0-0\".\r",
     "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > @babel/plugin-transform-react-jsx > @babel/plugin-syntax-jsx@7.18.6\" has unmet peer dependency \"@babel/core@^7.0.0-0\".\r",
+    "\u001b[33mwarning\u001b[0m \"@preact/preset-vite > babel-plugin-transform-hook-names@1.0.2\" has unmet peer dependency \"@babel/core@^7.12.10\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 7.91s.\r",
+    "Done in 8.48s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
-  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact-ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "description": "Fresh Preact app, automatically generated everyday with \"yarn create vite fresh-app --template=preact-ts && cd fresh-app && yarn\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://vitejs.dev/",
+  "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
