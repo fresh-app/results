@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 214317441,
+  "size": 214317605,
   "timing": {
-    "startTime": "2022-10-02T13:39:03.067Z",
-    "finishTime": "2022-10-02T13:39:50.074Z"
+    "startTime": "2022-10-02T17:59:12.481Z",
+    "finishTime": "2022-10-02T18:00:05.555Z"
   },
   "log": [
     "node@factory:/workspace$ exec yarn create remix fresh-app\r",
@@ -36,16 +36,18 @@
     "\u001b[33mwarning\u001b[0m @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
-    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
+    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[2m[3/5]\u001b[0m Fetching packages...\r",
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 24.52s.\r",
+    "Done in 29.52s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 45.03s.\u001b[1B\u001b[15D"
+    "Done in 50.69s.\u001b[1B\u001b[15D"
   ],
   "description": "Fresh Remix app, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://remix.run/",
+  "frameworkDocumentationUrl": "https://remix.run/docs"
 }
