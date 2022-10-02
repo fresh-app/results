@@ -2,9 +2,36 @@
   "generator": "fresh-astro-project",
   "size": 180559063,
   "timing": {
-    "startTime": "2022-10-02T13:20:01.575Z",
-    "finishTime": "2022-10-02T13:20:25.549Z"
+    "startTime": "2022-10-02T13:38:49.212Z",
+    "finishTime": "2022-10-02T13:39:15.469Z"
   },
-  "log": "node@factory:/workspace$ bash -exc 'yarn create astro fresh-app --template basics --install --git=false' < /dev/null && exit\r\n+ yarn create astro fresh-app --template basics --install --git=false\r\n\u001b[1myarn create v1.22.19\r\n\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r\n\u001b[2m[2/4]\u001b[0m Fetching packages...\r\n\u001b[2m[3/4]\u001b[0m Linking dependencies...\r\n\u001b[2m[4/4]\u001b[0m Building fresh packages...\r\n\r\n\u001b[32msuccess\u001b[0m Installed \"create-astro@1.1.0\" with binaries:\r\n      - create-astro\r\n[########################################################] 56/56\r\n\u001b[1mWelcome to Astro!\u001b[0m \u001b[90m(create-astro v1.1.0)\r\n\u001b[0mLets walk through setting up your new Astro project.\r\n\r\n\u001b[32m✔\u001b[0m Using \u001b[1mfresh-app\u001b[0m as project directory.\r\n\u001b[32m✔\u001b[0m \u001b[32mTemplate copied!\r\n✔\u001b[0m \u001b[32mPackages installed!\r\n✔\u001b[0m Git repository created!\r\n\u001b[36m?\u001b[0m \u001b[1mHow would you like to setup TypeScript?\u001b[0m \u001b[90m›\u001b[0m \u001b[90m- Use arrow-keys. Return to submit.\r\n\u001b[36m❯\u001b[0m   \u001b[36;4mRelaxed\r\n\u001b[0m    Strict (recommended)\r\n    Strictest\r\n    I prefer not to use TypeScript\r\nDone in 20.96s.\r\nexit\u001b[1B\u001b[4D",
-  "description": "Fresh Astro website project, automatically generated everyday with \"yarn create astro --template basics\""
+  "log": [
+    "node@factory:/workspace$ bash -exc 'yarn create astro fresh-app --template basics --install --git=false' < /dev/null && exit\r",
+    "+ yarn create astro fresh-app --template basics --install --git=false\r",
+    "\u001b[1myarn create v1.22.19\r",
+    "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
+    "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
+    "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
+    "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
+    "\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-astro@1.1.0\" with binaries:\r",
+    "      - create-astro\r",
+    "[########################################################] 56/56\r",
+    "\u001b[1mWelcome to Astro!\u001b[0m \u001b[90m(create-astro v1.1.0)\r",
+    "\u001b[0mLets walk through setting up your new Astro project.\r",
+    "\r",
+    "\u001b[32m✔\u001b[0m Using \u001b[1mfresh-app\u001b[0m as project directory.\r",
+    "\u001b[32m✔\u001b[0m \u001b[32mTemplate copied!\r",
+    "✔\u001b[0m \u001b[32mPackages installed!\r",
+    "✔\u001b[0m Git repository created!\r",
+    "\u001b[36m?\u001b[0m \u001b[1mHow would you like to setup TypeScript?\u001b[0m \u001b[90m›\u001b[0m \u001b[90m- Use arrow-keys. Return to submit.\r",
+    "\u001b[36m❯\u001b[0m   \u001b[36;4mRelaxed\r",
+    "\u001b[0m    Strict (recommended)\r",
+    "    Strictest\r",
+    "    I prefer not to use TypeScript\r",
+    "Done in 23.04s.\r",
+    "exit\u001b[1B\u001b[4D"
+  ],
+  "description": "Fresh Astro website project, automatically generated everyday with \"yarn create astro --template basics\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
 }
