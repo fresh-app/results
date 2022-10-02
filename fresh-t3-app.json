@@ -1,12 +1,12 @@
 {
   "generator": "fresh-t3-app",
-  "size": 485956278,
+  "size": 539151780,
   "timing": {
-    "startTime": "2022-10-02T18:21:35.070Z",
-    "finishTime": "2022-10-02T18:22:41.771Z"
+    "startTime": "2022-10-02T20:03:57.043Z",
+    "finishTime": "2022-10-02T20:05:19.371Z"
   },
   "log": [
-    "pwuser@factory:/workspace$ exec yarn create t3-app fresh-app\r",
+    "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
@@ -44,10 +44,38 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 64.90s.\u001b[1B\u001b[15D"
+    "\u001b[0mDone in 70.11s.\r",
+    "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
+    "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
+    "+ start-test 'yarn dev' :3000 'cd /workspace && playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png'\r",
+    "1: starting server using command \"yarn dev\"\r",
+    "and when url \"[ 'http://localhost:3000' ]\" is responding with HTTP status code 200\r",
+    "running tests using command \"cd /workspace && playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png\"\r",
+    "\r",
+    "\u001b[1myarn run v1.22.19\r",
+    "\u001b[22;2m$ next dev\r",
+    "\u001b[32;22mready\u001b[0m - started server on 0.0.0.0:3000, url: http://localhost:3000\r",
+    "\u001b[36minfo\u001b[0m  - Loaded env from /workspace/fresh-app/.env\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 4.1s (325 modules)\r",
+    "\u001b[35;1mAttention\u001b[0m: Next.js now collects completely anonymous telemetry regarding usage.\r",
+    "This information is used to shape Next.js' roadmap and prioritize features.\r",
+    "You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:\r",
+    "\u001b[36mhttps://nextjs.org/telemetry\r",
+    "\r",
+    "wait\u001b[0m  - compiling / (client and server)...\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 405 ms (332 modules)\r",
+    "Navigating to http://localhost:3000\r",
+    "Capturing screenshot into /workspace/screenshot.png\r",
+    "\u001b[36mwait\u001b[0m  - compiling /api/auth/[...nextauth] (client and server)...\r",
+    "\u001b[36mwait\u001b[0m  - compiling /api/trpc/[trpc] (client and server)...\r",
+    "\u001b[35mevent\u001b[0m - compiled successfully in 157 ms (71 modules)\r",
+    "Finished taking screenshot.\r",
+    "pwuser@factory:/workspace/fresh-app$ exit\r",
+    "exit\r",
+    "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169604191",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169905680",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
