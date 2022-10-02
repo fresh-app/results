@@ -2,8 +2,8 @@
   "generator": "fresh-sveltekit-app-typescript",
   "size": 167024454,
   "timing": {
-    "startTime": "2022-10-02T13:38:50.990Z",
-    "finishTime": "2022-10-02T13:39:12.186Z"
+    "startTime": "2022-10-02T17:59:11.756Z",
+    "finishTime": "2022-10-02T17:59:31.271Z"
   },
   "log": [
     "node@factory:/workspace$ yarn create svelte fresh-app\r",
@@ -54,7 +54,7 @@
     "\r",
     "\u001b[0mStuck? Visit us at \u001b[36mhttps://svelte.dev/chat\r",
     "\r",
-    "\u001b[0mDone in 1.68s.\r",
+    "\u001b[0mDone in 1.86s.\r",
     "node@factory:/workspace$ cd fresh-app && exec yarn\r",
     "\u001b[1myarn install v1.22.19\r",
     "\u001b[33;22mwarning\u001b[0m package.json: No license field\r",
@@ -65,8 +65,10 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 15.01s.\u001b[1B\u001b[15D"
+    "Done in 15.25s.\u001b[1B\u001b[15D"
   ],
   "description": "Fresh SvelteKit app with TypeScript, automatically generated everyday with \"yarn create svelte\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://kit.svelte.dev/",
+  "frameworkDocumentationUrl": "https://kit.svelte.dev/docs"
 }
