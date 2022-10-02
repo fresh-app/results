@@ -2,8 +2,8 @@
   "generator": "fresh-vite-app-ts",
   "size": 88793688,
   "timing": {
-    "startTime": "2022-10-02T13:42:21.754Z",
-    "finishTime": "2022-10-02T13:42:29.312Z"
+    "startTime": "2022-10-02T18:00:48.101Z",
+    "finishTime": "2022-10-02T18:00:57.280Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=vanilla-ts && cd fresh-app && yarn' < /dev/null && exit\r",
@@ -26,7 +26,7 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 0.52s.\r",
+    "Done in 0.78s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -36,9 +36,11 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 3.49s.\r",
+    "Done in 4.89s.\r",
     "exit\u001b[1B\u001b[4D"
   ],
-  "description": "Fresh Vite app, automatically generated everyday with \"yarn create vite fresh-app --template=vanilla-ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3168773003"
+  "description": "Fresh Vite app, automatically generated everyday with \"yarn create vite fresh-app --template=vanilla-ts && cd fresh-app && yarn\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3169536477",
+  "frameworkUrl": "https://vitejs.dev/",
+  "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
