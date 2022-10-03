@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13544807,
+  "size": 13544823,
   "timing": {
-    "startTime": "2022-10-02T20:38:54.148Z",
-    "finishTime": "2022-10-02T20:39:11.993Z"
+    "startTime": "2022-10-03T00:40:42.124Z",
+    "finishTime": "2022-10-03T00:40:59.532Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create playwright fresh-app --quiet --lang=TypeScript --gha --no-browsers\r",
@@ -25,7 +25,7 @@
     "\u001b[1myarn init v1.22.19\r",
     "\u001b[33;22mwarning\u001b[0m The yes flag has been set. This will automatically answer yes to all questions, which may have security implications.\r",
     "\u001b[32msuccess\u001b[0m Saved package.json\r",
-    "Done in 0.02s.\r",
+    "Done in 0.03s.\r",
     "Installing Playwright Test (yarn add --dev @playwright/test)…\r",
     "\u001b[1myarn add v1.22.19\r",
     "\u001b[34;22minfo\u001b[0m No lockfile found.\r",
@@ -42,7 +42,7 @@
     "├─ @playwright/test@1.26.1\r",
     "├─ @types/node@18.8.0\r",
     "└─ playwright-core@1.26.1\r",
-    "Done in 1.35s.\r",
+    "Done in 1.21s.\r",
     "Downloading browsers (npx playwright install)…\r",
     "\u001b[90mWriting fresh-app/playwright.config.ts.\r",
     "Writing fresh-app/.github/workflows/playwright.yml.\r",
@@ -81,7 +81,7 @@
     "Visit https://playwright.dev/docs/intro for more information. ✨\r",
     "\r",
     "Happy hacking! 🎭\r",
-    "Done in 3.13s.\r",
+    "Done in 2.96s.\r",
     "+ cd fresh-app\r",
     "+ yarn playwright test\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -97,7 +97,7 @@
     "\r",
     "\u001b[36m  npx playwright show-report\r",
     "\r",
-    "\u001b[0mDone in 9.63s.\r",
+    "\u001b[0mDone in 9.32s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "pwuser@factory:/workspace/fresh-app/playwright-report$ /opt/factory/bin/screenshot 'http-server' 8080 || true; echo 'Finished taking screenshot.'\r",
@@ -125,11 +125,11 @@
     "\u001b[0m  http://172.17.0.3:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2022-10-02T20:39:10.937Z]  \"\u001b[36mHEAD\u001b[0m \u001b[36m/\u001b[0m\" \"axios/0.21.4\"\r",
-    "(node:1108) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[2022-10-03T00:40:58.480Z]  \"\u001b[36mHEAD\u001b[0m \u001b[36m/\u001b[0m\" \"axios/0.21.4\"\r",
+    "(node:1144) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
     "Navigating to http://localhost:8080\r",
-    "[2022-10-02T20:39:11.425Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.30 Safari/537.36\"\r",
+    "[2022-10-03T00:40:58.974Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/106.0.5249.30 Safari/537.36\"\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "\u001b[31mhttp-server stopped.\r",
     "\u001b[0mFinished taking screenshot.\r",
@@ -138,7 +138,7 @@
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"yarn create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3170017006",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3170724135",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
