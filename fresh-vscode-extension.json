@@ -2,13 +2,13 @@
   "generator": "fresh-vscode-extension",
   "size": 96796560,
   "timing": {
-    "startTime": "2022-10-04T00:53:47.101Z",
-    "finishTime": "2022-10-04T00:54:30.649Z"
+    "startTime": "2022-10-04T15:56:18.754Z",
+    "finishTime": "2022-10-04T15:57:01.011Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
-    "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
+    "+ yes ''\r",
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.0, yo@4.3.0\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
@@ -78,7 +78,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3178569389",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3183562286",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
