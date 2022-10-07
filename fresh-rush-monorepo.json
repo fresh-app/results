@@ -2,8 +2,8 @@
   "generator": "fresh-rush-monorepo",
   "size": 1615936,
   "timing": {
-    "startTime": "2022-10-06T00:42:37.327Z",
-    "finishTime": "2022-10-06T00:42:58.099Z"
+    "startTime": "2022-10-07T00:55:29.345Z",
+    "finishTime": "2022-10-07T00:55:47.193Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -11,7 +11,7 @@
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\r",
-    "added 295 packages, and audited 296 packages in 13s\r",
+    "added 295 packages, and audited 296 packages in 10s\r",
     "\r",
     "28 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -66,7 +66,7 @@
     "\r",
     "Running \"npm install\" in /home/pwuser/.rush/node-v16.17.0/pnpm-6.7.1\r",
     "\r",
-    "added 1 package, and audited 2 packages in 1s\r",
+    "added 1 package, and audited 2 packages in 992ms\r",
     "\r",
     "1 package is looking for funding\r",
     "  run `npm fund` for details\r",
@@ -121,14 +121,14 @@
     "\r",
     "\u001b[33mRush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (2.77 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.56 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3193685047",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3201479546",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
