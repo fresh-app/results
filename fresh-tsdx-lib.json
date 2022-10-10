@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdx-lib",
-  "size": 300253471,
+  "size": 300255203,
   "timing": {
-    "startTime": "2022-10-09T00:40:51.848Z",
-    "finishTime": "2022-10-09T00:41:55.161Z"
+    "startTime": "2022-10-10T00:46:43.670Z",
+    "finishTime": "2022-10-10T00:47:46.436Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-lib && npx tsdx create fresh-lib --template=basic && mv fresh-lib fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -52,13 +52,18 @@
     "  Questions? Feedback? Please let me know!\r",
     "  \u001b[32mhttps://github.com/formium/tsdx/issues\r",
     "\r",
-    "\u001b[0m+ mv fresh-lib fresh-app\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m8.19.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v8.19.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@8.19.2\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "+ mv fresh-lib fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh TypeScript library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3212339569",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3216174465",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
