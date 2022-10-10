@@ -1,9 +1,9 @@
 {
   "generator": "fresh-redwood-app-typescript",
-  "size": 824928847,
+  "size": 825085415,
   "timing": {
-    "startTime": "2022-10-09T00:41:05.908Z",
-    "finishTime": "2022-10-09T00:43:41.700Z"
+    "startTime": "2022-10-10T00:46:54.485Z",
+    "finishTime": "2022-10-10T00:49:20.246Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript' < /dev/null; echo 'Finished running generator.'\r",
@@ -64,13 +64,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 153.78s.\r",
+    "\u001b[0mDone in 143.59s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, with TypeScript, automatically generated everyday with \"yarn create redwood-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3212339569",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3216174465",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
