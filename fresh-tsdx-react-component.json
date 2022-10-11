@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdx-react-component",
-  "size": 306670199,
+  "size": 306734432,
   "timing": {
-    "startTime": "2022-10-10T00:46:48.826Z",
-    "finishTime": "2022-10-10T00:47:53.513Z"
+    "startTime": "2022-10-11T00:42:09.829Z",
+    "finishTime": "2022-10-11T00:43:14.079Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -13,8 +13,8 @@
     "+ npx tsdx create fresh-component --template=react\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following package was not found and will be installed: tsdx@0.14.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
@@ -52,18 +52,13 @@
     "  Questions? Feedback? Please let me know!\r",
     "  \u001b[32mhttps://github.com/formium/tsdx/issues\r",
     "\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@8.19.2\u001b[0m to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "+ mv fresh-component fresh-app\r",
+    "\u001b[0m+ mv fresh-component fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=react\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3216174465",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3223299931",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
