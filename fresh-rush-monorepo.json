@@ -1,9 +1,9 @@
 {
   "generator": "fresh-rush-monorepo",
-  "size": 1618491,
+  "size": 1620123,
   "timing": {
-    "startTime": "2022-10-10T00:47:08.154Z",
-    "finishTime": "2022-10-10T00:47:28.149Z"
+    "startTime": "2022-10-11T00:42:32.041Z",
+    "finishTime": "2022-10-11T00:42:51.292Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -11,17 +11,12 @@
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\r",
-    "added 295 packages, and audited 296 packages in 12s\r",
+    "added 295 packages, and audited 296 packages in 11s\r",
     "\r",
     "28 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v8.19.2\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@8.19.2\u001b[0m to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "+ mkdir fresh-app\r",
     "+ cd fresh-app\r",
     "+ rush init\r",
@@ -105,8 +100,8 @@
     "\r",
     "\u001b[33m   ╭──────────────────────────────────────────────────────────────────╮\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.13.3\u001b[0m.                 \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.13.3   \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.13.4\u001b[0m.                 \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.13.4   \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                 Run \u001b[35mpnpm add -g pnpm\u001b[0m to update.                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m      Follow \u001b[35m@pnpmjs\u001b[0m for updates: https://twitter.com/pnpmjs      \u001b[33m│\r",
@@ -126,14 +121,14 @@
     "\r",
     "\u001b[33mRush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (3.16 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.65 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3216174465",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3223299931",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
