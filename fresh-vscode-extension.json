@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 96801599,
+  "size": 96823396,
   "timing": {
-    "startTime": "2022-10-11T00:46:00.970Z",
-    "finishTime": "2022-10-11T00:46:53.687Z"
+    "startTime": "2022-10-12T00:56:38.272Z",
+    "finishTime": "2022-10-12T00:57:18.077Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -50,16 +50,6 @@
     "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
-    "\r",
-    "     code fresh-extension\r",
-    "\r",
-    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
-    "on how to modify, test and publish your extension.\r",
-    "\r",
-    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
-    "\r",
-    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -72,13 +62,23 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
+    "\r",
+    "     code fresh-extension\r",
+    "\r",
+    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
+    "on how to modify, test and publish your extension.\r",
+    "\r",
+    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "\r",
+    "\r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3223299931",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3231251509",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
