@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 164984657,
+  "size": 164984826,
   "timing": {
-    "startTime": "2022-10-13T00:45:15.154Z",
-    "finishTime": "2022-10-13T00:45:54.769Z"
+    "startTime": "2022-10-14T00:54:19.659Z",
+    "finishTime": "2022-10-14T00:55:18.037Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app\r",
@@ -46,7 +46,7 @@
     "├─ @next/swc-linux-x64-gnu@12.3.1\r",
     "├─ @next/swc-linux-x64-musl@12.3.1\r",
     "├─ @swc/helpers@0.4.11\r",
-    "├─ caniuse-lite@1.0.30001418\r",
+    "├─ caniuse-lite@1.0.30001419\r",
     "├─ js-tokens@4.0.0\r",
     "├─ nanoid@3.3.4\r",
     "├─ next@12.3.1\r",
@@ -59,7 +59,7 @@
     "├─ styled-jsx@5.0.7\r",
     "├─ tslib@2.4.0\r",
     "└─ use-sync-external-store@1.2.0\r",
-    "Done in 8.71s.\r",
+    "Done in 17.81s.\r",
     "\r",
     "Installing devDependencies:\r",
     "- \u001b[36meslint\r",
@@ -229,11 +229,11 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 9.18s.\r",
+    "Done in 13.45s.\r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 19.44s.\r",
+    "Done in 32.85s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -268,7 +268,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 9.01s.\r",
+    "Done in 11.94s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -291,7 +291,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3238884763",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3246685723",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
