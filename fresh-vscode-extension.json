@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 96805090,
   "timing": {
-    "startTime": "2022-10-16T00:49:51.816Z",
-    "finishTime": "2022-10-16T00:50:36.480Z"
+    "startTime": "2022-10-17T00:54:50.794Z",
+    "finishTime": "2022-10-17T00:55:40.583Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -51,6 +51,15 @@
     "Your extension fresh-extension has been created!\r",
     "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
+    "\r",
+    "     code fresh-extension\r",
+    "\r",
+    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
+    "on how to modify, test and publish your extension.\r",
+    "\r",
+    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "\r",
+    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -63,22 +72,13 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
-    "\r",
-    "     code fresh-extension\r",
-    "\r",
-    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
-    "on how to modify, test and publish your extension.\r",
-    "\r",
-    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
-    "\r",
-    "\r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3257725499",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3261573746",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
