@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 164981497,
+  "size": 164987288,
   "timing": {
-    "startTime": "2022-10-19T00:48:33.658Z",
-    "finishTime": "2022-10-19T00:49:12.340Z"
+    "startTime": "2022-10-20T00:42:40.317Z",
+    "finishTime": "2022-10-20T00:43:27.572Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app\r",
@@ -46,7 +46,7 @@
     "├─ @next/swc-linux-x64-gnu@12.3.1\r",
     "├─ @next/swc-linux-x64-musl@12.3.1\r",
     "├─ @swc/helpers@0.4.11\r",
-    "├─ caniuse-lite@1.0.30001421\r",
+    "├─ caniuse-lite@1.0.30001422\r",
     "├─ js-tokens@4.0.0\r",
     "├─ nanoid@3.3.4\r",
     "├─ next@12.3.1\r",
@@ -59,7 +59,7 @@
     "├─ styled-jsx@5.0.7\r",
     "├─ tslib@2.4.0\r",
     "└─ use-sync-external-store@1.2.0\r",
-    "Done in 9.46s.\r",
+    "Done in 13.89s.\r",
     "\r",
     "Installing devDependencies:\r",
     "- \u001b[36meslint\r",
@@ -72,7 +72,7 @@
     "\u001b[33mwarning\u001b[0m \"eslint-config-next > @typescript-eslint/parser > @typescript-eslint/typescript-estree > tsutils@3.21.0\" has unmet peer dependency \"typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 151 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 152 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ eslint-config-next@12.3.1\r",
     "└─ eslint@8.25.0\r",
@@ -202,6 +202,7 @@
     "├─ regexp.prototype.flags@1.4.3\r",
     "├─ regexpp@3.2.0\r",
     "├─ resolve-from@4.0.0\r",
+    "├─ resolve@1.22.1\r",
     "├─ reusify@1.0.4\r",
     "├─ rimraf@3.0.2\r",
     "├─ run-parallel@1.2.0\r",
@@ -228,11 +229,11 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 10.09s.\r",
+    "Done in 11.59s.\r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 20.63s.\r",
+    "Done in 26.76s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -267,7 +268,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 8.39s.\r",
+    "Done in 10.12s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -290,7 +291,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3277978472",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3285997721",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
