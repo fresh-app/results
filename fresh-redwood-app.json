@@ -1,9 +1,9 @@
 {
   "generator": "fresh-redwood-app",
-  "size": 807162684,
+  "size": 807167156,
   "timing": {
-    "startTime": "2022-10-22T00:48:55.478Z",
-    "finishTime": "2022-10-22T00:51:25.262Z"
+    "startTime": "2022-10-23T00:54:40.906Z",
+    "finishTime": "2022-10-23T00:56:55.131Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript=false' < /dev/null; echo 'Finished running generator.'\r",
@@ -11,17 +11,18 @@
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/telemetry > @redwoodjs/structure > @prisma/internals > temp-write > uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @redwoodjs/api > jwks-rsa > @types/express-jwt > @types/express-unless@2.0.1: This is a stub types definition. express-unless provides its own type definitions, so you do not need this installed.\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > babel-plugin-graphql-tag@3.3.0\" has unmet peer dependency \"graphql-tag@^2.10.1\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/typescript-react-apollo@3.3.3\" has unmet peer dependency \"graphql-tag@^2.0.0\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/parser-cache@4.5.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.5.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > babel-plugin-graphql-tag@3.3.0\" has unmet peer dependency \"graphql-tag@^2.10.1\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/disable-introspection@3.4.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/filter-operation-type@3.4.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.5.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/parser-cache@4.5.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/depth-limit@1.6.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > cosmiconfig-typescript-loader@4.1.1\" has unmet peer dependency \"@types/node@*\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/filter-operation-type@3.4.2\" has unmet peer dependency \"@envelop/core@^2.4.2\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > ts-node@10.9.1\" has unmet peer dependency \"@types/node@*\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > cosmiconfig-typescript-loader@4.1.1\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@3.2.0\" with binaries:\r",
     "      - create-redwood-app\r",
@@ -65,14 +66,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 147.95s.\r",
+    "\u001b[0mDone in 132.18s.\r",
     "Finished running generator.\r",
-    "exit\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, automatically generated everyday with \"yarn create redwood-app --typescript=false\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3301325339",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3305268652",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
