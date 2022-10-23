@@ -1,9 +1,9 @@
 {
   "generator": "fresh-rush-monorepo",
-  "size": 1631731,
+  "size": 1634996,
   "timing": {
-    "startTime": "2022-10-22T00:48:29.544Z",
-    "finishTime": "2022-10-22T00:48:45.971Z"
+    "startTime": "2022-10-23T00:46:32.109Z",
+    "finishTime": "2022-10-23T00:46:50.443Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -11,7 +11,7 @@
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\r",
-    "added 295 packages, and audited 296 packages in 10s\r",
+    "added 295 packages, and audited 296 packages in 12s\r",
     "\r",
     "28 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -71,7 +71,7 @@
     "\r",
     "Running \"npm install\" in /home/pwuser/.rush/node-v16.17.0/pnpm-6.7.1\r",
     "\r",
-    "added 1 package, and audited 2 packages in 814ms\r",
+    "added 1 package, and audited 2 packages in 970ms\r",
     "\r",
     "1 package is looking for funding\r",
     "  run `npm fund` for details\r",
@@ -92,7 +92,7 @@
     "  --> \"/workspace/fresh-app/common/temp/.npmrc\"\r",
     "\r",
     "\u001b[1mUpdating temp projects in /workspace/fresh-app/common/temp/projects\r",
-    "\u001b[0mFinished creating temporary modules (0.00 seconds)\r",
+    "\u001b[0mFinished creating temporary modules (0.01 seconds)\r",
     "\r",
     "\u001b[1mChecking installation in \"/workspace/fresh-app/common/temp\"\r",
     "\r",
@@ -105,8 +105,8 @@
     "\r",
     "\u001b[33m   ╭──────────────────────────────────────────────────────────────────╮\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.13.6\u001b[0m.                 \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.13.6   \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.14.0\u001b[0m.                 \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.14.0   \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                 Run \u001b[35mpnpm add -g pnpm\u001b[0m to update.                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m      Follow \u001b[35m@pnpmjs\u001b[0m for updates: https://twitter.com/pnpmjs      \u001b[33m│\r",
@@ -126,14 +126,14 @@
     "\r",
     "\u001b[33mRush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (2.54 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.75 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3301325339",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3305268652",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
