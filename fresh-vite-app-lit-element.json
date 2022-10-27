@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vite-app-lit-element",
-  "size": 22239973,
+  "size": 22270372,
   "timing": {
-    "startTime": "2022-10-26T00:37:52.155Z",
-    "finishTime": "2022-10-26T00:38:08.108Z"
+    "startTime": "2022-10-27T00:40:55.323Z",
+    "finishTime": "2022-10-27T00:41:11.984Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=lit && cd fresh-app && yarn && yarn build' < /dev/null; echo 'Finished running generator.'\r",
@@ -15,7 +15,7 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
-    "\u001b[32msuccess\u001b[0m Installed \"create-vite@3.1.0\" with binaries:\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-vite@3.2.0\" with binaries:\r",
     "      - create-vite\r",
     "      - cva\r",
     "[##] 2/2\r",
@@ -27,7 +27,7 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 0.60s.\r",
+    "Done in 0.93s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -43,10 +43,10 @@
     "\u001b[22;2m$ vite build\r",
     "\u001b[0m/opt/factory/bin/screenshot 'yarn dev --clearScreen=false' 5173 || true; echo 'Finished taking screenshot.'\r",
     "exit\r",
-    "\u001b[36mvite v3.1.8 \u001b[32mbuilding for production...\r",
+    "\u001b[36mvite v3.2.0 \u001b[32mbuilding for production...\r",
     "✓\u001b[0m 2 modules transformed.\r",
     "\u001b[37;2mdist/\u001b[36;22mfresh-app.js  \u001b[0m \u001b[2m3.16 KiB / gzip: 1.50 KiB\r",
-    "\u001b[0mDone in 0.42s.\r",
+    "\u001b[0mDone in 0.44s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev --clearScreen=false' 5173 || true; echo 'Finished taking screenshot.'\r",
@@ -58,7 +58,7 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ vite --clearScreen=false\r",
     "\r",
-    "\u001b[0m  \u001b[32;1mVITE\u001b[22m v3.1.8\u001b[0m  \u001b[2mready in \u001b[1;22m240\u001b[0m ms\r",
+    "\u001b[0m  \u001b[32;1mVITE\u001b[22m v3.2.0\u001b[0m  \u001b[2mready in \u001b[1;22m251\u001b[0m ms\r",
     "\r",
     "  \u001b[32m➜\u001b[0m  \u001b[1mLocal\u001b[0m:   \u001b[36mhttp://localhost:\u001b[1m5173\u001b[22m/\r",
     "\u001b[39;2m  \u001b[32m➜\u001b[39m  \u001b[1mNetwork\u001b[22m: use \u001b[1;22m--host\u001b[0m to expose\r",
@@ -72,7 +72,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Lit Element, automatically generated everyday with \"yarn create vite fresh-app --template=lit\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3325309203",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3333607661",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
