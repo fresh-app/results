@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 544270417,
+  "size": 544279087,
   "timing": {
-    "startTime": "2022-10-27T00:40:49.746Z",
-    "finishTime": "2022-10-27T00:41:50.523Z"
+    "startTime": "2022-10-28T00:41:22.413Z",
+    "finishTime": "2022-10-28T00:42:25.267Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -47,7 +47,7 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 46.66s.\r",
+    "\u001b[0mDone in 48.92s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -67,15 +67,15 @@
     "\u001b[36mhttps://nextjs.org/telemetry\r",
     "\r",
     "wait\u001b[0m  - compiling / (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 238 ms (300 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 243 ms (300 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
-    "\u001b[36mwait\u001b[0m  - compiling /api/auth/[...nextauth] (client and server)...\r",
-    "\u001b[36mwait\u001b[0m  - compiling /api/trpc/[trpc] (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled successfully in 91 ms (56 modules)\r",
-    "\u001b[35mevent\u001b[0m - compiled successfully (65 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Waiting for timeout 4096...\r",
+    "\u001b[36mwait\u001b[0m  - compiling /api/auth/[...nextauth] (client and server)...\r",
+    "\u001b[36mwait\u001b[0m  - compiling /api/trpc/[trpc] (client and server)...\r",
+    "\u001b[35mevent\u001b[0m - compiled successfully in 65 ms (56 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled successfully (65 modules)\r",
     "[next-auth][warn][NO_SECRET] \r",
     "https://next-auth.js.org/warnings#no_secret\r",
     "[next-auth][warn][EXPERIMENTAL_API] \r",
@@ -91,7 +91,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3333607661",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3341930457",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
