@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 96939373,
   "timing": {
-    "startTime": "2022-11-01T00:47:46.524Z",
-    "finishTime": "2022-11-01T00:48:27.959Z"
+    "startTime": "2022-11-01T10:51:35.996Z",
+    "finishTime": "2022-11-01T10:52:15.652Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -49,14 +49,10 @@
     "Running npm install for you to install the required dependencies.\r",
     "\r",
     "Your extension fresh-extension has been created!\r",
-    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
     "    --template <template-directory>\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
-    "\r",
-    "     code fresh-extension\r",
     "                          directory from which templates will be used\r",
     "    --bare                create a bare repository\r",
     "    --shared[=<permissions>]\r",
@@ -65,6 +61,10 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
+    "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
+    "\r",
+    "     code fresh-extension\r",
     "\r",
     "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
     "on how to modify, test and publish your extension.\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3365862950",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3368780688",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
