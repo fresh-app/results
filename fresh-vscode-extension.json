@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 96946571,
+  "size": 96958655,
   "timing": {
-    "startTime": "2022-11-06T00:39:00.336Z",
-    "finishTime": "2022-11-06T00:39:51.244Z"
+    "startTime": "2022-11-07T00:36:59.051Z",
+    "finishTime": "2022-11-07T00:37:37.468Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -51,7 +51,6 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "Your extension fresh-extension has been created!\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -64,6 +63,7 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
+    "Your extension fresh-extension has been created!\r",
     "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
@@ -86,7 +86,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3402278568",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3406688854",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
