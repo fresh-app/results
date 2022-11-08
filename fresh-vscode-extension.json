@@ -1,21 +1,19 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 96958655,
+  "size": 96958733,
   "timing": {
-    "startTime": "2022-11-07T00:36:59.051Z",
-    "finishTime": "2022-11-07T00:37:37.468Z"
+    "startTime": "2022-11-08T00:37:49.969Z",
+    "finishTime": "2022-11-08T00:38:32.339Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.1, yo@4.3.0\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.1, yo@4.3.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @types/keyv@4.2.0: This is a stub types definition. keyv provides its own type definitions, so you do not need this installed.\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -51,6 +49,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
+    "Your extension fresh-extension has been created!\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -60,12 +59,11 @@
     "    --shared[=<permissions>]\r",
     "                          specify that the git repository is to be shared amongst several users\r",
     "    -q, --quiet           be quiet\r",
+    "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
-    "Your extension fresh-extension has been created!\r",
-    "\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
     "\r",
@@ -86,7 +84,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3406688854",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3415290156",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
