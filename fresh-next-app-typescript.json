@@ -1,12 +1,12 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 322437506,
+  "size": 322439552,
   "timing": {
-    "startTime": "2022-11-08T00:33:48.958Z",
-    "finishTime": "2022-11-08T00:34:38.028Z"
+    "startTime": "2022-11-09T00:36:24.966Z",
+    "finishTime": "2022-11-09T00:37:21.092Z"
   },
   "log": [
-    "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --typescript --eslint\r",
+    "t --eslinttory:/workspace$ bash -exc 'yarn create next-app fresh-app --typescript\r",
     "> cd fresh-app\r",
     "> yarn build' < /dev/null; echo 'Finished running generator.'\r",
     "+ yarn create next-app fresh-app --typescript --eslint\r",
@@ -234,13 +234,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 25.00s.\r",
+    "Done in 29.25s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 26.44s.\r",
+    "Done in 30.50s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -275,7 +275,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 12.78s.\r",
+    "Done in 15.34s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -298,7 +298,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3415290156",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3424361302",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
