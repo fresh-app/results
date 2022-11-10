@@ -1,12 +1,12 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 322439552,
+  "size": 322439364,
   "timing": {
-    "startTime": "2022-11-09T00:36:24.966Z",
-    "finishTime": "2022-11-09T00:37:21.092Z"
+    "startTime": "2022-11-10T00:35:37.307Z",
+    "finishTime": "2022-11-10T00:36:28.939Z"
   },
   "log": [
-    "t --eslinttory:/workspace$ bash -exc 'yarn create next-app fresh-app --typescript\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --typescript --eslint\r",
     "> cd fresh-app\r",
     "> yarn build' < /dev/null; echo 'Finished running generator.'\r",
     "+ yarn create next-app fresh-app --typescript --eslint\r",
@@ -41,7 +41,7 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 181 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 180 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @types/node@18.11.9\r",
     "├─ @types/react-dom@18.0.8\r",
@@ -201,7 +201,6 @@
     "├─ react@18.2.0\r",
     "├─ regexpp@3.2.0\r",
     "├─ resolve-from@4.0.0\r",
-    "├─ resolve@1.22.1\r",
     "├─ reusify@1.0.4\r",
     "├─ rimraf@3.0.2\r",
     "├─ run-parallel@1.2.0\r",
@@ -234,13 +233,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 29.25s.\r",
+    "Done in 26.80s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 30.50s.\r",
+    "Done in 28.40s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -275,7 +274,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 15.34s.\r",
+    "Done in 13.04s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -298,7 +297,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3424361302",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3432985440",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
