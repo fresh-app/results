@@ -1,9 +1,9 @@
 {
   "generator": "fresh-redwood-app-typescript",
-  "size": 829272644,
+  "size": 830120163,
   "timing": {
-    "startTime": "2022-11-10T00:35:59.919Z",
-    "finishTime": "2022-11-10T00:38:42.709Z"
+    "startTime": "2022-11-11T00:38:53.340Z",
+    "finishTime": "2022-11-11T00:41:12.219Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript' < /dev/null; echo 'Finished running generator.'\r",
@@ -20,13 +20,13 @@
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > cosmiconfig-typescript-loader@4.1.1\" has unmet peer dependency \"ts-node@>=10\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > cosmiconfig-typescript-loader@4.2.0\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/parser-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/disable-introspection@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/filter-operation-type@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/depth-limit@1.8.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > ts-node@10.9.1\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
-    "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@3.3.1\" with binaries:\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@3.4.0\" with binaries:\r",
     "      - create-redwood-app\r",
     "\u001b[93m------------------------------------------------------------------\r",
     "\u001b[0m🌲⚡️ \u001b[97;1;4mWelcome to RedwoodJS!\u001b[0m ⚡️🌲\r",
@@ -67,13 +67,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 160.71s.\r",
+    "\u001b[0mDone in 137.02s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, with TypeScript, automatically generated everyday with \"yarn create redwood-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3432985440",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3441546758",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
