@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 328240374,
+  "size": 328239989,
   "timing": {
-    "startTime": "2022-11-10T00:35:27.438Z",
-    "finishTime": "2022-11-10T00:36:26.504Z"
+    "startTime": "2022-11-11T00:38:54.160Z",
+    "finishTime": "2022-11-11T00:39:59.482Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -36,17 +36,16 @@
     "\u001b[33mwarning\u001b[0m @remix-run/dev > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r",
-    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
+    "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[2m[3/5]\u001b[0m Fetching packages...\r",
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 29.40s.\r",
+    "Done in 29.48s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 48.93s.\r",
-    "cd /workspace/fresh-app\r",
+    "Done in 52.08s.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn dev' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -57,14 +56,14 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix dev\r",
     "\u001b[0mWatching Remix app in development mode...\r",
-    "💿 Built in 388ms\r",
+    "💿 Built in 437ms\r",
     "Remix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 43.284 ms\r",
+    "HEAD / 200 - - 42.688 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 5.380 ms\r",
+    "GET / 200 - - 5.573 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 3.579 ms\r",
+    "GET / 200 - - 3.796 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -72,7 +71,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3432985440",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3441546758",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
