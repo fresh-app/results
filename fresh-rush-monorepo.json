@@ -1,9 +1,9 @@
 {
   "generator": "fresh-rush-monorepo",
-  "size": 1651127,
+  "size": 1654749,
   "timing": {
-    "startTime": "2022-11-12T00:37:32.845Z",
-    "finishTime": "2022-11-12T00:37:55.012Z"
+    "startTime": "2022-11-13T00:32:44.581Z",
+    "finishTime": "2022-11-13T00:33:11.614Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -14,7 +14,7 @@
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m core-js@2.6.12: core-js@<3.23.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Some versions have web compatibility issues. Please, upgrade your dependencies to the actual version of core-js.\r",
     "\r",
-    "added 566 packages, and audited 567 packages in 15s\r",
+    "added 566 packages, and audited 567 packages in 20s\r",
     "\r",
     "31 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -29,7 +29,7 @@
     "+ cd fresh-app\r",
     "+ rush init\r",
     "\r",
-    "\u001b[1mRush Multi-Project Build Tool 5.83.0\u001b[33m (unmanaged)\u001b[36;22m - https://rushjs.io\r",
+    "\u001b[1mRush Multi-Project Build Tool 5.83.1\u001b[33m (unmanaged)\u001b[36;22m - https://rushjs.io\r",
     "\u001b[0mNode.js version is 16.17.0 (LTS)\r",
     "\r",
     "Starting \"rush init\"\r",
@@ -53,7 +53,7 @@
     "+ rush update\r",
     "\r",
     "\r",
-    "\u001b[1mRush Multi-Project Build Tool 5.83.0\u001b[36;22m - https://rushjs.io\r",
+    "\u001b[1mRush Multi-Project Build Tool 5.83.1\u001b[36;22m - https://rushjs.io\r",
     "\u001b[0mNode.js version is 16.17.0 (LTS)\r",
     "\r",
     "\r",
@@ -75,7 +75,7 @@
     "\r",
     "Running \"npm install\" in /home/pwuser/.rush/node-v16.17.0/pnpm-6.7.1\r",
     "\r",
-    "added 1 package, and audited 2 packages in 730ms\r",
+    "added 1 package, and audited 2 packages in 820ms\r",
     "\r",
     "1 package is looking for funding\r",
     "  run `npm fund` for details\r",
@@ -125,14 +125,14 @@
     "\r",
     "Rush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (1.94 seconds)\r",
+    "\u001b[32mRush update finished successfully. (3.32 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3448852551",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3453154309",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
