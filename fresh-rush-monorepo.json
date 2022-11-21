@@ -1,9 +1,9 @@
 {
   "generator": "fresh-rush-monorepo",
-  "size": 1658013,
+  "size": 1659645,
   "timing": {
-    "startTime": "2022-11-20T00:36:47.350Z",
-    "finishTime": "2022-11-20T00:37:10.856Z"
+    "startTime": "2022-11-21T00:34:33.089Z",
+    "finishTime": "2022-11-21T00:34:56.811Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -14,7 +14,7 @@
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m core-js@2.6.12: core-js@<3.23.3 is no longer maintained and not recommended for usage due to the number of issues. Because of the V8 engine whims, feature detection in old core-js versions could cause a slowdown up to 100x even if nothing is polyfilled. Some versions have web compatibility issues. Please, upgrade your dependencies to the actual version of core-js.\r",
     "\r",
-    "added 566 packages, and audited 567 packages in 17s\r",
+    "added 566 packages, and audited 567 packages in 18s\r",
     "\r",
     "31 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -111,8 +111,8 @@
     "\r",
     "\u001b[33m   ╭──────────────────────────────────────────────────────────────────╮\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.16.1\u001b[0m.                 \u001b[33m│\r",
-    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.16.1   \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m                Update available! \u001b[31m6.7.1\u001b[0m → \u001b[32m7.17.0\u001b[0m.                 \u001b[33m│\r",
+    "\u001b[0m   \u001b[33m│\u001b[0m   \u001b[35mChangelog:\u001b[0m https://github.com/pnpm/pnpm/releases/tag/v7.17.0   \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                 Run \u001b[35mpnpm add -g pnpm\u001b[0m to update.                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m                                                                  \u001b[33m│\r",
     "\u001b[0m   \u001b[33m│\u001b[0m      Follow \u001b[35m@pnpmjs\u001b[0m for updates: https://twitter.com/pnpmjs      \u001b[33m│\r",
@@ -125,14 +125,14 @@
     "\r",
     "Rush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (2.90 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.26 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3505794391",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3510484243",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
