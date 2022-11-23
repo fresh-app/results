@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdx-react-component",
-  "size": 305003709,
+  "size": 304991421,
   "timing": {
-    "startTime": "2022-11-22T00:34:54.286Z",
-    "finishTime": "2022-11-22T00:36:04.957Z"
+    "startTime": "2022-11-23T00:30:29.806Z",
+    "finishTime": "2022-11-23T00:31:46.282Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -13,13 +13,13 @@
     "+ npx tsdx create fresh-component --template=react\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following package was not found and will be installed: tsdx@0.14.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request-promise-native@1.0.9: request-promise-native has been deprecated because it extends the now deprecated request package, see https://github.com/request/request/issues/3142\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m sane@4.1.0: some dependency vulnerabilities fixed, support for node < 10 dropped, and newer ECMAScript syntax/features added\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m request@2.88.2: request has been deprecated, see https://github.com/request/request/issues/3142\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m babel-eslint@10.1.0: babel-eslint is now @babel/eslint-parser. This package will no longer receive updates.\r",
@@ -59,7 +59,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=react\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3519292371",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3528203872",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
