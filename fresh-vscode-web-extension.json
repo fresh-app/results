@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 119636157,
+  "size": 119637766,
   "timing": {
-    "startTime": "2022-11-23T00:32:44.188Z",
-    "finishTime": "2022-11-23T00:33:36.543Z"
+    "startTime": "2022-11-24T00:39:01.751Z",
+    "finishTime": "2022-11-24T00:39:50.100Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -25,7 +25,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.1\" has no binaries\r",
-    "Done in 17.83s.\r",
+    "Done in 16.58s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -61,12 +61,17 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 407 packages, and audited 408 packages in 29s\r",
+    "added 407 packages, and audited 408 packages in 26s\r",
     "\r",
     "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m9.1.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.1.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.1.2\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
@@ -96,7 +101,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3528203872",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3536706604",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
