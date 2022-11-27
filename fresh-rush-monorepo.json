@@ -2,8 +2,8 @@
   "generator": "fresh-rush-monorepo",
   "size": 1660451,
   "timing": {
-    "startTime": "2022-11-26T00:29:32.859Z",
-    "finishTime": "2022-11-26T00:29:58.917Z"
+    "startTime": "2022-11-27T00:34:33.722Z",
+    "finishTime": "2022-11-27T00:34:59.757Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -130,14 +130,14 @@
     "\r",
     "Rush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (2.63 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.77 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3551446857",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3556009585",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
