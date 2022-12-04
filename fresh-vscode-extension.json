@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 95478816,
   "timing": {
-    "startTime": "2022-12-03T00:31:05.547Z",
-    "finishTime": "2022-12-03T00:31:51.280Z"
+    "startTime": "2022-12-04T00:32:58.802Z",
+    "finishTime": "2022-12-04T00:33:39.006Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -49,20 +49,13 @@
     "Running npm install for you to install the required dependencies.\r",
     "\r",
     "Your extension fresh-extension has been created!\r",
+    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
     "    --template <template-directory>\r",
     "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
-    "\r",
-    "\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
+    "    To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
     "\r",
@@ -71,6 +64,13 @@
     "\r",
     "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
+    "\r",
+    "--bare                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    --separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 8.15.0 -> 9.1.3\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3606089045",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3610897869",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
