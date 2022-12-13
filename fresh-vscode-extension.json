@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 95454152,
+  "size": 95453824,
   "timing": {
-    "startTime": "2022-12-12T00:35:36.847Z",
-    "finishTime": "2022-12-12T00:36:12.851Z"
+    "startTime": "2022-12-13T00:36:20.223Z",
+    "finishTime": "2022-12-13T00:36:58.497Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -55,13 +55,6 @@
     "\r",
     "    --template <template-directory>\r",
     "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
-    "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
@@ -69,8 +62,15 @@
     "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
     "on how to modify, test and publish your extension.\r",
     "\r",
-    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "    --bareFor more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
+    "\r",
+    "                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    --separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 8.15.0 -> 9.2.0\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3671561124",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3681070985",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
