@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 639438602,
+  "size": 639446871,
   "timing": {
-    "startTime": "2022-12-13T00:33:07.245Z",
-    "finishTime": "2022-12-13T00:34:16.737Z"
+    "startTime": "2022-12-14T00:29:54.682Z",
+    "finishTime": "2022-12-14T00:31:09.669Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -48,7 +48,7 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 54.86s.\r",
+    "\u001b[0mDone in 57.63s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -61,19 +61,19 @@
     "\u001b[22;2m$ next dev\r",
     "\u001b[32;22mready\u001b[0m - started server on 0.0.0.0:3000, url: http://localhost:3000\r",
     "\u001b[36minfo\u001b[0m  - Loaded env from /workspace/fresh-app/.env\r",
-    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 2.9s (276 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 4.3s (276 modules)\r",
     "\u001b[35;1mAttention\u001b[0m: Next.js now collects completely anonymous telemetry regarding usage.\r",
     "This information is used to shape Next.js' roadmap and prioritize features.\r",
     "You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:\r",
     "\u001b[36mhttps://nextjs.org/telemetry\r",
     "\r",
     "wait\u001b[0m  - compiling / (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 459 ms (335 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 674 ms (335 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "\u001b[36mwait\u001b[0m  - compiling /api/auth/[...nextauth] (client and server)...\r",
     "\u001b[36mwait\u001b[0m  - compiling /api/trpc/[trpc] (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled successfully in 118 ms (105 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled successfully in 145 ms (105 modules)\r",
     "\u001b[35mevent\u001b[0m - compiled successfully (114 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Waiting for timeout 4096...\r",
@@ -89,7 +89,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3681070985",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3690563996",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
