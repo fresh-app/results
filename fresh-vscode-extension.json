@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 95453824,
+  "size": 95453840,
   "timing": {
-    "startTime": "2022-12-13T00:36:20.223Z",
-    "finishTime": "2022-12-13T00:36:58.497Z"
+    "startTime": "2022-12-14T00:33:14.873Z",
+    "finishTime": "2022-12-14T00:33:59.173Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -51,21 +51,21 @@
     "Your extension fresh-extension has been created!\r",
     "\r",
     "error: unknown option `initial-branch=main'\r",
-    "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
-    "\r",
-    "    --template <template-directory>\r",
-    "                          directory from which templates will be used\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
-    "\r",
+    "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
     "on how to modify, test and publish your extension.\r",
     "\r",
-    "    --bareFor more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
     "\r",
-    "                create a bare repository\r",
+    "\r",
+    "\r",
+    "    --template <template-directory>\r",
+    "                          directory from which templates will be used\r",
+    "    --bare                create a bare repository\r",
     "    --shared[=<permissions>]\r",
     "                          specify that the git repository is to be shared amongst several users\r",
     "    -q, --quiet           be quiet\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3681070985",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3690563996",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
