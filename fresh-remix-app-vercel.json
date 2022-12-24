@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 330459893,
+  "size": 331060382,
   "timing": {
-    "startTime": "2022-12-23T00:28:58.676Z",
-    "finishTime": "2022-12-23T00:29:59.942Z"
+    "startTime": "2022-12-24T00:24:36.774Z",
+    "finishTime": "2022-12-24T00:25:39.531Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -12,10 +12,10 @@
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject@3.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-inject.\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve@0.5.3: See https://github.com/lydell/source-map-resolve#deprecated\r",
-    "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject > magic-string > sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
     "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > jscodeshift > micromatch > snapdragon > source-map-resolve > urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
+    "\u001b[33mwarning\u001b[0m create-remix > @remix-run/dev > @esbuild-plugins/node-modules-polyfill > rollup-plugin-node-polyfills > rollup-plugin-inject > magic-string > sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \"create-remix > @remix-run/dev > @remix-run/server-runtime@1.9.0\" has unmet peer dependency \"react@>=16.8\".\r",
@@ -42,10 +42,9 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 27.97s.\r",
+    "Done in 29.27s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "cd /workspace/fresh-app\r",
-    "Done in 51.24s.\r",
+    "Done in 52.04s.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn dev' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -56,12 +55,12 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix dev\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 46.788 ms\r",
+    "HEAD / 200 - - 48.339 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 6.331 ms\r",
+    "GET / 200 - - 5.709 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 3.649 ms\r",
+    "GET / 200 - - 3.749 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -69,7 +68,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3762138187",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3768993217",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
