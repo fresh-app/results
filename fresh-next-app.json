@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 344648904,
+  "size": 344651877,
   "timing": {
-    "startTime": "2022-12-29T00:30:55.793Z",
-    "finishTime": "2022-12-29T00:31:53.179Z"
+    "startTime": "2022-12-30T00:31:31.522Z",
+    "finishTime": "2022-12-30T00:32:31.618Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --typescript=false --eslint\r",
@@ -105,7 +105,7 @@
     "├─ color-convert@2.0.1\r",
     "├─ color-name@1.1.4\r",
     "├─ concat-map@0.0.1\r",
-    "├─ core-js-pure@3.27.0\r",
+    "├─ core-js-pure@3.27.1\r",
     "├─ cross-spawn@7.0.3\r",
     "├─ csstype@3.1.1\r",
     "├─ damerau-levenshtein@1.0.8\r",
@@ -248,13 +248,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 29.56s.\r",
+    "Done in 32.34s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 30.71s.\r",
+    "Done in 33.58s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -289,7 +289,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 16.06s.\r",
+    "Done in 16.48s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -312,7 +312,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3797409368",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3803921437",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
