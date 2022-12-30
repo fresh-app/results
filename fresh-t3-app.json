@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 544754292,
+  "size": 544757497,
   "timing": {
-    "startTime": "2022-12-29T00:30:14.179Z",
-    "finishTime": "2022-12-29T00:31:21.106Z"
+    "startTime": "2022-12-30T00:30:04.107Z",
+    "finishTime": "2022-12-30T00:31:08.722Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -48,7 +48,7 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 50.45s.\r",
+    "\u001b[0mDone in 48.25s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -68,12 +68,12 @@
     "\u001b[36mhttps://nextjs.org/telemetry\r",
     "\r",
     "wait\u001b[0m  - compiling / (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 488 ms (343 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled client and server successfully in 449 ms (343 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "\u001b[36mwait\u001b[0m  - compiling /api/auth/[...nextauth] (client and server)...\r",
     "\u001b[36mwait\u001b[0m  - compiling /api/trpc/[trpc] (client and server)...\r",
-    "\u001b[35mevent\u001b[0m - compiled successfully in 99 ms (110 modules)\r",
+    "\u001b[35mevent\u001b[0m - compiled successfully in 101 ms (110 modules)\r",
     "\u001b[35mevent\u001b[0m - compiled successfully (119 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Waiting for timeout 4096...\r",
@@ -90,7 +90,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3797409368",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3803921437",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
