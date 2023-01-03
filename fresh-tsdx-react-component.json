@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdx-react-component",
-  "size": 305290233,
+  "size": 305290848,
   "timing": {
-    "startTime": "2023-01-01T00:33:16.915Z",
-    "finishTime": "2023-01-01T00:34:14.983Z"
+    "startTime": "2023-01-03T00:29:19.296Z",
+    "finishTime": "2023-01-03T00:30:16.711Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -66,7 +66,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=react\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3814384336",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3825924841",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
