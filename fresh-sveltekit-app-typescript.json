@@ -1,9 +1,9 @@
 {
   "generator": "fresh-sveltekit-app-typescript",
-  "size": 151052178,
+  "size": 151065109,
   "timing": {
-    "startTime": "2023-01-02T00:30:12.752Z",
-    "finishTime": "2023-01-02T00:30:44.595Z"
+    "startTime": "2023-01-03T00:29:49.480Z",
+    "finishTime": "2023-01-03T00:30:27.412Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create svelte fresh-app\r",
@@ -52,7 +52,7 @@
     "\u001b[0mTo close the dev server, hit \u001b[36;1mCtrl-C\r",
     "\r",
     "\u001b[0mStuck? Visit us at \u001b[36mhttps://svelte.dev/chat\r",
-    "\u001b[0mDone in 1.67s.\r",
+    "\u001b[0mDone in 1.83s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -66,7 +66,8 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 13.84s.\r",
+    "Done in 17.39s.\r",
+    "yarn build\r",
     "pwuser@factory:/workspace/fresh-app$ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[33;22mwarning\u001b[0m package.json: No license field\r",
@@ -74,16 +75,16 @@
     "\r",
     "\u001b[36;22mvite v4.0.3 \u001b[32mbuilding for production...\r",
     "✓\u001b[0m 66 modules transformed.\r",
-    "\u001b[36m12:30:32 AM [vite-plugin-svelte] dom compile done.\r",
+    "\u001b[36m12:30:13 AM [vite-plugin-svelte] dom compile done.\r",
     "\u001b[0mpackage  \u001b[7Cfiles\u001b[3C time\u001b[3C   avg\r",
-    "fresh-app\u001b[7C    9\u001b[3C0.61s\u001b[3C67.3ms\r",
+    "fresh-app\u001b[7C    9\u001b[3C0.83s\u001b[3C92.4ms\r",
     "\r",
     "\u001b[36mvite v4.0.3 \u001b[32mbuilding SSR bundle for production...\r",
-    "\u001b[0mtransforming (66) \u001b[2mnode_modules/esm-env/prod-ssr.js\u001b[0m\"confetti\" is imported from external module \"@neoconfetti/svelte\" but never used in \"src/routes/sverdle/+page.svelte\".\r",
+    "\u001b[0mtransforming (72) \u001b[2msrc/routes/styles.css\u001b[0m\"confetti\" is imported from external module \"@neoconfetti/svelte\" but never used in \"src/routes/sverdle/+page.svelte\".\r",
     "\u001b[32m✓\u001b[0m 73 modules transformed.\r",
-    "\u001b[36m12:30:33 AM [vite-plugin-svelte] ssr compile done.\r",
+    "\u001b[36m12:30:15 AM [vite-plugin-svelte] ssr compile done.\r",
     "\u001b[0mpackage  \u001b[7Cfiles\u001b[3C time\u001b[3C   avg\r",
-    "fresh-app\u001b[7C    9\u001b[3C0.10s\u001b[3C11.2ms\r",
+    "fresh-app\u001b[7C    9\u001b[3C0.15s\u001b[3C16.7ms\r",
     "Generated an empty chunk: \"hooks\".\r",
     "\u001b[2m.svelte-kit/output/server/\u001b[32;22mvite-manifest.json                                 \u001b[39;1;2m  4.10 kB\r",
     "\u001b[22m.svelte-kit/output/server/\u001b[36;22mchunks/hooks.js                                    \u001b[39;1;2m  0.00 kB\r",
@@ -152,7 +153,7 @@
     "\u001b[36;1;22m> Using @sveltejs/adapter-auto\r",
     "\u001b[0m  \u001b[33;1mCould not detect a supported production environment. See https://kit.svelte.dev/docs/adapters to learn how to configure your app to run on the platform of your choosing\r",
     "\u001b[0m  \u001b[32m✔ done\r",
-    "\u001b[0mDone in 4.39s.\r",
+    "\u001b[0mDone in 5.94s.\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn preview' 4173 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn preview' :4173 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:4173 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:4173 /workspace/screenshot.png)'\r",
@@ -177,7 +178,7 @@
     ""
   ],
   "description": "Fresh SvelteKit app, with TypeScript, automatically generated everyday with \"yarn create svelte\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3819387105",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3825924841",
   "frameworkUrl": "https://kit.svelte.dev/",
   "frameworkDocumentationUrl": "https://kit.svelte.dev/docs"
 }
