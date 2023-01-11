@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 119817723,
+  "size": 119818065,
   "timing": {
-    "startTime": "2023-01-10T00:37:04.738Z",
-    "finishTime": "2023-01-10T00:38:02.065Z"
+    "startTime": "2023-01-11T00:34:25.963Z",
+    "finishTime": "2023-01-11T00:35:14.470Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -25,7 +25,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.2\" has no binaries\r",
-    "Done in 20.34s.\r",
+    "Done in 19.67s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -61,17 +61,17 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 407 packages, and audited 408 packages in 30s\r",
+    "added 407 packages, and audited 408 packages in 23s\r",
     "\r",
     "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
-    "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m9.2.0\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.2.0\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.2.0\u001b[0m to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "4 \u001b[1mlow\u001b[0m severity vulnerabilities\r",
+    "\r",
+    "Some issues need review, and may require choosing\r",
+    "a different dependency.\r",
+    "\r",
+    "Run `npm audit` for details.\r",
     "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
@@ -101,7 +101,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3879003508",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3888480301",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
