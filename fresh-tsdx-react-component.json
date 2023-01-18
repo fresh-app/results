@@ -2,8 +2,8 @@
   "generator": "fresh-tsdx-react-component",
   "size": 304493532,
   "timing": {
-    "startTime": "2023-01-17T00:31:03.184Z",
-    "finishTime": "2023-01-17T00:31:59.206Z"
+    "startTime": "2023-01-18T00:32:18.349Z",
+    "finishTime": "2023-01-18T00:33:20.091Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-component && npx tsdx create fresh-component --template=react && mv fresh-component fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -55,13 +55,18 @@
     "  Questions? Feedback? Please let me know!\r",
     "  \u001b[32mhttps://github.com/formium/tsdx/issues\r",
     "\r",
-    "\u001b[0m+ mv fresh-component fresh-app\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m9.3.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.3.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.3.1\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "+ mv fresh-component fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh React component library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=react\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3934950959",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3944525617",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
