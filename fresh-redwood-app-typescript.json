@@ -1,12 +1,12 @@
 {
   "generator": "fresh-redwood-app-typescript",
-  "size": 837848324,
+  "size": 837775126,
   "timing": {
-    "startTime": "2023-01-17T00:30:52.579Z",
-    "finishTime": "2023-01-17T00:33:03.049Z"
+    "startTime": "2023-01-18T00:32:04.855Z",
+    "finishTime": "2023-01-18T00:34:46.165Z"
   },
   "log": [
-    "ript --git-init=false' < /dev/null; echo 'Finished running generator.'p --typescr\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript --git-init=false' < /dev/null; echo 'Finished running generator.'\r",
     "+ yarn create redwood-app fresh-app --typescript --git-init=false\r",
     "exit\r",
     "\u001b[1myarn create v1.22.19\r",
@@ -20,11 +20,11 @@
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > cosmiconfig-typescript-loader@4.1.1\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > cosmiconfig-typescript-loader@4.1.1\" has unmet peer dependency \"ts-node@>=10\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > cosmiconfig-typescript-loader@4.3.0\" has unmet peer dependency \"@types/node@*\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/parser-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/disable-introspection@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/filter-operation-type@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/depth-limit@1.8.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/disable-introspection@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/filter-operation-type@3.6.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/validation-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
+    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @envelop/parser-cache@4.7.0\" has unmet peer dependency \"@envelop/core@^2.6.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config > ts-node@10.9.1\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@3.8.0\" with binaries:\r",
@@ -70,13 +70,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 129.19s.\r",
+    "\u001b[0mDone in 159.86s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, with TypeScript, automatically generated everyday with \"yarn create redwood-app --typescript --git-init=false\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3934950959",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3944525617",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
