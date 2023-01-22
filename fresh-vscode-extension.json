@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 95396747,
   "timing": {
-    "startTime": "2023-01-21T00:34:44.574Z",
-    "finishTime": "2023-01-21T00:35:23.877Z"
+    "startTime": "2023-01-22T00:36:32.072Z",
+    "finishTime": "2023-01-22T00:37:09.261Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -59,10 +59,10 @@
     "    --shared[=<permissions>]\r",
     "                          specify that the git repository is to be shared amongst several users\r",
     "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
+    "    --separate-git-dirTo start editing with Visual Studio Code, use the following commands:\r",
+    " <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
     "\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3972341537",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/3977280802",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
