@@ -1,0 +1,42 @@
+{
+  "generator": "fresh-bun-project",
+  "size": 1917616,
+  "timing": {
+    "startTime": "2023-01-29T09:29:25.057Z",
+    "finishTime": "2023-01-29T09:29:28.977Z"
+  },
+  "log": [
+    "pwuser@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
+    "> (mkdir -p fresh-app && cd fresh-app && ~/.bun/bin/bun init -y)' < /dev/null; echo 'Finished running generator.'\r",
+    "+ curl -fsSL https://bun.sh/install\r",
+    "+ bash\r",
+    "exit\r",
+    "######################################################################## 100.0%\r",
+    "\u001b[32mbun was installed successfully to \u001b[1m~/.bun/bin/bun \r",
+    "\r",
+    "\u001b[39;22;2mAdded \"~/.bun/bin\" to $PATH in \"~/.bashrc\" \r",
+    "\r",
+    "To get started, run: \r",
+    "\r",
+    "\u001b[1;22m source /home/pwuser/.bashrc \r",
+    "  bun --help \r",
+    "\u001b[0m+ mkdir -p fresh-app\r",
+    "+ cd fresh-app\r",
+    "+ /home/pwuser/.bun/bin/bun init -y\r",
+    "\u001b[32mDone!\u001b[0m A package.json file was saved in the current directory.\r",
+    " + \u001b[2mindex.ts\r",
+    "\u001b[0m + \u001b[2m.gitignore\r",
+    "\u001b[0m + \u001b[2mtsconfig.json (for editor auto-complete)\r",
+    "\u001b[0m + \u001b[2mREADME.md\r",
+    "\r",
+    "\u001b[0mTo get started, run:\r",
+    "  \u001b[36mbun run index.ts\r",
+    "\u001b[0mFinished running generator.\r",
+    "pwuser@factory:/workspace$ exit\r",
+    "exit\u001b[1B\u001b[4D"
+  ],
+  "description": "Fresh Bun project, with TypeScript, automatically generated everyday with \"bun init\"",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4036120361",
+  "frameworkUrl": "https://bun.sh/",
+  "frameworkDocumentationUrl": "https://github.com/oven-sh/bun#readme"
+}
