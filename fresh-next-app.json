@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 354513201,
+  "size": 354513424,
   "timing": {
-    "startTime": "2023-01-31T00:33:07.131Z",
-    "finishTime": "2023-01-31T00:33:57.814Z"
+    "startTime": "2023-02-01T00:35:53.528Z",
+    "finishTime": "2023-02-01T00:36:44.940Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript=false --no-experimental-app --import-alias=\"@/*\"\r",
@@ -78,9 +78,9 @@
     "├─ @types/react-dom@18.0.10\r",
     "├─ @types/react@18.0.27\r",
     "├─ @types/scheduler@0.16.2\r",
-    "├─ @typescript-eslint/parser@5.49.0\r",
-    "├─ @typescript-eslint/scope-manager@5.49.0\r",
-    "├─ @typescript-eslint/typescript-estree@5.49.0\r",
+    "├─ @typescript-eslint/parser@5.50.0\r",
+    "├─ @typescript-eslint/scope-manager@5.50.0\r",
+    "├─ @typescript-eslint/typescript-estree@5.50.0\r",
     "├─ acorn-jsx@5.3.2\r",
     "├─ acorn@8.8.2\r",
     "├─ ajv@6.12.6\r",
@@ -112,7 +112,6 @@
     "├─ define-lazy-prop@2.0.0\r",
     "├─ emoji-regex@9.2.2\r",
     "├─ enhanced-resolve@5.12.0\r",
-    "├─ es-abstract@1.21.1\r",
     "├─ es-get-iterator@1.1.3\r",
     "├─ es-set-tostringtag@2.0.1\r",
     "├─ es-to-primitive@1.2.1\r",
@@ -163,6 +162,7 @@
     "├─ is-date-object@1.0.5\r",
     "├─ is-docker@2.2.1\r",
     "├─ is-extglob@2.1.1\r",
+    "├─ is-glob@4.0.3\r",
     "├─ is-map@2.0.2\r",
     "├─ is-negative-zero@2.0.2\r",
     "├─ is-number-object@1.0.7\r",
@@ -255,13 +255,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 26.54s.\r",
+    "Done in 27.31s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 27.70s.\r",
+    "Done in 28.40s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -296,7 +296,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 13.64s.\r",
+    "Done in 12.96s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -319,7 +319,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4049507053",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4059671938",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
