@@ -1,9 +1,9 @@
 {
   "generator": "fresh-redwood-app",
-  "size": 564736195,
+  "size": 565677862,
   "timing": {
-    "startTime": "2023-02-01T00:35:44.626Z",
-    "finishTime": "2023-02-01T00:37:48.863Z"
+    "startTime": "2023-02-02T00:33:04.129Z",
+    "finishTime": "2023-02-02T00:35:46.139Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript=false --git-init=false' < /dev/null; echo 'Finished running generator.'\r",
@@ -30,11 +30,10 @@
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/typescript-react-apollo@3.3.7\" has unmet peer dependency \"graphql-tag@^2.0.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > ts-node@10.9.1\" has unmet peer dependency \"@types/node@*\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > cosmiconfig-typescript-loader@4.3.0\" has unmet peer dependency \"@types/node@*\".\r",
-    "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > graphql-config@4.4.0\" has unmet peer dependency \"cosmiconfig-toml-loader@^1.0.0\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @graphql-codegen/cli > @whatwg-node/fetch > @whatwg-node/node-fetch@0.0.1\" has unmet peer dependency \"@types/node@^18.0.6\".\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > graphql-yoga > @whatwg-node/server@0.5.8\" has unmet peer dependency \"@types/node@^18.0.6\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
-    "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@4.0.0\" with binaries:\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-redwood-app@4.0.1\" with binaries:\r",
     "      - create-redwood-app\r",
     "\u001b[93m------------------------------------------------------------------\r",
     "\u001b[0m🌲⚡️ \u001b[97;1;4mWelcome to RedwoodJS!\u001b[0m ⚡️🌲\r",
@@ -78,14 +77,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 122.50s.\r",
+    "\u001b[0mDone in 160.56s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
-    "exit\r",
-    ""
+    "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, automatically generated everyday with \"yarn create redwood-app --typescript=false --git-init=false\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4059671938",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4070043237",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
