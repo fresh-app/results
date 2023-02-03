@@ -1,9 +1,9 @@
 {
   "generator": "fresh-redwood-app",
-  "size": 565677862,
+  "size": 567679655,
   "timing": {
-    "startTime": "2023-02-02T00:33:04.129Z",
-    "finishTime": "2023-02-02T00:35:46.139Z"
+    "startTime": "2023-02-03T00:32:42.970Z",
+    "finishTime": "2023-02-03T00:34:54.606Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create redwood-app fresh-app --typescript=false --git-init=false' < /dev/null; echo 'Finished running generator.'\r",
@@ -11,19 +11,19 @@
     "exit\r",
     "\u001b[1myarn create v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
-    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core@3.11.1: The `apollo-server-core` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-types@3.7.1: The `apollo-server-types` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core@3.11.1: The `apollo-server-core` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-types@3.7.1: The `apollo-server-types` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/telemetry > @redwoodjs/structure > @prisma/internals > temp-write > uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
-    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-datasource@3.3.2: The `apollo-datasource` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
-    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-reporting-protobuf@3.3.3: The `apollo-reporting-protobuf` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/usage-reporting-protobuf` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-types > apollo-reporting-protobuf@3.3.3: The `apollo-reporting-protobuf` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/usage-reporting-protobuf` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
-    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-env@4.2.1: The `apollo-server-env` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/utils.fetcher` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-reporting-protobuf@3.3.3: The `apollo-reporting-protobuf` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/usage-reporting-protobuf` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-types > apollo-server-env@4.2.1: The `apollo-server-env` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/utils.fetcher` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
-    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-datasource > apollo-server-env@4.2.1: The `apollo-server-env` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/utils.fetcher` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-env@4.2.1: The `apollo-server-env` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/utils.fetcher` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-plugin-base@3.7.1: The `apollo-server-plugin-base` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-plugin-base > apollo-server-types@3.7.1: The `apollo-server-types` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-server-errors@3.3.1: The `apollo-server-errors` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/server` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-datasource@3.3.2: The `apollo-datasource` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
+    "\u001b[33mwarning\u001b[0m create-redwood-app > @redwoodjs/internal > @redwoodjs/graphql-server > @escape.tech/graphql-armor > apollo-server-core > apollo-datasource > apollo-server-env@4.2.1: The `apollo-server-env` package is part of Apollo Server v2 and v3, which are now deprecated (end-of-life October 22nd 2023). This package's functionality is now found in the `@apollo/utils.fetcher` package. See https://www.apollographql.com/docs/apollo-server/previous-versions/ for more details.\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \"create-redwood-app > @redwoodjs/internal > babel-plugin-graphql-tag@3.3.0\" has unmet peer dependency \"graphql-tag@^2.10.1\".\r",
@@ -77,13 +77,13 @@
     "\u001b[93m > \u001b[32mcd fresh-app\r",
     "\u001b[93m > \u001b[32myarn rw dev\r",
     "\r",
-    "\u001b[0mDone in 160.56s.\r",
+    "\u001b[0mDone in 130.48s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Redwood app, automatically generated everyday with \"yarn create redwood-app --typescript=false --git-init=false\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4070043237",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4079924921",
   "frameworkUrl": "https://redwoodjs.com/",
   "frameworkDocumentationUrl": "https://redwoodjs.com/docs/tutorial/foreword"
 }
