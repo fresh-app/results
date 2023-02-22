@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 354641107,
+  "size": 354641429,
   "timing": {
-    "startTime": "2023-02-21T00:36:11.153Z",
-    "finishTime": "2023-02-21T00:37:02.308Z"
+    "startTime": "2023-02-22T00:28:56.498Z",
+    "finishTime": "2023-02-22T00:29:48.573Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript --no-experimental-app --import-alias=\"@/*\"\r",
@@ -43,7 +43,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 199 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 198 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @next/font@13.1.6\r",
     "├─ @types/node@18.14.0\r",
@@ -170,7 +170,6 @@
     "├─ is-set@2.0.2\r",
     "├─ is-string@1.0.7\r",
     "├─ is-symbol@1.0.4\r",
-    "├─ is-typed-array@1.1.10\r",
     "├─ is-weakmap@2.0.1\r",
     "├─ is-weakref@1.0.2\r",
     "├─ is-weakset@2.0.2\r",
@@ -255,13 +254,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 26.15s.\r",
+    "Done in 28.48s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 27.23s.\r",
+    "Done in 29.80s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -296,7 +295,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 13.66s.\r",
+    "Done in 12.86s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -319,7 +318,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4228119829",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4238132753",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
