@@ -1,12 +1,12 @@
 {
   "generator": "fresh-next-app",
-  "size": 354641599,
+  "size": 354641452,
   "timing": {
-    "startTime": "2023-02-22T00:29:07.159Z",
-    "finishTime": "2023-02-22T00:30:05.144Z"
+    "startTime": "2023-02-23T00:30:26.611Z",
+    "finishTime": "2023-02-23T00:31:27.366Z"
   },
   "log": [
-    "src-dir --typescript=false --no-experimental-app --import-alias=\"@/*\"--eslint --s\r",
+    "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript=false --no-experimental-app --import-alias=\"@/*\"\r",
     "> cd fresh-app\r",
     "> yarn build' < /dev/null; echo 'Finished running generator.'\r",
     "+ yarn create next-app fresh-app --eslint --src-dir --typescript=false --no-experimental-app '--import-alias=@/*'\r",
@@ -43,7 +43,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 197 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 200 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @next/font@13.1.6\r",
     "├─ @types/node@18.14.0\r",
@@ -162,6 +162,7 @@
     "├─ is-date-object@1.0.5\r",
     "├─ is-docker@2.2.1\r",
     "├─ is-extglob@2.1.1\r",
+    "├─ is-glob@4.0.3\r",
     "├─ is-map@2.0.2\r",
     "├─ is-negative-zero@2.0.2\r",
     "├─ is-number-object@1.0.7\r",
@@ -170,6 +171,7 @@
     "├─ is-set@2.0.2\r",
     "├─ is-string@1.0.7\r",
     "├─ is-symbol@1.0.4\r",
+    "├─ is-typed-array@1.1.10\r",
     "├─ is-weakmap@2.0.1\r",
     "├─ is-weakref@1.0.2\r",
     "├─ is-weakset@2.0.2\r",
@@ -187,6 +189,7 @@
     "├─ lodash.merge@4.6.2\r",
     "├─ loose-envify@1.4.0\r",
     "├─ lru-cache@6.0.0\r",
+    "├─ merge2@1.4.1\r",
     "├─ micromatch@4.0.5\r",
     "├─ minimatch@3.1.2\r",
     "├─ minimist@1.2.8\r",
@@ -253,13 +256,13 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 30.41s.\r",
+    "Done in 31.53s.\r",
     "\r",
     "Initializing project with template: default \r",
     "\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 31.65s.\r",
+    "Done in 33.15s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -294,7 +297,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 16.34s.\r",
+    "Done in 17.06s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -317,7 +320,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4238132753",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4248243853",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
