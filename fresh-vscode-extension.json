@@ -1,14 +1,14 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 95565763,
+  "size": 95593802,
   "timing": {
-    "startTime": "2023-02-26T00:39:39.636Z",
-    "finishTime": "2023-02-26T00:40:13.402Z"
+    "startTime": "2023-02-27T00:37:09.692Z",
+    "finishTime": "2023-02-27T00:37:50.378Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
-    "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
+    "+ yes ''\r",
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.4, yo@4.3.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
@@ -55,13 +55,6 @@
     "\r",
     "    --template <template-directory>\r",
     "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
-    "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
@@ -69,7 +62,14 @@
     "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
     "on how to modify, test and publish your extension.\r",
     "\r",
-    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "    --bare                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "--separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
+    "\r",
     "\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4272541332",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4277722414",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
