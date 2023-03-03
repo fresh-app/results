@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdx-lib",
-  "size": 298688808,
+  "size": 298680044,
   "timing": {
-    "startTime": "2023-03-02T00:36:00.546Z",
-    "finishTime": "2023-03-02T00:36:59.821Z"
+    "startTime": "2023-03-03T02:27:22.952Z",
+    "finishTime": "2023-03-03T02:28:26.883Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm config set init-author-name Author && rm -rf fresh-lib && npx tsdx create fresh-lib --template=basic && mv fresh-lib fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -13,8 +13,8 @@
     "+ npx tsdx create fresh-lib --template=basic\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following package was not found and will be installed: tsdx@0.14.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m urix@0.1.0: Please see https://github.com/lydell/urix#deprecated\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-url@0.4.1: See https://github.com/lydell/source-map-url#deprecated\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m resolve-url@0.2.1: https://github.com/lydell/resolve-url#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m source-map-resolve@0.6.0: See https://github.com/lydell/source-map-resolve#deprecated\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m har-validator@5.1.5: this library is no longer supported\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m uuid@3.4.0: Please upgrade  to version 7 or higher.  Older versions may use Math.random() in certain circumstances, which is known to be problematic.  See https://v8.dev/blog/math-random for details.\r",
@@ -56,9 +56,9 @@
     "  \u001b[32mhttps://github.com/formium/tsdx/issues\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m9.5.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.5.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.5.1\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m8.15.0\u001b[0m -> \u001b[32m9.6.0\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.6.0\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.6.0\u001b[0m to update!\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "+ mv fresh-lib fresh-app\r",
     "Finished running generator.\r",
@@ -66,7 +66,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh TypeScript library, built with TSDX, automatically generated everyday with \"npx tsdx create --template=basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4309342314",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4319626485",
   "frameworkUrl": "https://tsdx.io/",
   "frameworkDocumentationUrl": "https://tsdx.io/"
 }
