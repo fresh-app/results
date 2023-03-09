@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 370229348,
+  "size": 370233398,
   "timing": {
-    "startTime": "2023-03-08T00:34:52.731Z",
-    "finishTime": "2023-03-08T00:35:59.277Z"
+    "startTime": "2023-03-09T00:33:02.524Z",
+    "finishTime": "2023-03-09T00:34:02.343Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript=false --no-experimental-app --import-alias=\"@/*\"\r",
@@ -255,10 +255,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 35.67s.\r",
+    "Done in 31.30s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 37.02s.\r",
+    "Done in 33.49s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -293,7 +293,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 19.05s.\r",
+    "Done in 16.38s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -316,7 +316,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4359898773",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4369839667",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
