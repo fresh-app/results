@@ -2,8 +2,8 @@
   "generator": "fresh-rush-monorepo",
   "size": 1724346,
   "timing": {
-    "startTime": "2023-03-10T00:33:12.504Z",
-    "finishTime": "2023-03-10T00:33:32.281Z"
+    "startTime": "2023-03-11T00:29:10.483Z",
+    "finishTime": "2023-03-11T00:29:33.890Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'npm i -g @microsoft/rush && mkdir fresh-app && cd fresh-app && rush init && rush update' < /dev/null; echo 'Finished running generator.'\r",
@@ -13,7 +13,7 @@
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m read-package-tree@5.1.6: The functionality that this package provided is now in @npmcli/arborist\r",
     "\r",
-    "added 549 packages, and audited 550 packages in 15s\r",
+    "added 549 packages, and audited 550 packages in 18s\r",
     "\r",
     "72 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -63,10 +63,10 @@
     "\r",
     "Starting \"rush update\"\r",
     "\r",
+    "Script is out of date; updating \"/workspace/fresh-app/common/scripts/install-run.js\"\r",
     "Script is out of date; updating \"/workspace/fresh-app/common/scripts/install-run-rush.js\"\r",
     "Script is out of date; updating \"/workspace/fresh-app/common/scripts/install-run-rushx.js\"\r",
     "Script is out of date; updating \"/workspace/fresh-app/common/scripts/install-run-rush-pnpm.js\"\r",
-    "Script is out of date; updating \"/workspace/fresh-app/common/scripts/install-run.js\"\r",
     "\r",
     "\u001b[36mIgnoring Git validation because this is not a Git working folder.\r",
     "\r",
@@ -80,7 +80,7 @@
     "\r",
     "Running \"npm install\" in /home/pwuser/.rush/node-v16.17.0/pnpm-6.7.1\r",
     "\r",
-    "added 1 package, and audited 2 packages in 848ms\r",
+    "added 1 package, and audited 2 packages in 1s\r",
     "\r",
     "1 package is looking for funding\r",
     "  run `npm fund` for details\r",
@@ -130,14 +130,14 @@
     "\r",
     "Rush refreshed some files in the \"common/scripts\" folder.  Please commit this change to Git.\r",
     "\r",
-    "\u001b[32mRush update finished successfully. (2.13 seconds)\r",
+    "\u001b[32mRush update finished successfully. (2.35 seconds)\r",
     "\u001b[0mFinished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\r",
     ""
   ],
   "description": "Fresh monorepo project, built with Rush, automatically generated everyday with \"rush init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4380096656",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4389593439",
   "frameworkUrl": "https://rushjs.io/",
   "frameworkDocumentationUrl": "https://rushjs.io/pages/intro/welcome/"
 }
