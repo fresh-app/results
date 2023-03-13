@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 351466775,
+  "size": 351522220,
   "timing": {
-    "startTime": "2023-03-12T00:33:19.901Z",
-    "finishTime": "2023-03-12T00:34:43.302Z"
+    "startTime": "2023-03-13T00:32:06.288Z",
+    "finishTime": "2023-03-13T00:33:23.496Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -32,9 +32,9 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 30.97s.\r",
+    "Done in 31.44s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 65.62s.\r",
+    "Done in 63.35s.\r",
     "cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -54,12 +54,12 @@
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
     "Remix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 86.603 ms\r",
+    "HEAD / 200 - - 58.126 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 9.746 ms\r",
+    "GET / 200 - - 8.942 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 6.228 ms\r",
+    "GET / 200 - - 4.919 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -67,7 +67,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4394888434",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4400217954",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
