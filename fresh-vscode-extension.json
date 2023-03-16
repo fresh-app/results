@@ -2,13 +2,13 @@
   "generator": "fresh-vscode-extension",
   "size": 95884579,
   "timing": {
-    "startTime": "2023-03-15T00:35:06.545Z",
-    "finishTime": "2023-03-15T00:35:42.496Z"
+    "startTime": "2023-03-16T00:37:37.143Z",
+    "finishTime": "2023-03-16T00:38:13.989Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
-    "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
+    "+ yes ''\r",
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.4, yo@4.3.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
@@ -48,8 +48,6 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "Your extension fresh-extension has been created!\r",
-    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -62,6 +60,8 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
+    "Your extension fresh-extension has been created!\r",
+    "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
@@ -73,9 +73,9 @@
     "\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 8.15.0 -> 9.6.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v9.6.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run npm install -g npm@9.6.1 to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 8.15.0 -> 9.6.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v9.6.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run npm install -g npm@9.6.2 to update!\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
@@ -83,7 +83,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4421487746",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4432266300",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
