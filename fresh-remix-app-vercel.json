@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 351152208,
+  "size": 351494220,
   "timing": {
-    "startTime": "2023-03-16T00:34:05.147Z",
-    "finishTime": "2023-03-16T00:35:28.723Z"
+    "startTime": "2023-03-17T00:32:20.217Z",
+    "finishTime": "2023-03-17T00:33:29.501Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -32,10 +32,10 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 32.78s.\r",
+    "Done in 28.47s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
+    "Done in 55.82s.\r",
     "cd /workspace/fresh-app\r",
-    "Done in 66.72s.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn dev' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -54,12 +54,12 @@
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
     "Remix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 80.036 ms\r",
+    "HEAD / 200 - - 58.979 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 10.098 ms\r",
+    "GET / 200 - - 8.452 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 7.468 ms\r",
+    "GET / 200 - - 5.059 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -67,7 +67,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4432266300",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4442908049",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
