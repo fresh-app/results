@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 347807982,
+  "size": 347808160,
   "timing": {
-    "startTime": "2023-03-18T00:30:38.953Z",
-    "finishTime": "2023-03-18T00:31:32.608Z"
+    "startTime": "2023-03-19T00:34:29.277Z",
+    "finishTime": "2023-03-19T00:35:22.595Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript --no-experimental-app --import-alias=\"@/*\"\r",
@@ -45,7 +45,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 201 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 202 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @types/node@18.15.3\r",
     "├─ @types/react-dom@18.0.11\r",
@@ -166,6 +166,7 @@
     "├─ is-date-object@1.0.5\r",
     "├─ is-docker@2.2.1\r",
     "├─ is-extglob@2.1.1\r",
+    "├─ is-glob@4.0.3\r",
     "├─ is-map@2.0.2\r",
     "├─ is-negative-zero@2.0.2\r",
     "├─ is-number-object@1.0.7\r",
@@ -258,10 +259,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 28.55s.\r",
+    "Done in 28.57s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 29.69s.\r",
+    "Done in 29.71s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -295,7 +296,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 14.61s.\r",
+    "Done in 13.95s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -318,7 +319,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4452708795",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4458052535",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
