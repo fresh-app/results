@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-web-extension",
   "size": 119877047,
   "timing": {
-    "startTime": "2023-03-19T05:10:55.864Z",
-    "finishTime": "2023-03-19T05:11:29.014Z"
+    "startTime": "2023-03-19T05:33:23.228Z",
+    "finishTime": "2023-03-19T05:33:57.737Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -25,7 +25,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.4\" has no binaries\r",
-    "Done in 17.13s.\r",
+    "Done in 17.49s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -68,6 +68,8 @@
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\r",
+    "Your extension fresh-extension has been created!\r",
+    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -79,8 +81,6 @@
     "    -q, --quiet           be quiet\r",
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
-    "\r",
-    "Your extension fresh-extension has been created!\r",
     "\r",
     "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
     "on how to modify, test and publish your extension.\r",
@@ -96,7 +96,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4459043186",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4459130949",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
