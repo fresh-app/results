@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 347808023,
+  "size": 347808221,
   "timing": {
-    "startTime": "2023-03-19T05:30:54.764Z",
-    "finishTime": "2023-03-19T05:31:46.832Z"
+    "startTime": "2023-03-20T00:32:27.710Z",
+    "finishTime": "2023-03-20T00:33:19.265Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript --no-experimental-app --import-alias=\"@/*\"\r",
@@ -45,7 +45,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 200 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 201 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @types/node@18.15.3\r",
     "├─ @types/react-dom@18.0.11\r",
@@ -92,7 +92,6 @@
     "├─ argparse@2.0.1\r",
     "├─ aria-query@5.1.3\r",
     "├─ array-buffer-byte-length@1.0.0\r",
-    "├─ array-includes@3.1.6\r",
     "├─ array-union@2.1.0\r",
     "├─ array.prototype.flat@1.3.1\r",
     "├─ array.prototype.tosorted@1.1.1\r",
@@ -166,6 +165,7 @@
     "├─ is-date-object@1.0.5\r",
     "├─ is-docker@2.2.1\r",
     "├─ is-extglob@2.1.1\r",
+    "├─ is-glob@4.0.3\r",
     "├─ is-map@2.0.2\r",
     "├─ is-negative-zero@2.0.2\r",
     "├─ is-number-object@1.0.7\r",
@@ -174,6 +174,7 @@
     "├─ is-set@2.0.2\r",
     "├─ is-string@1.0.7\r",
     "├─ is-symbol@1.0.4\r",
+    "├─ is-typed-array@1.1.10\r",
     "├─ is-weakmap@2.0.1\r",
     "├─ is-weakref@1.0.2\r",
     "├─ is-weakset@2.0.2\r",
@@ -191,8 +192,8 @@
     "├─ lodash.merge@4.6.2\r",
     "├─ loose-envify@1.4.0\r",
     "├─ lru-cache@6.0.0\r",
+    "├─ merge2@1.4.1\r",
     "├─ micromatch@4.0.5\r",
-    "├─ minimatch@3.1.2\r",
     "├─ minimist@1.2.8\r",
     "├─ ms@2.1.2\r",
     "├─ nanoid@3.3.4\r",
@@ -257,10 +258,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 25.75s.\r",
+    "Done in 25.93s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 27.31s.\r",
+    "Done in 27.54s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -294,7 +295,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 14.15s.\r",
+    "Done in 14.25s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -317,7 +318,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4459130949",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4463502487",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
