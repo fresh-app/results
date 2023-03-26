@@ -1,16 +1,16 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 95852477,
+  "size": 95852305,
   "timing": {
-    "startTime": "2023-03-25T00:31:10.045Z",
-    "finishTime": "2023-03-25T00:31:51.876Z"
+    "startTime": "2023-03-26T00:34:44.168Z",
+    "finishTime": "2023-03-26T00:35:16.144Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.5, yo@4.3.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@4.3.1, generator-code@1.7.5\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
@@ -78,7 +78,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4516456102",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4521917375",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
