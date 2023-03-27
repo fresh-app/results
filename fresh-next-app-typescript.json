@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 347842301,
+  "size": 347841599,
   "timing": {
-    "startTime": "2023-03-26T00:32:24.960Z",
-    "finishTime": "2023-03-26T00:33:17.614Z"
+    "startTime": "2023-03-27T00:28:58.744Z",
+    "finishTime": "2023-03-27T00:29:47.996Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript --no-experimental-app --import-alias=\"@/*\"\r",
@@ -103,7 +103,7 @@
     "├─ brace-expansion@1.1.11\r",
     "├─ braces@3.0.2\r",
     "├─ callsites@3.1.0\r",
-    "├─ caniuse-lite@1.0.30001469\r",
+    "├─ caniuse-lite@1.0.30001470\r",
     "├─ chalk@4.1.2\r",
     "├─ client-only@0.0.1\r",
     "├─ color-convert@2.0.1\r",
@@ -195,7 +195,7 @@
     "├─ minimatch@3.1.2\r",
     "├─ minimist@1.2.8\r",
     "├─ ms@2.1.2\r",
-    "├─ nanoid@3.3.4\r",
+    "├─ nanoid@3.3.6\r",
     "├─ natural-compare@1.4.0\r",
     "├─ next@13.2.4\r",
     "├─ object-assign@4.1.1\r",
@@ -257,10 +257,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 27.09s.\r",
+    "Done in 24.51s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 28.57s.\r",
+    "Done in 25.85s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -294,7 +294,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 14.13s.\r",
+    "Done in 13.64s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -317,7 +317,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4521917375",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4527418751",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
