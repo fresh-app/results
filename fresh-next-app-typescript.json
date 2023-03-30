@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 347856139,
+  "size": 347870323,
   "timing": {
-    "startTime": "2023-03-29T00:35:12.224Z",
-    "finishTime": "2023-03-29T00:36:15.045Z"
+    "startTime": "2023-03-30T00:30:51.887Z",
+    "finishTime": "2023-03-30T00:31:49.236Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript --no-experimental-app --import-alias=\"@/*\"\r",
@@ -45,7 +45,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 202 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 201 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @types/node@18.15.11\r",
     "├─ @types/react-dom@18.0.11\r",
@@ -59,7 +59,7 @@
     "\u001b[34minfo\u001b[0m All dependencies\r",
     "├─ @babel/runtime@7.21.0\r",
     "├─ @eslint-community/eslint-utils@4.4.0\r",
-    "├─ @eslint-community/regexpp@4.4.1\r",
+    "├─ @eslint-community/regexpp@4.5.0\r",
     "├─ @eslint/eslintrc@2.0.2\r",
     "├─ @eslint/js@8.37.0\r",
     "├─ @humanwhocodes/config-array@0.11.8\r",
@@ -122,7 +122,7 @@
     "├─ escape-string-regexp@4.0.0\r",
     "├─ eslint-config-next@13.2.4\r",
     "├─ eslint-import-resolver-node@0.3.7\r",
-    "├─ eslint-import-resolver-typescript@3.5.3\r",
+    "├─ eslint-import-resolver-typescript@3.5.4\r",
     "├─ eslint-module-utils@2.7.4\r",
     "├─ eslint-plugin-import@2.27.5\r",
     "├─ eslint-plugin-jsx-a11y@6.7.1\r",
@@ -192,7 +192,6 @@
     "├─ lodash.merge@4.6.2\r",
     "├─ loose-envify@1.4.0\r",
     "├─ lru-cache@6.0.0\r",
-    "├─ merge2@1.4.1\r",
     "├─ micromatch@4.0.5\r",
     "├─ minimatch@3.1.2\r",
     "├─ minimist@1.2.8\r",
@@ -259,10 +258,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 32.89s.\r",
+    "Done in 28.54s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 34.31s.\r",
+    "Done in 29.93s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -296,7 +295,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 17.64s.\r",
+    "Done in 16.68s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -319,7 +318,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app --typescript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4548955373",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4559281135",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
