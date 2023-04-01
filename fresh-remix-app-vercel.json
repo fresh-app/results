@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 351728234,
+  "size": 352017983,
   "timing": {
-    "startTime": "2023-03-31T00:30:34.744Z",
-    "finishTime": "2023-03-31T00:31:36.185Z"
+    "startTime": "2023-04-01T00:30:27.932Z",
+    "finishTime": "2023-04-01T00:31:43.911Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -15,7 +15,7 @@
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
-    "\u001b[32msuccess\u001b[0m Installed \"create-remix@1.14.3\" with binaries:\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-remix@1.15.0\" with binaries:\r",
     "      - create-remix\r",
     "\u001b[32m?\u001b[0m \u001b[1mWhat type of app do you want to create?\u001b[0m \u001b[36mJust the basics\r",
     "\u001b[32m?\u001b[0m \u001b[1mWhere do you want to deploy? Choose Remix App Server if you're unsure; it's easy to change deployment targets.\u001b[0m \u001b[36mVercel\r",
@@ -32,10 +32,10 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 23.92s.\r",
+    "Done in 30.47s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 51.63s.\r",
     "cd /workspace/fresh-app\r",
+    "Done in 63.22s.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn dev' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -46,12 +46,12 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix dev\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 59.661 ms\r",
+    "HEAD / 200 - - 72.600 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 7.229 ms\r",
+    "GET / 200 - - 10.316 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 4.805 ms\r",
+    "GET / 200 - - 6.068 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -59,7 +59,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4570285289",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4580254966",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
