@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 120580838,
+  "size": 120581857,
   "timing": {
-    "startTime": "2023-04-03T00:33:49.228Z",
-    "finishTime": "2023-04-03T00:34:38.756Z"
+    "startTime": "2023-04-04T00:31:43.011Z",
+    "finishTime": "2023-04-04T00:32:35.644Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -13,9 +13,9 @@
     "exit\r",
     "\u001b[1myarn global v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
-    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
+    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > npm-registry-fetch > make-fetch-happen > cacache > @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
@@ -25,7 +25,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.5\" has no binaries\r",
-    "Done in 17.47s.\r",
+    "Done in 20.14s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -101,7 +101,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4591635120",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4602627858",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
