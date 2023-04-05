@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 347904423,
+  "size": 347943298,
   "timing": {
-    "startTime": "2023-04-04T00:29:18.348Z",
-    "finishTime": "2023-04-04T00:30:09.838Z"
+    "startTime": "2023-04-05T00:25:26.332Z",
+    "finishTime": "2023-04-05T00:26:19.110Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create next-app fresh-app --eslint --src-dir --typescript=false --no-experimental-app --import-alias=\"@/*\"\r",
@@ -45,7 +45,7 @@
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "\u001b[32msuccess\u001b[0m Saved 202 new dependencies.\r",
+    "\u001b[32msuccess\u001b[0m Saved 200 new dependencies.\r",
     "\u001b[34minfo\u001b[0m Direct dependencies\r",
     "├─ @types/node@18.15.11\r",
     "├─ @types/react-dom@18.0.11\r",
@@ -103,7 +103,7 @@
     "├─ brace-expansion@1.1.11\r",
     "├─ braces@3.0.2\r",
     "├─ callsites@3.1.0\r",
-    "├─ caniuse-lite@1.0.30001473\r",
+    "├─ caniuse-lite@1.0.30001474\r",
     "├─ chalk@4.1.2\r",
     "├─ client-only@0.0.1\r",
     "├─ color-convert@2.0.1\r",
@@ -174,7 +174,6 @@
     "├─ is-set@2.0.2\r",
     "├─ is-string@1.0.7\r",
     "├─ is-symbol@1.0.4\r",
-    "├─ is-typed-array@1.1.10\r",
     "├─ is-weakmap@2.0.1\r",
     "├─ is-weakref@1.0.2\r",
     "├─ is-weakset@2.0.2\r",
@@ -192,7 +191,6 @@
     "├─ lodash.merge@4.6.2\r",
     "├─ loose-envify@1.4.0\r",
     "├─ lru-cache@6.0.0\r",
-    "├─ merge2@1.4.1\r",
     "├─ micromatch@4.0.5\r",
     "├─ minimatch@3.1.2\r",
     "├─ minimist@1.2.8\r",
@@ -259,10 +257,10 @@
     "├─ word-wrap@1.2.3\r",
     "├─ yallist@4.0.0\r",
     "└─ yocto-queue@0.1.0\r",
-    "Done in 25.82s.\r",
+    "Done in 25.77s.\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
-    "Done in 27.05s.\r",
+    "Done in 27.07s.\r",
     "+ cd fresh-app\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
@@ -296,7 +294,7 @@
     "λ  (Server)  server-side renders at runtime (uses \u001b[36mgetInitialProps\u001b[0m or \u001b[36mgetServerSideProps\u001b[0m)\r",
     "○  (Static)  automatically rendered as static HTML (uses no initial props)\r",
     "\r",
-    "Done in 14.37s.\r",
+    "Done in 15.10s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -319,7 +317,7 @@
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"yarn create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4602627858",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4613577641",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
