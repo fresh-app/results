@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 95893716,
   "timing": {
-    "startTime": "2023-04-09T00:31:43.223Z",
-    "finishTime": "2023-04-09T00:32:16.685Z"
+    "startTime": "2023-04-10T00:30:32.957Z",
+    "finishTime": "2023-04-10T00:31:11.509Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -53,7 +53,16 @@
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
-    "    --template <template-directory>To start editing with Visual Studio Code, use the following commands:\r",
+    "    --template <template-directory>\r",
+    "                          directory from which templates will be used\r",
+    "    --bare                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    --separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
+    "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
     "\r",
@@ -63,22 +72,13 @@
     "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
     "\r",
-    "\r",
-    "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
-    "\r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4647841093",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4653267517",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
