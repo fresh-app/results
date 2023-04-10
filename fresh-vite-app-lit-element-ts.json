@@ -2,8 +2,8 @@
   "generator": "fresh-vite-app-lit-element-ts",
   "size": 85882536,
   "timing": {
-    "startTime": "2023-04-09T00:30:09.493Z",
-    "finishTime": "2023-04-09T00:30:21.407Z"
+    "startTime": "2023-04-10T00:28:46.485Z",
+    "finishTime": "2023-04-10T00:28:58.413Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn create vite fresh-app --template=lit-ts && cd fresh-app && yarn && yarn build' < /dev/null; echo 'Finished running generator.'\r",
@@ -27,7 +27,7 @@
     "  yarn\r",
     "  yarn dev\r",
     "\r",
-    "Done in 1.02s.\r",
+    "Done in 0.61s.\r",
     "+ cd fresh-app\r",
     "+ yarn\r",
     "\u001b[1myarn install v1.22.19\r",
@@ -37,21 +37,21 @@
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 6.46s.\r",
+    "Done in 7.05s.\r",
     "+ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ tsc && vite build\r",
     "\u001b[36;22mvite v4.2.1 \u001b[32mbuilding for production...\r",
     "✓\u001b[0m 3 modules transformed.\r",
     "\u001b[2mdist/\u001b[36;22mfresh-app.js  \u001b[39;1;2m3.45 kB\u001b[22m │ gzip: 1.73 kB\r",
-    "\u001b[32;22m✓\u001b[0m built in 100ms\r",
-    "Done in 1.73s.\r",
+    "\u001b[32;22m✓\u001b[0m built in 120ms\r",
+    "Done in 1.64s.\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Lit Element, automatically generated everyday with \"yarn create vite fresh-app --template=lit-ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4647841093",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4653267517",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
