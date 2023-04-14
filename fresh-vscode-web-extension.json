@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 120671386,
+  "size": 120672368,
   "timing": {
-    "startTime": "2023-04-13T00:28:56.556Z",
-    "finishTime": "2023-04-13T00:29:39.981Z"
+    "startTime": "2023-04-14T00:29:29.602Z",
+    "finishTime": "2023-04-14T00:30:10.632Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -14,9 +14,9 @@
     "\u001b[1myarn global v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
-    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
+    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > pacote > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
+    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > pacote > npm-registry-fetch > make-fetch-happen > cacache > @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
-    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > npm-registry-fetch > make-fetch-happen > cacache > @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[33mwarning\u001b[0m \"yo > yeoman-environment@3.15.1\" has unmet peer dependency \"mem-fs@^1.2.0 || ^2.0.0\".\r",
@@ -25,7 +25,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.5\" has no binaries\r",
-    "Done in 16.27s.\r",
+    "Done in 15.59s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -63,10 +63,15 @@
     "\r",
     "added 408 packages, and audited 409 packages in 22s\r",
     "\r",
-    "74 packages are looking for funding\r",
+    "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m9.3.1\u001b[0m -> \u001b[32m9.6.4\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.6.4\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.6.4\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
@@ -96,7 +101,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4684167294",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4695051013",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
