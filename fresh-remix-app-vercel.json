@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 283993503,
+  "size": 283994642,
   "timing": {
-    "startTime": "2023-04-30T00:31:31.428Z",
-    "finishTime": "2023-04-30T00:32:36.086Z"
+    "startTime": "2023-05-01T00:31:15.260Z",
+    "finishTime": "2023-05-01T00:32:32.506Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -32,9 +32,9 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 27.39s.\r",
+    "Done in 29.34s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 54.58s.\r",
+    "Done in 63.73s.\r",
     "cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -46,21 +46,20 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix dev\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 59.340 ms\r",
+    "HEAD / 200 - - 76.992 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 8.191 ms\r",
+    "GET / 200 - - 9.605 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 4.855 ms\r",
+    "GET / 200 - - 6.226 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
     "pwuser@factory:/workspace/fresh-app$ exit\r",
-    "exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4841524637",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4847198045",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
