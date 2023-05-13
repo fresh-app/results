@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 93876683,
+  "size": 93878914,
   "timing": {
-    "startTime": "2023-05-12T00:30:25.996Z",
-    "finishTime": "2023-05-12T00:31:09.761Z"
+    "startTime": "2023-05-13T00:28:52.151Z",
+    "finishTime": "2023-05-13T00:29:39.612Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -14,9 +14,9 @@
     "\u001b[1myarn global v1.22.19\r",
     "\u001b[22;2m[1/4]\u001b[0m Resolving packages...\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
-    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > pacote > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
+    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > cacache > @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
-    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > pacote > npm-registry-fetch > make-fetch-happen > cacache > @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
+    "\u001b[33mwarning\u001b[0m yo > yeoman-environment > @npmcli/arborist > npm-registry-fetch > make-fetch-happen > cacache > @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
     "\u001b[2m[2/4]\u001b[0m Fetching packages...\r",
     "\u001b[2m[3/4]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
@@ -24,7 +24,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.6\" has no binaries\r",
-    "Done in 16.31s.\r",
+    "Done in 18.24s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -60,7 +60,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 396 packages, and audited 397 packages in 22s\r",
+    "added 396 packages, and audited 397 packages in 24s\r",
     "\r",
     "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -100,7 +100,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4953831142",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/4964075078",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
