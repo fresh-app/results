@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 214240603,
+  "size": 214250133,
   "timing": {
-    "startTime": "2023-05-23T00:31:08.018Z",
-    "finishTime": "2023-05-23T00:32:20.970Z"
+    "startTime": "2023-05-24T00:29:37.213Z",
+    "finishTime": "2023-05-24T00:30:41.932Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -29,17 +29,17 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 25.56s.\r",
+    "Done in 23.47s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
+    "Done in 51.16s.\r",
     "cd fresh-app\r",
-    "Done in 59.11s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix build\r",
     "\u001b[0mBuilding Remix app in production mode...\r",
-    "Built in 817ms\r",
-    "Done in 2.53s.\r",
+    "Built in 781ms\r",
+    "Done in 2.42s.\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn start' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -50,12 +50,12 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix-serve build\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 36.178 ms\r",
+    "HEAD / 200 - - 28.169 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 7.790 ms\r",
+    "GET / 200 - - 6.514 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 3.710 ms\r",
+    "GET / 200 - - 4.229 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "\r",
@@ -64,7 +64,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5051743087",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5063339175",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
