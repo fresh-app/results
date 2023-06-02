@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 214789184,
+  "size": 215674227,
   "timing": {
-    "startTime": "2023-06-01T00:40:48.865Z",
-    "finishTime": "2023-06-01T00:41:44.751Z"
+    "startTime": "2023-06-02T00:32:19.716Z",
+    "finishTime": "2023-06-02T00:33:13.785Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -29,15 +29,16 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 22.04s.\r",
+    "Done in 20.89s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
-    "Done in 44.19s.\r",
+    "Done in 42.56s.\r",
+    "cd fresh-app\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ yarn build\r",
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix build\r",
     "\u001b[0mBuilding Remix app in production mode...\r",
-    "Built in 541ms\r",
+    "Built in 522ms\r",
     "Done in 1.66s.\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn start' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -49,12 +50,12 @@
     "\u001b[1myarn run v1.22.19\r",
     "\u001b[22;2m$ remix-serve build\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 21.160 ms\r",
+    "HEAD / 200 - - 21.011 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 5.315 ms\r",
+    "GET / 200 - - 5.543 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 2.696 ms\r",
+    "GET / 200 - - 2.663 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "\r",
@@ -63,7 +64,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5139036816",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5150564500",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
