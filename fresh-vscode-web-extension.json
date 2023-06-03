@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 94575851,
+  "size": 94505425,
   "timing": {
-    "startTime": "2023-06-02T00:34:40.427Z",
-    "finishTime": "2023-06-02T00:35:27.510Z"
+    "startTime": "2023-06-03T00:34:00.955Z",
+    "finishTime": "2023-06-03T00:34:58.723Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -23,8 +23,8 @@
     "\u001b[32msuccess\u001b[0m Installed \"yo@4.3.1\" with binaries:\r",
     "      - yo\r",
     "      - yo-complete\r",
-    "\u001b[33mwarning\u001b[0m \"generator-code@1.7.6\" has no binaries\r",
-    "Done in 17.18s.\r",
+    "\u001b[33mwarning\u001b[0m \"generator-code@1.7.7\" has no binaries\r",
+    "Done in 22.92s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -60,9 +60,9 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 397 packages, and audited 398 packages in 24s\r",
+    "added 395 packages, and audited 396 packages in 30s\r",
     "\r",
-    "75 packages are looking for funding\r",
+    "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
@@ -95,7 +95,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5150564500",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5160848772",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
