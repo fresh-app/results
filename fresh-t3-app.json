@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 589995118,
+  "size": 590011825,
   "timing": {
-    "startTime": "2023-06-04T00:39:28.788Z",
-    "finishTime": "2023-06-04T00:40:30.650Z"
+    "startTime": "2023-06-05T00:33:38.101Z",
+    "finishTime": "2023-06-05T00:34:44.769Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -50,7 +50,7 @@
     "  cd fresh-app\r",
     "  yarn prisma db push\r",
     "  yarn dev\r",
-    "\u001b[0mDone in 44.69s.\r",
+    "\u001b[0mDone in 48.31s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -70,27 +70,28 @@
     "\r",
     "\u001b[0m- \u001b[35mevent\u001b[0m compiled client and server successfully in 3.1s (291 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 439 ms (291 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 388 ms (291 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling / (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 302 ms (326 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 374 ms (326 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "- \u001b[36mwait\u001b[0m compiling /api/auth/[...nextauth] (client and server)...\r",
     "- \u001b[36mwait\u001b[0m compiling /api/trpc/[trpc] (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled successfully in 79 ms (90 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled successfully in 82 ms (90 modules)\r",
     "- \u001b[35mevent\u001b[0m compiled successfully (96 modules)\r",
     "[next-auth][warn][NO_SECRET] \r",
     "https://next-auth.js.org/warnings#no_secret\r",
     "Navigating to http://localhost:3000\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
-    "\r",
     "Finished taking screenshot.\r",
-    "pwuser@factory:/workspace/fresh-app$ exit\r",
+    "pwuser@factory:/workspace/fresh-app$ \r",
+    "exit\r",
+    "exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5166386078",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5172002529",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
