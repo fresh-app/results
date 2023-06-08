@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 94520906,
+  "size": 94545636,
   "timing": {
-    "startTime": "2023-06-07T00:37:17.262Z",
-    "finishTime": "2023-06-07T00:38:13.002Z"
+    "startTime": "2023-06-08T00:35:31.174Z",
+    "finishTime": "2023-06-08T00:36:16.928Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -24,7 +24,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.7\" has no binaries\r",
-    "Done in 21.52s.\r",
+    "Done in 16.98s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -60,16 +60,16 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 395 packages, and audited 396 packages in 29s\r",
+    "added 395 packages, and audited 396 packages in 24s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m9.3.1\u001b[0m -> \u001b[32m9.6.7\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.6.7\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.6.7\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m9.3.1\u001b[0m -> \u001b[32m9.7.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.7.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@9.7.1\u001b[0m to update!\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\r",
     "Your extension fresh-extension has been created!\r",
@@ -100,7 +100,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5194685128",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5206082682",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
