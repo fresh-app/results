@@ -1,14 +1,14 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 69140409,
+  "size": 69168372,
   "timing": {
-    "startTime": "2023-06-16T00:35:52.381Z",
-    "finishTime": "2023-06-16T00:36:28.030Z"
+    "startTime": "2023-06-17T00:32:51.562Z",
+    "finishTime": "2023-06-17T00:33:30.538Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
-    "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "+ yes ''\r",
+    "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@4.3.1, generator-code@1.7.7\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
@@ -85,7 +85,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5284907362",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5295308484",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
