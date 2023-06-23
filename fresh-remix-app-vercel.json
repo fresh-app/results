@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 316617568,
+  "size": 316617985,
   "timing": {
-    "startTime": "2023-06-22T00:35:20.608Z",
-    "finishTime": "2023-06-22T00:36:21.511Z"
+    "startTime": "2023-06-23T00:37:30.104Z",
+    "finishTime": "2023-06-23T00:38:28.274Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create remix fresh-app\r",
@@ -28,10 +28,10 @@
     "\u001b[2m[4/5]\u001b[0m Linking dependencies...\r",
     "\u001b[2m[5/5]\u001b[0m Building fresh packages...\r",
     "\u001b[32msuccess\u001b[0m Saved lockfile.\r",
-    "Done in 23.36s.\r",
+    "Done in 25.23s.\r",
     "💿 That's it! `cd` into \"/workspace/fresh-app\" and check the README for development and deploy instructions!\r",
+    "Done in 47.92s.\r",
     "cd /workspace/fresh-app\r",
-    "Done in 47.81s.\r",
     "pwuser@factory:/workspace$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
     "+ start-test 'yarn dev' :3000 'cd /workspace && (playwright screenshot --viewport-size=1280,720 http://localhost:3000 /workspace/screenshot.png; playwright screenshot --viewport-size=1280,720 --wait-for-timeout=4096 http://localhost:3000 /workspace/screenshot.png)'\r",
@@ -43,14 +43,14 @@
     "\u001b[22;2m$ remix dev\r",
     "\u001b[0m⚠️ REMIX FUTURE CHANGE: The `serverModuleFormat` config default option will be changing in v2 from `cjs` to `esm`. You can prepare for this change by explicitly specifying `serverModuleFormat: 'cjs'`. For instructions on making this change see https://remix.run/docs/en/v1.16.0/pages/v2#servermoduleformat\r",
     "💿 Building...\r",
-    "💿 Rebuilt in 722ms\r",
+    "💿 Rebuilt in 602ms\r",
     "Remix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
-    "HEAD / 200 - - 62.600 ms\r",
+    "HEAD / 200 - - 57.027 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 8.799 ms\r",
+    "GET / 200 - - 8.095 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 9.729 ms\r",
+    "GET / 200 - - 4.873 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Finished taking screenshot.\r",
@@ -58,7 +58,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5340279705",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5351623307",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
