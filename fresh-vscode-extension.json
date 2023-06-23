@@ -1,14 +1,14 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 69174051,
+  "size": 69174836,
   "timing": {
-    "startTime": "2023-06-22T00:35:35.347Z",
-    "finishTime": "2023-06-22T00:36:09.194Z"
+    "startTime": "2023-06-23T00:37:55.651Z",
+    "finishTime": "2023-06-23T00:38:34.413Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
-    "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "+ yes ''\r",
+    "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@4.3.1, generator-code@1.7.7\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
@@ -50,8 +50,6 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "Your extension fresh-extension has been created!\r",
-    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -63,6 +61,8 @@
     "    -q, --quiet           be quiet\r",
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
+    "\r",
+    "Your extension fresh-extension has been created!\r",
     "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
@@ -85,7 +85,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5340279705",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5351623307",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
