@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 94747325,
+  "size": 94763783,
   "timing": {
-    "startTime": "2023-06-28T00:37:57.834Z",
-    "finishTime": "2023-06-28T00:38:43.544Z"
+    "startTime": "2023-06-29T00:38:13.928Z",
+    "finishTime": "2023-06-29T00:39:18.013Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -24,7 +24,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.7\" has no binaries\r",
-    "Done in 16.55s.\r",
+    "Done in 26.03s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -60,17 +60,12 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 395 packages, and audited 396 packages in 24s\r",
+    "added 395 packages, and audited 396 packages in 33s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
-    "3 \u001b[33;1mmoderate\u001b[0m severity vulnerabilities\r",
-    "\r",
-    "To address all issues (including breaking changes), run:\r",
-    "  npm audit fix --force\r",
-    "\r",
-    "Run `npm audit` for details.\r",
+    "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[31m9.3.1\u001b[0m -> \u001b[32m9.7.2\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v9.7.2\r",
@@ -105,7 +100,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5395949386",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5407203949",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
