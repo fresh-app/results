@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 69176187,
+  "size": 69180442,
   "timing": {
-    "startTime": "2023-06-28T00:38:50.777Z",
-    "finishTime": "2023-06-28T00:39:37.668Z"
+    "startTime": "2023-06-29T00:38:26.693Z",
+    "finishTime": "2023-06-29T00:39:02.154Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -50,18 +50,6 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "error: unknown option `initial-branch=main'\r",
-    "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
-    "\r",
-    "    --template <template-directory>\r",
-    "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
-    "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
@@ -74,6 +62,18 @@
     "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
     "\r",
+    "error: unknown option `initial-branch=main'\r",
+    "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
+    "\r",
+    "    --template <template-directory>\r",
+    "                          directory from which templates will be used\r",
+    "    --bare                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    --separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
+    "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New minor version of npm available! 9.3.1 -> 9.7.2\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v9.7.2\r",
@@ -85,7 +85,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5395949386",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5407203949",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
