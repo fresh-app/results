@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 94638447,
+  "size": 94647423,
   "timing": {
-    "startTime": "2023-06-30T00:37:34.409Z",
-    "finishTime": "2023-06-30T00:38:20.629Z"
+    "startTime": "2023-07-01T00:42:46.310Z",
+    "finishTime": "2023-07-01T00:43:34.470Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yarn global add yo generator-code\r",
@@ -24,7 +24,7 @@
     "      - yo\r",
     "      - yo-complete\r",
     "\u001b[33mwarning\u001b[0m \"generator-code@1.7.7\" has no binaries\r",
-    "Done in 18.00s.\r",
+    "Done in 18.32s.\r",
     "+ yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -100,7 +100,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5418035761",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5428160072",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
