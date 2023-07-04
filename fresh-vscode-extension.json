@@ -1,16 +1,17 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 69189134,
+  "size": 68945075,
   "timing": {
-    "startTime": "2023-07-03T00:39:27.074Z",
-    "finishTime": "2023-07-03T00:40:06.849Z"
+    "startTime": "2023-07-04T00:40:14.444Z",
+    "finishTime": "2023-07-04T00:40:54.861Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@4.3.1, generator-code@1.7.7\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.7.7, yo@4.3.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m debuglog@1.0.1: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m readdir-scoped-modules@1.1.0: This functionality has been moved to @npmcli/fs\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@1.1.2: This functionality has been moved to @npmcli/fs\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mdeprecated\u001b[0m @npmcli/move-file@2.0.1: This functionality has been moved to @npmcli/fs\r",
@@ -49,9 +50,6 @@
     "Changes to package.json were detected.\r",
     "\r",
     "Running npm install for you to install the required dependencies.\r",
-    "\r",
-    "Your extension fresh-extension has been created!\r",
-    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -63,6 +61,9 @@
     "    -q, --quiet           be quiet\r",
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
+    "\r",
+    "\r",
+    "Your extension fresh-extension has been created!\r",
     "\r",
     "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
@@ -85,7 +86,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5439368455",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5449618177",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
