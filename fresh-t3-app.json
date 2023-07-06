@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 531003545,
+  "size": 531012897,
   "timing": {
-    "startTime": "2023-07-05T00:37:34.559Z",
-    "finishTime": "2023-07-05T00:38:51.564Z"
+    "startTime": "2023-07-06T00:37:50.546Z",
+    "finishTime": "2023-07-06T00:38:49.307Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -16,7 +16,7 @@
     "\r",
     "\u001b[32msuccess\u001b[0m Installed \"create-t3-app@7.15.0\" with binaries:\r",
     "      - create-t3-app\r",
-    "\r",
+    "[#############################################################################################################] 184/184\r",
     "\u001b[97m   ___ ___ ___\u001b[96m   __ _____\u001b[97m ___   _____ ____  \u001b[95m  __\u001b[97m   ___ ___\r",
     "  / __| _ \\ __\u001b[96m| /  \\_   _\u001b[97m| __| |_   _|__ /  \u001b[95m /  \u001b[97m\\ | _ \\ _ \\\r",
     " | (__|   / _|\u001b[96m / /\\ \\| | \u001b[97m| _|    | |  |_ \\  \u001b[95m/ /\\\u001b[97m \\|  _/  _/\r",
@@ -51,7 +51,7 @@
     "  yarn prisma db push\r",
     "  yarn dev\r",
     "  git commit -m \"initial commit\"\r",
-    "\u001b[0mDone in 56.59s.\r",
+    "\u001b[0mDone in 40.73s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -69,16 +69,16 @@
     "You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:\r",
     "\u001b[36mhttps://nextjs.org/telemetry\r",
     "\r",
-    "\u001b[0m- \u001b[35mevent\u001b[0m compiled client and server successfully in 328 ms (18 modules)\r",
+    "\u001b[0m- \u001b[35mevent\u001b[0m compiled client and server successfully in 246 ms (18 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 199 ms (18 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 153 ms (18 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling / (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 3.8s (326 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 3.2s (326 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "- \u001b[36mwait\u001b[0m compiling /api/auth/[...nextauth] (client and server)...\r",
     "- \u001b[36mwait\u001b[0m compiling /api/trpc/[trpc] (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled successfully in 350 ms (89 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled successfully in 259 ms (89 modules)\r",
     "- \u001b[35mevent\u001b[0m compiled successfully (95 modules)\r",
     "[next-auth][warn][NO_SECRET] \r",
     "https://next-auth.js.org/warnings#no_secret\r",
@@ -92,7 +92,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5459334862",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5470289024",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
