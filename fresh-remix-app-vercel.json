@@ -1,33 +1,32 @@
 {
   "generator": "fresh-remix-app-vercel",
-  "size": 320698025,
+  "size": 320703018,
   "timing": {
-    "startTime": "2023-07-17T00:39:11.843Z",
-    "finishTime": "2023-07-17T00:40:16.303Z"
+    "startTime": "2023-07-18T00:56:07.188Z",
+    "finishTime": "2023-07-18T00:57:08.863Z"
   },
   "log": [
     "\r",
     " 💿  remix dev\r",
     "\r",
     "\u001b[34;7m info \u001b[0m building...\r",
-    "\u001b[34;7m info \u001b[0m built\u001b[90m (731ms)\r",
+    "\u001b[34;7m info \u001b[0m built\u001b[90m (697ms)\r",
     "\u001b[0mRemix App Server started at http://localhost:3000 (http://172.17.0.3:3000)\r",
     "\r",
-    "HEAD / 200 - - 24.062 ms\r",
+    "HEAD / 200 - - 24.494 ms\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 5.388 ms\r",
+    "GET / 200 - - 6.066 ms\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "Navigating to http://localhost:3000\r",
-    "GET / 200 - - 15.266 ms\r",
+    "GET / 200 - - 5.180 ms\r",
     "Waiting for timeout 4096...\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
-    "\r",
     "Finished taking screenshot.\r",
     "pwuser@factory:/workspace/fresh-app$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Remix app, with TypeScript, preconfigured with Vercel deployment config, automatically generated everyday with \"yarn create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5570622427",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5582074662",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
