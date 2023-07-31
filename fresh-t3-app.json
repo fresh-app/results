@@ -1,9 +1,9 @@
 {
   "generator": "fresh-t3-app",
-  "size": 541412791,
+  "size": 541415055,
   "timing": {
-    "startTime": "2023-07-30T00:34:48.446Z",
-    "finishTime": "2023-07-30T00:35:56.762Z"
+    "startTime": "2023-07-31T00:33:07.980Z",
+    "finishTime": "2023-07-31T00:34:16.211Z"
   },
   "log": [
     "pwuser@factory:/workspace$ yarn create t3-app fresh-app\r",
@@ -14,9 +14,9 @@
     "\u001b[33mwarning\u001b[0m \"create-t3-app > @ianvs/prettier-plugin-sort-imports@3.7.2\" has unmet peer dependency \"prettier@2.x\".\r",
     "\u001b[2m[4/4]\u001b[0m Building fresh packages...\r",
     "\r",
-    "\u001b[32msuccess\u001b[0m Installed \"create-t3-app@7.16.0\" with binaries:\r",
+    "\u001b[32msuccess\u001b[0m Installed \"create-t3-app@7.17.0\" with binaries:\r",
     "      - create-t3-app\r",
-    "\r",
+    "[#############################################################################################################] 184/184\r",
     "\u001b[97m   ___ ___ ___\u001b[96m   __ _____\u001b[97m ___   _____ ____  \u001b[95m  __\u001b[97m   ___ ___\r",
     "  / __| _ \\ __\u001b[96m| /  \\_   _\u001b[97m| __| |_   _|__ /  \u001b[95m /  \u001b[97m\\ | _ \\ _ \\\r",
     " | (__|   / _|\u001b[96m / /\\ \\| | \u001b[97m| _|    | |  |_ \\  \u001b[95m/ /\\\u001b[97m \\|  _/  _/\r",
@@ -51,7 +51,7 @@
     "  yarn prisma db push\r",
     "  yarn dev\r",
     "  git commit -m \"initial commit\"\r",
-    "\u001b[0mDone in 50.05s.\r",
+    "\u001b[0mDone in 46.14s.\r",
     "pwuser@factory:/workspace$ cd fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ cd /workspace/fresh-app\r",
     "pwuser@factory:/workspace/fresh-app$ /opt/factory/bin/screenshot 'yarn dev' 3000 || true; echo 'Finished taking screenshot.'\r",
@@ -69,16 +69,16 @@
     "You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:\r",
     "\u001b[36mhttps://nextjs.org/telemetry\r",
     "\r",
-    "\u001b[0m- \u001b[35mevent\u001b[0m compiled client and server successfully in 229 ms (18 modules)\r",
+    "\u001b[0m- \u001b[35mevent\u001b[0m compiled client and server successfully in 275 ms (18 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 144 ms (18 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 247 ms (18 modules)\r",
     "- \u001b[36mwait\u001b[0m compiling / (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 2.8s (327 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled client and server successfully in 2.9s (327 modules)\r",
     "Navigating to http://localhost:3000\r",
     "Capturing screenshot into /workspace/screenshot.png\r",
     "- \u001b[36mwait\u001b[0m compiling /api/auth/[...nextauth] (client and server)...\r",
     "- \u001b[36mwait\u001b[0m compiling /api/trpc/[trpc] (client and server)...\r",
-    "- \u001b[35mevent\u001b[0m compiled successfully in 263 ms (89 modules)\r",
+    "- \u001b[35mevent\u001b[0m compiled successfully in 265 ms (89 modules)\r",
     "- \u001b[35mevent\u001b[0m compiled successfully (95 modules)\r",
     "[next-auth][warn][NO_SECRET] \r",
     "https://next-auth.js.org/warnings#no_secret\r",
@@ -92,7 +92,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh T3 app, automatically generated everyday with \"yarn create t3-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5703281207",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5709216494",
   "frameworkUrl": "https://create.t3.gg/",
   "frameworkDocumentationUrl": "https://github.com/t3-oss/create-t3-app#readme"
 }
