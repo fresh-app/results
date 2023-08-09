@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 69058608,
   "timing": {
-    "startTime": "2023-08-08T00:32:48.056Z",
-    "finishTime": "2023-08-08T00:33:27.534Z"
+    "startTime": "2023-08-09T00:33:45.124Z",
+    "finishTime": "2023-08-09T00:34:23.491Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -56,7 +56,16 @@
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
-    "    --templateTo start editing with Visual Studio Code, use the following commands:\r",
+    "    --template <template-directory>\r",
+    "                          directory from which templates will be used\r",
+    "    --bare                create a bare repository\r",
+    "    --shared[=<permissions>]\r",
+    "                          specify that the git repository is to be shared amongst several users\r",
+    "    -q, --quiet           be quiet\r",
+    "    --separate-git-dir <gitdir>\r",
+    "                          separate git dir from working tree\r",
+    "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
     "\r",
     "     code fresh-extension\r",
     "\r",
@@ -65,15 +74,6 @@
     "\r",
     "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
-    "\r",
-    " <template-directory>\r",
-    "                          directory from which templates will be used\r",
-    "    --bare                create a bare repository\r",
-    "    --shared[=<permissions>]\r",
-    "                          specify that the git repository is to be shared amongst several users\r",
-    "    -q, --quiet           be quiet\r",
-    "    --separate-git-dir <gitdir>\r",
-    "                          separate git dir from working tree\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New minor version of npm available! 9.3.1 -> 9.8.1\r",
@@ -86,7 +86,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5791269988",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/5803407435",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
