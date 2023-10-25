@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 72577179,
+  "size": 72576613,
   "timing": {
-    "startTime": "2023-10-24T00:58:25.393Z",
-    "finishTime": "2023-10-24T00:59:12.811Z"
+    "startTime": "2023-10-25T00:58:34.370Z",
+    "finishTime": "2023-10-25T00:59:21.591Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -53,6 +53,16 @@
     "\r",
     "Your extension fresh-extension has been created!\r",
     "\r",
+    "To start editing with Visual Studio Code, use the following commands:\r",
+    "\r",
+    "     code fresh-extension\r",
+    "\r",
+    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
+    "on how to modify, test and publish your extension.\r",
+    "\r",
+    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
+    "\r",
+    "\r",
     "error: unknown option `initial-branch=main'\r",
     "usage: git init [-q | --quiet] [--bare] [--template=<template-directory>] [--shared[=<permissions>]] [<directory>]\r",
     "\r",
@@ -65,16 +75,6 @@
     "    --separate-git-dir <gitdir>\r",
     "                          separate git dir from working tree\r",
     "\r",
-    "To start editing with Visual Studio Code, use the following commands:\r",
-    "\r",
-    "     code fresh-extension\r",
-    "\r",
-    "Open vsc-extension-quickstart.md inside the new extension for further instructions\r",
-    "on how to modify, test and publish your extension.\r",
-    "\r",
-    "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
-    "\r",
-    "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 9.3.1 -> 10.2.1\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v10.2.1\r",
@@ -86,7 +86,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6620859066",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6634317150",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
