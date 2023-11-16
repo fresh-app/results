@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 72628413,
   "timing": {
-    "startTime": "2023-11-15T01:00:10.872Z",
-    "finishTime": "2023-11-15T01:00:55.282Z"
+    "startTime": "2023-11-16T01:00:57.362Z",
+    "finishTime": "2023-11-16T01:01:27.377Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -17,7 +17,7 @@
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.1.2',\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.1.3',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
@@ -68,9 +68,9 @@
     "\r",
     "\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 9.3.1 -> 10.2.3\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v10.2.3\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run npm install -g npm@10.2.3 to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 9.3.1 -> 10.2.4\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v10.2.4\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run npm install -g npm@10.2.4 to update!\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
@@ -78,7 +78,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6871468753",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6884852710",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
