@@ -2,8 +2,8 @@
   "generator": "fresh-bun-project",
   "size": 42149213,
   "timing": {
-    "startTime": "2023-11-15T00:58:47.979Z",
-    "finishTime": "2023-11-15T00:58:51.927Z"
+    "startTime": "2023-11-16T00:59:27.569Z",
+    "finishTime": "2023-11-16T00:59:30.556Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -36,7 +36,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh Bun project, with TypeScript, automatically generated everyday with \"bun init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6871468753",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/6884852710",
   "frameworkUrl": "https://bun.sh/",
   "frameworkDocumentationUrl": "https://github.com/oven-sh/bun#readme"
 }
