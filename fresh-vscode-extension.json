@@ -2,15 +2,15 @@
   "generator": "fresh-vscode-extension",
   "size": 64902549,
   "timing": {
-    "startTime": "2023-12-02T00:58:52.553Z",
-    "finishTime": "2023-12-02T00:59:25.160Z"
+    "startTime": "2023-12-03T01:04:12.831Z",
+    "finishTime": "2023-12-03T01:04:44.257Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@5.0.0, generator-code@1.8.1\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.8.1, yo@5.0.0\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yo@5.0.0',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
@@ -77,7 +77,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7066917232",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7073677753",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
