@@ -1,23 +1,23 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 64902549,
+  "size": 65042490,
   "timing": {
-    "startTime": "2023-12-03T01:04:12.831Z",
-    "finishTime": "2023-12-03T01:04:44.257Z"
+    "startTime": "2024-01-24T20:04:39.200Z",
+    "finishTime": "2024-01-24T20:05:06.916Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: generator-code@1.8.1, yo@5.0.0\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@5.0.0, generator-code@1.8.2\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yo@5.0.0',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.1.3',\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.2.1',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
@@ -66,18 +66,13 @@
     "For more information, also visit http://code.visualstudio.com and follow us @code.\r",
     "\r",
     "\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New major version of npm available! 9.3.1 -> 10.2.4\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: https://github.com/npm/cli/releases/tag/v10.2.4\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run npm install -g npm@10.2.4 to update!\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "+ mv fresh-extension fresh-app\r",
     "Finished running generator.\r",
     "pwuser@factory:/workspace$ exit\r",
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7073677753",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7645571873",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
