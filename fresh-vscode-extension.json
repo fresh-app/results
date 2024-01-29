@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 65041598,
   "timing": {
-    "startTime": "2024-01-28T01:05:48.049Z",
-    "finishTime": "2024-01-28T01:06:25.938Z"
+    "startTime": "2024-01-29T01:02:06.414Z",
+    "finishTime": "2024-01-29T01:02:40.920Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
@@ -72,7 +72,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7682344054",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7689696651",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
