@@ -1,23 +1,23 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 65041598,
+  "size": 65035806,
   "timing": {
-    "startTime": "2024-01-29T01:02:06.414Z",
-    "finishTime": "2024-01-29T01:02:40.920Z"
+    "startTime": "2024-01-30T01:00:48.235Z",
+    "finishTime": "2024-01-30T01:01:21.533Z"
   },
   "log": [
     "pwuser@factory:/workspace$ bash -exc 'yes '\\'''\\'' | npx -p yo -p generator-code yo code fresh-extension -y > /dev/null && mv fresh-extension fresh-app' < /dev/null; echo 'Finished running generator.'\r",
     "+ yes ''\r",
     "+ npx -p yo -p generator-code yo code fresh-extension -y\r",
     "exit\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@5.0.0, generator-code@1.8.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mexec\u001b[0m The following packages were not found and will be installed: yo@5.0.0, generator-code@1.8.3\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yo@5.0.0',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m Unsupported engine {\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.2.1',\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   package: 'yeoman-environment@4.3.0',\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   required: { node: '^18.17.0 || >=20.5.0' },\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m   current: { node: 'v18.14.1', npm: '9.3.1' }\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[30;43mWARN\u001b[0m \u001b[35mEBADENGINE\u001b[0m }\r",
@@ -72,7 +72,7 @@
     "exit\u001b[1B\u001b[4D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7689696651",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7704684278",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
