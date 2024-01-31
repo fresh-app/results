@@ -2,15 +2,14 @@
   "generator": "fresh-bun-project",
   "size": 36713796,
   "timing": {
-    "startTime": "2024-01-31T01:00:25.413Z",
-    "finishTime": "2024-01-31T01:00:28.705Z"
+    "startTime": "2024-01-31T17:47:52.256Z",
+    "finishTime": "2024-01-31T17:47:55.384Z"
   },
   "log": [
-    "pwuser@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
-    "> (mkdir -p fresh-app && cd fresh-app && ~/.bun/bin/bun init -y)' < /dev/null; echo 'Finished running generator.'\r",
+    "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
+    "> (mkdir -p fresh-app && cd fresh-app && ~/.bun/bin/bun init -y)' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ curl -fsSL https://bun.sh/install\r",
     "+ bash\r",
-    "exit\r",
     "######################################################################## 100.0%\r",
     "\u001b[32mbun was installed successfully to \u001b[1m~/.bun/bin/bun \r",
     "\r",
@@ -18,11 +17,11 @@
     "\r",
     "To get started, run: \r",
     "\r",
-    "\u001b[1;22m  source /home/pwuser/.bashrc \r",
+    "\u001b[1;22m  source /home/node/.bashrc \r",
     "  bun --help \r",
     "\u001b[0m+ mkdir -p fresh-app\r",
     "+ cd fresh-app\r",
-    "+ /home/pwuser/.bun/bin/bun init -y\r",
+    "+ /home/node/.bun/bin/bun init -y\r",
     "\u001b[32mDone!\u001b[0m A package.json file was saved in the current directory.\r",
     " + \u001b[2mindex.ts\r",
     "\u001b[0m + \u001b[2m.gitignore\r",
@@ -32,11 +31,10 @@
     "\u001b[0mTo get started, run:\r",
     "  \u001b[36mbun run index.ts\r",
     "\u001b[0mFinished running generator.\r",
-    "pwuser@factory:/workspace$ exit\r",
-    "exit\u001b[1B\u001b[4D"
+    "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Bun project, with TypeScript, automatically generated everyday with \"bun init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7719602577",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7730216455",
   "frameworkUrl": "https://bun.sh/",
   "frameworkDocumentationUrl": "https://github.com/oven-sh/bun#readme"
 }
