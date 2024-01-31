@@ -2,8 +2,8 @@
   "generator": "fresh-vite-app-vue",
   "size": 37079380,
   "timing": {
-    "startTime": "2024-01-31T17:49:21.091Z",
-    "finishTime": "2024-01-31T17:49:33.045Z"
+    "startTime": "2024-01-31T18:03:42.866Z",
+    "finishTime": "2024-01-31T18:04:00.092Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create vite fresh-app --template=vue\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create vite fresh-app --template=vue\r",
-    "../pnpm-bin/store/v3/tmp/dlx-11          |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-11          | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    "../pnpm-bin/store/v3/tmp/dlx-10          |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-10          | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "\r",
     "Scaffolding project in /workspace/fresh-app...\r",
     "\r",
@@ -29,7 +29,7 @@
     "Packages: \u001b[32m+32\r",
     "++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m66\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m32\u001b[0m, added \u001b[96m32\u001b[0m, done\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.19.12/node_modules/\u001b[0mesbuild: Running postinstall script, done in 62ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.19.12/node_modules/\u001b[0mesbuild: Running postinstall script, done in 76ms\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m vue \u001b[90m3.4.15\r",
@@ -49,7 +49,7 @@
     "dist/\u001b[32;22mindex.html                 \u001b[39;1;2m 0.46 kB\u001b[22m │ gzip:  0.29 kB\r",
     "dist/assets/\u001b[35;22mindex--mDmdVqq.css  \u001b[39;1;2m 1.27 kB\u001b[22m │ gzip:  0.65 kB\r",
     "dist/assets/\u001b[36;22mindex-4s5HjdDQ.js   \u001b[39;1;2m54.93 kB\u001b[22m │ gzip: 22.31 kB\r",
-    "\u001b[32;22m✓ built in 692ms\r",
+    "\u001b[32;22m✓ built in 693ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -69,12 +69,23 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.127:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.78:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
-    "\u001b[0mHit CTRL-C to stop the server\u001b[2B\u001b[29D"
+    "\u001b[0mHit CTRL-C to stop the server\r",
+    "\r",
+    "[2024-01-31T18:03:54.959Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:146) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
+    "[2024-01-31T18:03:54.977Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-4s5HjdDQ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:54.978Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index--mDmdVqq.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:54.995Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:55.778Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:55.788Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-4s5HjdDQ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:55.792Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index--mDmdVqq.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-01-31T18:03:55.807Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[39D"
   ],
   "description": "Fresh Vue app, automatically generated everyday with \"pnpm create vite --template=vue\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7730216455",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7730352013",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
