@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 12942067,
+  "size": 12942007,
   "timing": {
-    "startTime": "2024-02-03T01:00:07.144Z",
-    "finishTime": "2024-02-03T01:01:02.242Z"
+    "startTime": "2024-02-04T01:04:43.923Z",
+    "finishTime": "2024-02-04T01:06:08.799Z"
   },
   "log": [
     "Unpacking fonts-unifont (1:15.0.01-2) ...\r",
@@ -623,8 +623,8 @@
     "Preparing to unpack .../228-libv4l-0_1.22.1-5+b2_amd64.deb ...\r",
     "Unpacking libv4l-0:amd64 (1.22.1-5+b2) ...\r",
     "Selecting previously unselected package libzbar0:amd64.\r",
-    "Preparing to unpack .../229-libzbar0_0.23.92-7_amd64.deb ...\r",
-    "Unpacking libzbar0:amd64 (0.23.92-7) ...\r",
+    "Preparing to unpack .../229-libzbar0_0.23.92-7+deb12u1_amd64.deb ...\r",
+    "Unpacking libzbar0:amd64 (0.23.92-7+deb12u1) ...\r",
     "Selecting previously unselected package libzxing2:amd64.\r",
     "Preparing to unpack .../230-libzxing2_1.4.0-3+b1_amd64.deb ...\r",
     "Unpacking libzxing2:amd64 (1.4.0-3+b1) ...\r",
@@ -1008,7 +1008,7 @@
     "Setting up libgbm1:amd64 (22.3.6-1+deb12u1) ...\r",
     "Setting up libpulse0:amd64 (16.1+dfsg1-2+b1) ...\r",
     "Setting up libenchant-2-2:amd64 (2.3.3-2) ...\r",
-    "Setting up libzbar0:amd64 (0.23.92-7) ...\r",
+    "Setting up libzbar0:amd64 (0.23.92-7+deb12u1) ...\r",
     "Setting up libdrm-radeon1:amd64 (2.4.114-1+b1) ...\r",
     "Setting up liblrdf0:amd64 (0.6.1-4) ...\r",
     "Setting up libsrtp2-1:amd64 (2.5.0-3) ...\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.8s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (10.7s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.186:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.46:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2024-02-03T01:00:57.030Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:6047) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[2024-02-04T01:06:03.684Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:6037) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[2024-02-03T01:00:57.883Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-02-04T01:06:04.501Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7763361071",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7770594131",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
