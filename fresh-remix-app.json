@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 183733448,
+  "size": 183770333,
   "timing": {
-    "startTime": "2024-02-03T00:59:51.046Z",
-    "finishTime": "2024-02-03T01:00:15.915Z"
+    "startTime": "2024-02-04T01:04:29.814Z",
+    "finishTime": "2024-02-04T01:05:00.448Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create remix fresh-app --no-git-init --no-install\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create remix fresh-app --no-git-init --no-install\r",
-    "../pnpm-bin/store/v3/tmp/dlx-10          | \u001b[32m+196\u001b[0m \u001b[32m++++++++++++++++++++\r",
-    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-10          | Progress: resolved \u001b[96m196\u001b[0m, reused \u001b[96m17\u001b[0m, downloaded \u001b[96m179\u001b[0m, added \u001b[96m196\u001b[0m, done\r",
+    "../pnpm-bin/store/v3/tmp/dlx-10          | \u001b[32m+197\u001b[0m \u001b[32m++++++++++++++++++++\r",
+    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-10          | Progress: resolved \u001b[96m197\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m179\u001b[0m, added \u001b[96m197\u001b[0m, done\r",
     "\r",
     "\u001b[47m \u001b[30mremix\u001b[39m \u001b[0m  \u001b[32;1mv2.6.0\u001b[0m \u001b[1m💿 Let's build a better website...\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -33,11 +33,11 @@
     "Installing pnpm@8.15.1 in the project...\r",
     "\r",
     "Downloading \u001b[97mregistry.npmjs.org/typescript/5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
-    "Packages: \u001b[32m+724\r",
+    "Packages: \u001b[32m+725\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m779\u001b[0m, reused \u001b[96m157\u001b[0m, downloaded \u001b[96m567\u001b[0m, added \u001b[96m724\u001b[0m, done\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.17.6/node_modules/\u001b[0mesbuild: Running postinstall script, done in 58ms\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.19.12/node_modules/\u001b[0mesbuild: Running postinstall script, done in 63ms\r",
+    "\u001b[0mProgress: resolved \u001b[96m780\u001b[0m, reused \u001b[96m158\u001b[0m, downloaded \u001b[96m567\u001b[0m, added \u001b[96m725\u001b[0m, done\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.19.12/node_modules/\u001b[0mesbuild: Running postinstall script, done in 66ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.17.6/node_modules/\u001b[0mesbuild: Running postinstall script, done in 73ms\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m @remix-run/css-bundle \u001b[90m2.6.0\r",
@@ -62,14 +62,14 @@
     "\u001b[32m+\u001b[0m eslint-plugin-react-hooks \u001b[90m4.6.0\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.3.3\r",
     "\r",
-    "\u001b[0mDone in 8.9s\r",
+    "\u001b[0mDone in 9.2s\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
     "> remix build\r",
     "\r",
     "\u001b[34;7m info \u001b[0m building...\u001b[90m (NODE_ENV=production)\r",
-    "\u001b[34;7m info \u001b[0m built\u001b[90m (380ms)\r",
+    "\u001b[34;7m info \u001b[0m built\u001b[90m (341ms)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -77,12 +77,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> remix-serve ./build/index.js\r",
     "\r",
-    "[remix-serve] http://localhost:3000 (http://10.1.0.121:3000)\r",
-    "GET / 200 - - 18.658 ms\r",
-    "GET / 200 - - 5.312 ms\u001b[1B\u001b[22D"
+    "[remix-serve] http://localhost:3000 (http://10.1.0.127:3000)\r",
+    "GET / 200 - - 19.034 ms\r",
+    "GET / 200 - - 4.797 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh Remix app, with TypeScript, automatically generated everyday with \"pnpm create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7763361071",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7770594131",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
