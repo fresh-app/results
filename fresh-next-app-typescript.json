@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 476537933,
+  "size": 476534350,
   "timing": {
-    "startTime": "2024-02-10T00:58:39.292Z",
-    "finishTime": "2024-02-10T00:59:25.607Z"
+    "startTime": "2024-02-11T01:04:19.868Z",
+    "finishTime": "2024-02-11T01:05:03.202Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -38,8 +38,8 @@
     "\r",
     "\u001b[0mDownloading \u001b[97mregistry.npmjs.org/typescript/5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
     "Downloading \u001b[97mregistry.npmjs.org/next/14.1.0\u001b[0m: \u001b[96m20.76 MB\u001b[0m/\u001b[96m20.76 MB\u001b[0m, done\r",
-    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-gnu/14.1.0\u001b[0m: \u001b[96m38.80 MB\u001b[0m/\u001b[96m38.80 MB\u001b[0m, done\r",
     "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-musl/14.1.0\u001b[0m: \u001b[96m46.39 MB\u001b[0m/\u001b[96m46.39 MB\u001b[0m, done\r",
+    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-gnu/14.1.0\u001b[0m: \u001b[96m38.80 MB\u001b[0m/\u001b[96m38.80 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+350\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m358\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m328\u001b[0m, added \u001b[96m350\u001b[0m, done\r",
@@ -60,7 +60,7 @@
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.1\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.3.3\r",
     "\r",
-    "\u001b[0mDone in 7.1s\r",
+    "\u001b[0mDone in 7s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -69,7 +69,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 735ms\r",
+    "Done in 718ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -111,10 +111,10 @@
     "  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
     "\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 319ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 317ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7851427405",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7858616062",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
