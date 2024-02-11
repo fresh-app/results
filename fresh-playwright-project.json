@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 12948115,
+  "size": 12948151,
   "timing": {
-    "startTime": "2024-02-10T00:58:40.288Z",
-    "finishTime": "2024-02-10T00:59:57.833Z"
+    "startTime": "2024-02-11T01:04:54.412Z",
+    "finishTime": "2024-02-11T01:06:15.771Z"
   },
   "log": [
     "Unpacking fonts-unifont (1:15.0.01-2) ...\r",
@@ -772,7 +772,7 @@
     "Setting up libpciaccess0:amd64 (0.17-2) ...\r",
     "Setting up libdw1:amd64 (0.188-2.1) ...\r",
     "Setting up librabbitmq4:amd64 (0.11.0-1+b1) ...\r",
-    "Setting up systemd-sysv (252.19-1~deb12u1) ...\r",
+    "Setting up systemd-sysv (252.22-1~deb12u1) ...\r",
     "Setting up libraw1394-11:amd64 (2.1.2-2) ...\r",
     "Setting up libsbc1:amd64 (2.0-1) ...\r",
     "Setting up libproxy1v5:amd64 (0.4.18-1.2) ...\r",
@@ -986,7 +986,7 @@
     "Setting up libwayland-cursor0:amd64 (1.21.0-1) ...\r",
     "Setting up libsratom-0-0:amd64 (0.6.14-1) ...\r",
     "Setting up hunspell-en-us (1:2020.12.07-2) ...\r",
-    "Setting up libpam-systemd:amd64 (252.19-1~deb12u1) ...\r",
+    "Setting up libpam-systemd:amd64 (252.22-1~deb12u1) ...\r",
     "debconf: unable to initialize frontend: Dialog\r",
     "debconf: (No usable dialog-like program is installed, so the dialog based frontend cannot be used. at /usr/share/perl5/Debconf/FrontEnd/Dialog.pm line 78.)\r",
     "debconf: falling back to frontend: Readline\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (9.3s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (10.2s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.242:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.99:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2024-02-10T00:59:52.705Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:6053) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[2024-02-11T01:06:10.636Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:6011) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[2024-02-10T00:59:53.520Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-02-11T01:06:11.456Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7851427405",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7858616062",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
