@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 476643662,
+  "size": 476642712,
   "timing": {
-    "startTime": "2024-02-21T01:01:04.668Z",
-    "finishTime": "2024-02-21T01:01:41.177Z"
+    "startTime": "2024-02-22T00:59:44.256Z",
+    "finishTime": "2024-02-22T01:00:25.325Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -60,7 +60,7 @@
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.1\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.3.3\r",
     "\r",
-    "\u001b[0mDone in 6.7s\r",
+    "\u001b[0mDone in 6.2s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -69,7 +69,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 691ms\r",
+    "Done in 688ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -83,6 +83,9 @@
     "\u001b[0m  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\r",
     "\u001b[0m \u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
+    "request to https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap failed, reason: \r",
+    "\r",
+    "Retrying 1/3...\r",
     " \u001b[32;1m✓\u001b[0m Compiled successfully\r",
     " \u001b[32;1m✓\u001b[0m Linting and checking validity of types    \r",
     " \u001b[32;1m✓\u001b[0m Collecting page data    \r",
@@ -111,10 +114,10 @@
     "  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
     "\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 310ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 312ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7982310672",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/7997806293",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
