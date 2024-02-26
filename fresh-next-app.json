@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 472611745,
+  "size": 472642051,
   "timing": {
-    "startTime": "2024-02-25T01:04:18.187Z",
-    "finishTime": "2024-02-25T01:05:16.838Z"
+    "startTime": "2024-02-26T01:01:17.525Z",
+    "finishTime": "2024-02-26T01:01:58.643Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript\r",
-    "../pnpm-bin/store/v3/tmp/dlx-10          |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-10          | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    "../pnpm-bin/store/v3/tmp/dlx-11          |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m../pnpm-bin/store/v3/tmp/dlx-11          | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -33,8 +33,8 @@
     "\u001b[0m- \u001b[36meslint-config-next\r",
     "\r",
     "\u001b[0mDownloading \u001b[97mregistry.npmjs.org/next/14.1.0\u001b[0m: \u001b[96m20.76 MB\u001b[0m/\u001b[96m20.76 MB\u001b[0m, done\r",
-    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-musl/14.1.0\u001b[0m: \u001b[96m46.39 MB\u001b[0m/\u001b[96m46.39 MB\u001b[0m, done\r",
     "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-gnu/14.1.0\u001b[0m: \u001b[96m38.80 MB\u001b[0m/\u001b[96m38.80 MB\u001b[0m, done\r",
+    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-musl/14.1.0\u001b[0m: \u001b[96m46.39 MB\u001b[0m/\u001b[96m46.39 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+345\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mDownloading \u001b[97mregistry.npmjs.org/typescript/5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
@@ -52,7 +52,7 @@
     "\u001b[32m+\u001b[0m postcss \u001b[90m8.4.35\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.1\r",
     "\r",
-    "\u001b[0mDone in 7.4s\r",
+    "\u001b[0mDone in 6.3s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -61,7 +61,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 689ms\r",
+    "Done in 727ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -75,6 +75,9 @@
     "\u001b[0m  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\r",
     "\u001b[0m \u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
+    "request to https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap failed, reason: \r",
+    "\r",
+    "Retrying 1/3...\r",
     " \u001b[32;1m✓\u001b[0m Compiled successfully\r",
     " \u001b[32;1m✓\u001b[0m Linting and checking validity of types    \r",
     " \u001b[32;1m✓\u001b[0m Collecting page data    \r",
@@ -103,10 +106,10 @@
     "  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
     "\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 312ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 326ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8034441809",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8042122923",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
