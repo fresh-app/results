@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 476765457,
+  "size": 476835990,
   "timing": {
-    "startTime": "2024-02-29T00:59:23.554Z",
-    "finishTime": "2024-02-29T01:00:08.258Z"
+    "startTime": "2024-03-01T01:05:44.399Z",
+    "finishTime": "2024-03-01T01:06:19.469Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -38,8 +38,8 @@
     "\r",
     "\u001b[0mDownloading \u001b[97mregistry.npmjs.org/typescript/5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
     "Downloading \u001b[97mregistry.npmjs.org/next/14.1.0\u001b[0m: \u001b[96m20.76 MB\u001b[0m/\u001b[96m20.76 MB\u001b[0m, done\r",
-    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-musl/14.1.0\u001b[0m: \u001b[96m46.39 MB\u001b[0m/\u001b[96m46.39 MB\u001b[0m, done\r",
     "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-gnu/14.1.0\u001b[0m: \u001b[96m38.80 MB\u001b[0m/\u001b[96m38.80 MB\u001b[0m, done\r",
+    "Downloading \u001b[97mregistry.npmjs.org/@next/swc-linux-x64-musl/14.1.0\u001b[0m: \u001b[96m46.39 MB\u001b[0m/\u001b[96m46.39 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+352\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m360\u001b[0m, reused \u001b[96m23\u001b[0m, downloaded \u001b[96m329\u001b[0m, added \u001b[96m352\u001b[0m, done\r",
@@ -50,8 +50,8 @@
     "\u001b[32m+\u001b[0m react-dom \u001b[90m18.2.0\r",
     "\r",
     "\u001b[96mdevDependencies:\r",
-    "\u001b[32m+\u001b[0m @types/node \u001b[90m20.11.22\r",
-    "\u001b[32m+\u001b[0m @types/react \u001b[90m18.2.60\r",
+    "\u001b[32m+\u001b[0m @types/node \u001b[90m20.11.24\r",
+    "\u001b[32m+\u001b[0m @types/react \u001b[90m18.2.61\r",
     "\u001b[32m+\u001b[0m @types/react-dom \u001b[90m18.2.19\r",
     "\u001b[32m+\u001b[0m autoprefixer \u001b[90m10.4.17\r",
     "\u001b[32m+\u001b[0m eslint \u001b[90m8.57.0\r",
@@ -69,7 +69,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 688ms\r",
+    "Done in 691ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -111,10 +111,10 @@
     "  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.0\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
     "\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 328ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 317ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8089336550",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8104898623",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
