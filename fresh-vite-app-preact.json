@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vite-app-preact",
-  "size": 38894655,
+  "size": 38895018,
   "timing": {
-    "startTime": "2024-03-14T01:01:12.225Z",
-    "finishTime": "2024-03-14T01:01:22.831Z"
+    "startTime": "2024-03-15T01:01:04.635Z",
+    "finishTime": "2024-03-15T01:01:16.287Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create vite fresh-app --template=preact\r",
@@ -38,7 +38,7 @@
     "\u001b[32m+\u001b[0m @preact/preset-vite \u001b[90m2.8.1\r",
     "\u001b[32m+\u001b[0m vite \u001b[90m5.1.6\r",
     "\r",
-    "\u001b[0mDone in 2s\r",
+    "\u001b[0mDone in 2.9s\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.0.0 build /workspace/fresh-app\r",
@@ -49,7 +49,7 @@
     "\u001b[2mdist/\u001b[32;22mindex.html                 \u001b[39;1;2m 0.46 kB\u001b[22m │ gzip: 0.30 kB\r",
     "dist/assets/\u001b[35;22mindex-DBLmjzhI.css  \u001b[39;1;2m 1.17 kB\u001b[22m │ gzip: 0.61 kB\r",
     "dist/assets/\u001b[36;22mindex-BgfuHUCn.js   \u001b[39;1;2m16.03 kB\u001b[22m │ gzip: 6.73 kB\r",
-    "\u001b[32;22m✓ built in 216ms\r",
+    "\u001b[32;22m✓ built in 228ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -69,23 +69,23 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.15:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.38:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2024-03-14T01:01:17.834Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:101) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[2024-03-15T01:01:11.257Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:102) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[2024-03-14T01:01:17.848Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BgfuHUCn.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:17.849Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:17.859Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:18.546Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:18.554Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BgfuHUCn.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:18.555Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-03-14T01:01:18.565Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[39D"
+    "[2024-03-15T01:01:11.270Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BgfuHUCn.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:11.271Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:11.281Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:12.006Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:12.013Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BgfuHUCn.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:12.014Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-03-15T01:01:12.024Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[39D"
   ],
   "description": "Fresh Preact app, automatically generated everyday with \"pnpm create vite --template=preact\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8273794273",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8289701175",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
