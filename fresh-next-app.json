@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 472659122,
+  "size": 472654440,
   "timing": {
-    "startTime": "2024-03-22T00:59:59.997Z",
-    "finishTime": "2024-03-22T01:00:40.868Z"
+    "startTime": "2024-03-23T00:59:07.915Z",
+    "finishTime": "2024-03-23T00:59:51.272Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript\r",
@@ -52,7 +52,7 @@
     "\u001b[32m+\u001b[0m postcss \u001b[90m8.4.38\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.1\r",
     "\r",
-    "\u001b[0mDone in 6.2s\r",
+    "\u001b[0mDone in 6.1s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -61,7 +61,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 686ms\r",
+    "Done in 723ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -75,9 +75,6 @@
     "\u001b[0m  \u001b[38;2;173;127;168;1m ▲ Next.js 14.1.4\r",
     "\r",
     "\u001b[0m \u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
-    "request to https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap failed, reason: \r",
-    "\r",
-    "Retrying 1/3...\r",
     " \u001b[32;1m✓\u001b[0m Compiled successfully\r",
     " \u001b[32;1m✓\u001b[0m Linting and checking validity of types    \r",
     " \u001b[32;1m✓\u001b[0m Collecting page data    \r",
@@ -109,7 +106,7 @@
     " \u001b[32;1m✓\u001b[0m Ready in 318ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8383834459",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8398215546",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
