@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 65852709,
   "timing": {
-    "startTime": "2024-03-24T01:08:19.372Z",
-    "finishTime": "2024-03-24T01:08:40.080Z"
+    "startTime": "2024-03-25T01:04:33.668Z",
+    "finishTime": "2024-03-25T01:05:01.658Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -14,9 +14,9 @@
     "Packages: \u001b[32m+707\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m753\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m707\u001b[0m, added \u001b[96m707\u001b[0m, done\r",
-    "\u001b[90m.pnpm/core-js@3.36.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 41ms\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 40ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 2.2s\r",
+    "\u001b[90m.pnpm/core-js@3.36.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 64ms\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 63ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 3.7s\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -28,7 +28,7 @@
     "\u001b[0m└─┬ @yeoman/types \u001b[90m1.2.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.0\r",
     "\r",
-    "Done in 9.3s\r",
+    "Done in 11.2s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -63,7 +63,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 252 packages, and audited 253 packages in 8s\r",
+    "added 252 packages, and audited 253 packages in 9s\r",
     "\r",
     "56 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -89,7 +89,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8405771556",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8413508294",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
