@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 65880423,
+  "size": 65880719,
   "timing": {
-    "startTime": "2024-04-10T01:03:14.526Z",
-    "finishTime": "2024-04-10T01:03:43.051Z"
+    "startTime": "2024-04-11T01:04:59.715Z",
+    "finishTime": "2024-04-11T01:05:30.023Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -14,9 +14,9 @@
     "Packages: \u001b[32m+708\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m754\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m708\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 45ms\r",
-    "\u001b[90m.pnpm/core-js@3.36.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 49ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.8s\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 36ms\r",
+    "\u001b[90m.pnpm/core-js@3.36.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 44ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 723ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -63,16 +63,16 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 252 packages, and audited 253 packages in 13s\r",
+    "added 252 packages, and audited 253 packages in 16s\r",
     "\r",
     "56 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[32mpatch\u001b[0m version of npm available! \u001b[31m10.5.0\u001b[0m -> \u001b[32m10.5.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v10.5.1\r",
-    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@10.5.1\u001b[0m to update!\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m New \u001b[32mpatch\u001b[0m version of npm available! \u001b[31m10.5.0\u001b[0m -> \u001b[32m10.5.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Changelog: \u001b[36mhttps://github.com/npm/cli/releases/tag/v10.5.2\r",
+    "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m Run \u001b[32mnpm install -g npm@10.5.2\u001b[0m to update!\r",
     "\u001b[37;40mnpm\u001b[0m \u001b[36;40mnotice\u001b[0m \r",
     "\r",
     "Your extension fresh-extension has been created!\r",
@@ -89,7 +89,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8624365787",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8639897841",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
