@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vite-app-preact-ts",
-  "size": 71715531,
+  "size": 71727599,
   "timing": {
-    "startTime": "2024-04-12T01:02:43.522Z",
-    "finishTime": "2024-04-12T01:02:55.381Z"
+    "startTime": "2024-04-13T00:52:50.456Z",
+    "finishTime": "2024-04-13T00:53:02.315Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create vite fresh-app --template=preact-ts\r",
@@ -51,7 +51,7 @@
     "\u001b[2mdist/\u001b[32;22mindex.html                 \u001b[39;1;2m 0.46 kB\u001b[22m │ gzip: 0.30 kB\r",
     "dist/assets/\u001b[35;22mindex-DBLmjzhI.css  \u001b[39;1;2m 1.17 kB\u001b[22m │ gzip: 0.61 kB\r",
     "dist/assets/\u001b[36;22mindex-8IxWuK3l.js   \u001b[39;1;2m15.94 kB\u001b[22m │ gzip: 6.74 kB\r",
-    "\u001b[32;22m✓ built in 242ms\r",
+    "\u001b[32;22m✓ built in 238ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -71,23 +71,23 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.142:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.1.173:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2024-04-12T01:02:50.358Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:57.275Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     "(node:113) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[2024-04-12T01:02:50.372Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-8IxWuK3l.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:50.373Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:50.383Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:51.096Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:51.104Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-8IxWuK3l.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:51.105Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2024-04-12T01:02:51.117Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[39D"
+    "[2024-04-13T00:52:57.288Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-8IxWuK3l.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:57.289Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:57.300Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:58.025Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:58.034Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-8IxWuK3l.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:58.035Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DBLmjzhI.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-13T00:52:58.044Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/vite.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[39D"
   ],
   "description": "Fresh Preact app, automatically generated everyday with \"pnpm create vite --template=preact-ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8655340959",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8669741286",
   "frameworkUrl": "https://vitejs.dev/",
   "frameworkDocumentationUrl": "https://vitejs.dev/guide/"
 }
