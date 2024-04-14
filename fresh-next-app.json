@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 496497817,
+  "size": 496497484,
   "timing": {
-    "startTime": "2024-04-13T00:51:55.247Z",
-    "finishTime": "2024-04-13T00:52:28.571Z"
+    "startTime": "2024-04-14T01:24:26.761Z",
+    "finishTime": "2024-04-14T01:24:59.933Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript\r",
@@ -50,16 +50,16 @@
     "\u001b[32m+\u001b[0m postcss \u001b[90m8.4.38\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.3\r",
     "\r",
-    "\u001b[0mDone in 5.9s\r",
+    "\u001b[0mDone in 6s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@8.15.6 in the project...\r",
+    "Installing pnpm@8.15.7 in the project...\r",
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 711ms\r",
+    "Done in 675ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -102,10 +102,10 @@
     "\u001b[0m  - Local:        http://localhost:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 318ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 303ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8669741286",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8677542103",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
