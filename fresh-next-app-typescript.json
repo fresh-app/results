@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 500524799,
+  "size": 500519968,
   "timing": {
-    "startTime": "2024-04-15T03:23:44.032Z",
-    "finishTime": "2024-04-15T03:24:18.339Z"
+    "startTime": "2024-04-16T01:01:12.803Z",
+    "finishTime": "2024-04-16T01:01:48.005Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -50,7 +50,7 @@
     "\r",
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m @types/node \u001b[90m20.12.7\r",
-    "\u001b[32m+\u001b[0m @types/react \u001b[90m18.2.78\r",
+    "\u001b[32m+\u001b[0m @types/react \u001b[90m18.2.79\r",
     "\u001b[32m+\u001b[0m @types/react-dom \u001b[90m18.2.25\r",
     "\u001b[32m+\u001b[0m eslint \u001b[90m8.57.0\u001b[0m \u001b[90m(9.0.0 is available)\r",
     "\u001b[32m+\u001b[0m eslint-config-next \u001b[90m14.2.1\r",
@@ -58,7 +58,7 @@
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.3\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.4.5\r",
     "\r",
-    "\u001b[0mDone in 5.7s\r",
+    "\u001b[0mDone in 6s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -67,7 +67,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 726ms\r",
+    "Done in 743ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -110,10 +110,10 @@
     "\u001b[0m  - Local:        http://localhost:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 323ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 428ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8682766045",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8698270646",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
