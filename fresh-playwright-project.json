@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 12987207,
+  "size": 12987179,
   "timing": {
-    "startTime": "2024-04-24T01:03:30.871Z",
-    "finishTime": "2024-04-24T01:04:54.488Z"
+    "startTime": "2024-04-25T01:04:52.568Z",
+    "finishTime": "2024-04-25T01:05:50.207Z"
   },
   "log": [
     "Unpacking fonts-unifont (1:15.0.01-2) ...\r",
@@ -1042,7 +1042,7 @@
     "Setting up gstreamer1.0-libav:amd64 (1.22.0-2) ...\r",
     "Setting up libgtk-3-common (3.24.38-2~deb12u1) ...\r",
     "Setting up gsettings-desktop-schemas (43.0-1) ...\r",
-    "Processing triggers for libc-bin (2.36-9+deb12u4) ...\r",
+    "Processing triggers for libc-bin (2.36-9+deb12u6) ...\r",
     "Processing triggers for fontconfig (2.14.1-4) ...\r",
     "Processing triggers for libglib2.0-0:amd64 (2.74.6-2) ...\r",
     "Setting up libgtk-3-0:amd64 (3.24.38-2~deb12u1) ...\r",
@@ -1062,7 +1062,7 @@
     "debconf: unable to initialize frontend: Readline\r",
     "debconf: (This frontend requires a controlling tty.)\r",
     "debconf: falling back to frontend: Teletype\r",
-    "Processing triggers for libc-bin (2.36-9+deb12u4) ...\r",
+    "Processing triggers for libc-bin (2.36-9+deb12u6) ...\r",
     "Downloading Chromium 124.0.6367.29 (playwright build v1112)\u001b[2m from https://playwright.azureedge.net/builds/chromium/1112/chromium-linux.zip\r",
     "\u001b[0m155.3 MiB [====================] 100% 0.0s\r",
     "Chromium 124.0.6367.29 (playwright build v1112) downloaded to /home/node/.cache/ms-playwright/chromium-1112\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (9.9s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (9.1s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.56:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.108:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2024-04-24T01:04:49.247Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:5154) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[2024-04-25T01:05:45.073Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:5198) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[2024-04-24T01:04:50.132Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2024-04-25T01:05:45.882Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8809354046",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/8825409883",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
