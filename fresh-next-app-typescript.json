@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 501974244,
+  "size": 501968635,
   "timing": {
-    "startTime": "2024-05-12T01:09:18.106Z",
-    "finishTime": "2024-05-12T01:09:54.539Z"
+    "startTime": "2024-05-13T01:06:15.398Z",
+    "finishTime": "2024-05-13T01:06:55.825Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --typescript\r",
-    ".../18f6a58d9d0-b                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../18f6a58d9d0-b                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../18f6f7c6c3e-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../18f6f7c6c3e-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -35,7 +35,7 @@
     "\u001b[0m- \u001b[36meslint\r",
     "\u001b[0m- \u001b[36meslint-config-next\r",
     "\r",
-    "\u001b[0m! The local project doesn't define a 'packageManager' field. Corepack will now add one referencing pnpm@9.1.0+sha512.67f5879916a9293e5cf059c23853d571beaf4f753c707f40cb22bed5fb1578c6aad3b6c4107ccb3ba0b35be003eb621a16471ac836c87beb53f9d54bb4612724.\r",
+    "\u001b[0m! The local project doesn't define a 'packageManager' field. Corepack will now add one referencing pnpm@9.1.1+sha512.14e915759c11f77eac07faba4d019c193ec8637229e62ec99eefb7cf3c3b75c64447882b7c485142451ee3a6b408059cdfb7b7fa0341b975f12d0f7629c71195.\r",
     "! For more details about this field, consult the documentation at https://nodejs.org/api/packages.html#packagemanager\r",
     "\r",
     "Downloading \u001b[97mtypescript@5.4.5\u001b[0m: \u001b[96m5.83 MB\u001b[0m/\u001b[96m5.83 MB\u001b[0m, done\r",
@@ -61,16 +61,16 @@
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.3\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.4.5\r",
     "\r",
-    "\u001b[0mDone in 6.4s\r",
+    "\u001b[0mDone in 10.3s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@9.1.0 in the project...\r",
+    "Installing pnpm@9.1.1 in the project...\r",
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 709ms\r",
+    "Done in 742ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -113,10 +113,10 @@
     "\u001b[0m  - Local:        http://localhost:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 301ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 304ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9047708949",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9055642057",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
