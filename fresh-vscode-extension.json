@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 66803288,
+  "size": 66988588,
   "timing": {
-    "startTime": "2024-06-05T01:08:51.258Z",
-    "finishTime": "2024-06-05T01:09:15.674Z"
+    "startTime": "2024-06-19T00:42:55.361Z",
+    "finishTime": "2024-06-19T00:43:17.863Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -12,16 +12,16 @@
     "> test -f fresh-app/package.json' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm install --global yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, gauge@1.2.7, npmlog@2.0.4\r",
-    "Packages: \u001b[32m+700\r",
+    "Packages: \u001b[32m+699\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m746\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m700\u001b[0m, added \u001b[96m700\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 45ms\r",
-    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 46ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 678ms\r",
+    "\u001b[0mProgress: resolved \u001b[96m745\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m699\u001b[0m, added \u001b[96m699\u001b[0m, done\r",
+    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 41ms\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 43ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 618ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
-    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.10.1\r",
+    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.0\r",
     "\u001b[32m+\u001b[0m yo \u001b[90m5.0.0\r",
     "\r",
     "\u001b[30;43m WARN \u001b[0m Issues with peer dependencies found\r",
@@ -29,7 +29,7 @@
     "\u001b[0m└─┬ @yeoman/types \u001b[90m1.2.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.0\r",
     "\r",
-    "Done in 7.3s\r",
+    "Done in 7.5s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -65,11 +65,13 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported\r",
+    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead\r",
+    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m @humanwhocodes/config-array@0.11.14: Use @eslint/config-array instead\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 270 packages, and audited 271 packages in 13s\r",
+    "added 270 packages, and audited 271 packages in 12s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -95,7 +97,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9376486849",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9574191901",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
