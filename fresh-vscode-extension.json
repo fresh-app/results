@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 56533030,
   "timing": {
-    "startTime": "2024-06-21T00:41:39.101Z",
-    "finishTime": "2024-06-21T00:42:11.331Z"
+    "startTime": "2024-06-22T00:41:45.375Z",
+    "finishTime": "2024-06-22T00:42:12.489Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -15,9 +15,9 @@
     "Packages: \u001b[32m+700\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m746\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m700\u001b[0m, added \u001b[96m700\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 84ms\r",
-    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 84ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 88ms\r",
+    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 88ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 762ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -97,7 +97,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9606352026",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/9621438976",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
