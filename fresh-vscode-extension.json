@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 56760745,
   "timing": {
-    "startTime": "2024-07-21T00:47:12.596Z",
-    "finishTime": "2024-07-21T00:47:37.284Z"
+    "startTime": "2024-07-22T00:44:59.578Z",
+    "finishTime": "2024-07-22T00:45:28.486Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -15,9 +15,9 @@
     "Packages: \u001b[32m+700\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m746\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m700\u001b[0m, added \u001b[96m700\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 46ms\r",
-    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 46ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.2s\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 69ms\r",
+    "\u001b[90m.pnpm/core-js@3.37.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 69ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.2.0_@types+inquirer@9.0.7_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -29,7 +29,7 @@
     "\u001b[0m└─┬ @yeoman/types \u001b[90m1.2.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.0\r",
     "\r",
-    "Done in 8s\r",
+    "Done in 9.3s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "\u001b[31m     _-----_     ╭──────────────────────────╮\r",
@@ -71,7 +71,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 268 packages, and audited 269 packages in 10s\r",
+    "added 268 packages, and audited 269 packages in 11s\r",
     "\r",
     "69 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -97,7 +97,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10024285376",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10032668126",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
