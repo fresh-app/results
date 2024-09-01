@@ -1,9 +1,9 @@
 {
   "generator": "fresh-turbo-monorepo",
-  "size": 646573914,
+  "size": 646579586,
   "timing": {
-    "startTime": "2024-08-31T01:02:10.331Z",
-    "finishTime": "2024-08-31T01:03:10.757Z"
+    "startTime": "2024-09-01T01:12:33.587Z",
+    "finishTime": "2024-09-01T01:13:36.725Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
-    ".../191a5f441d8-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
-    "\u001b[0m.../191a5f441d8-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m9\u001b[0m, downloaded \u001b[96m87\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
+    ".../191ab242626-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
+    "\u001b[0m.../191ab242626-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m9\u001b[0m, downloaded \u001b[96m87\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
     "\r",
     "\u001b[38;5;39;1m>>>\u001b[0m Creating a new Turborepo with:\r",
     "\r",
@@ -62,7 +62,7 @@
     "\u001b[0m└─┬ eslint-plugin-jest \u001b[90m27.6.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m @typescript-eslint/eslint-plugin@\"^5.0.0 || ^6.0.0\": found 7.1.0\r",
     "\r",
-    "Done in 8.6s\r",
+    "Done in 8.8s\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -161,7 +161,7 @@
     "\r",
     "\u001b[1m Tasks:    \u001b[32m2 successful\u001b[0m, 2 total\r",
     "\u001b[1mCached:    0 cached\u001b[0m, 2 total\r",
-    "\u001b[1m  Time:    33.89s\u001b[0m \r",
+    "\u001b[1m  Time:    33.639s\u001b[0m \r",
     "\r",
     "Finished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
@@ -174,11 +174,11 @@
     "\u001b[0m  - Local:        http://localhost:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 310ms\r",
+    " \u001b[32;1m✓\u001b[0m Ready in 288ms\r",
     ""
   ],
   "description": "Fresh monorepo, built with Turborepo, automatically generated everyday with \"pnpm create turbo --package-manager pnpm\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10641072189",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10649715375",
   "frameworkUrl": "https://turborepo.org/",
   "frameworkDocumentationUrl": "https://turborepo.org/docs"
 }
