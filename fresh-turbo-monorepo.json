@@ -1,9 +1,9 @@
 {
   "generator": "fresh-turbo-monorepo",
-  "size": 646576943,
+  "size": 646574345,
   "timing": {
-    "startTime": "2024-09-02T01:04:01.648Z",
-    "finishTime": "2024-09-02T01:05:20.219Z"
+    "startTime": "2024-09-03T01:01:52.821Z",
+    "finishTime": "2024-09-03T01:03:00.310Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
-    ".../191b042d097-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
-    "\u001b[0m.../191b042d097-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m9\u001b[0m, downloaded \u001b[96m87\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
+    ".../191b5672269-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
+    "\u001b[0m.../191b5672269-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m9\u001b[0m, downloaded \u001b[96m87\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
     "\r",
     "\u001b[38;5;39;1m>>>\u001b[0m Creating a new Turborepo with:\r",
     "\r",
@@ -41,8 +41,8 @@
     "Installing pnpm@9.9.0 in the project...\r",
     "\r",
     "Scope: all 6 workspace projects\r",
-    "Downloading \u001b[97mtypescript@5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
     "Downloading \u001b[97mnext@14.2.6\u001b[0m: \u001b[96m20.63 MB\u001b[0m/\u001b[96m20.63 MB\u001b[0m, done\r",
+    "Downloading \u001b[97mtypescript@5.3.3\u001b[0m: \u001b[96m5.76 MB\u001b[0m/\u001b[96m5.76 MB\u001b[0m, done\r",
     "Downloading \u001b[97mtypescript@5.4.5\u001b[0m: \u001b[96m5.83 MB\u001b[0m/\u001b[96m5.83 MB\u001b[0m, done\r",
     "Downloading \u001b[97mturbo-linux-64@2.1.1\u001b[0m: \u001b[96m11.44 MB\u001b[0m/\u001b[96m11.44 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@next/swc-linux-x64-musl@14.2.6\u001b[0m: \u001b[96m50.25 MB\u001b[0m/\u001b[96m50.25 MB\u001b[0m, done\r",
@@ -50,7 +50,7 @@
     "Packages: \u001b[32m+612\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m620\u001b[0m, reused \u001b[96m78\u001b[0m, downloaded \u001b[96m530\u001b[0m, added \u001b[96m612\u001b[0m, done\r",
-    "\u001b[90mnode_modules/.pnpm/core-js-pure@3.32.1/node_modules/\u001b[0mcore-js-pure: Running postinstall script, done in 64ms\r",
+    "\u001b[90mnode_modules/.pnpm/core-js-pure@3.32.1/node_modules/\u001b[0mcore-js-pure: Running postinstall script, done in 58ms\r",
     "\r",
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m prettier \u001b[90m3.2.5\u001b[0m \u001b[90m(3.3.3 is available)\r",
@@ -62,7 +62,7 @@
     "\u001b[0m└─┬ eslint-plugin-jest \u001b[90m27.6.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m @typescript-eslint/eslint-plugin@\"^5.0.0 || ^6.0.0\": found 7.1.0\r",
     "\r",
-    "Done in 10.8s\r",
+    "Done in 9.8s\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -161,7 +161,7 @@
     "\r",
     "\u001b[1m Tasks:    \u001b[32m2 successful\u001b[0m, 2 total\r",
     "\u001b[1mCached:    0 cached\u001b[0m, 2 total\r",
-    "\u001b[1m  Time:    33.414s\u001b[0m \r",
+    "\u001b[1m  Time:    33.138s\u001b[0m \r",
     "\r",
     "Finished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
@@ -178,7 +178,7 @@
     ""
   ],
   "description": "Fresh monorepo, built with Turborepo, automatically generated everyday with \"pnpm create turbo --package-manager pnpm\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10658944433",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10674809463",
   "frameworkUrl": "https://turborepo.org/",
   "frameworkDocumentationUrl": "https://turborepo.org/docs"
 }
