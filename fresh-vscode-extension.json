@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 56926939,
+  "size": 56922595,
   "timing": {
-    "startTime": "2024-09-04T01:04:52.641Z",
-    "finishTime": "2024-09-04T01:05:17.154Z"
+    "startTime": "2024-09-05T01:05:17.233Z",
+    "finishTime": "2024-09-05T01:05:55.299Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -15,9 +15,9 @@
     "Packages: \u001b[32m+707\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m753\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m707\u001b[0m, added \u001b[96m707\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 35ms\r",
-    "\u001b[90m.pnpm/core-js@3.38.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 42ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.4.0_@yeoman+adapter@1.6.0_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.4.0_@yeoman+adapter@1.6.0_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 46ms\r",
+    "\u001b[90m.pnpm/core-js@3.38.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 45ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.4.0_@yeoman+adapter@1.6.0_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall\u001b[90m.pnpm/yo@5.0.0_@yeoman+types@1.4.0_@yeoman+adapter@1.6.0_mem-fs@4.1.0__mem-fs@4.1.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.5s\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -29,7 +29,7 @@
     "\u001b[0m└─┬ @yeoman/types \u001b[90m1.4.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.0\r",
     "\r",
-    "Done in 8.5s\r",
+    "Done in 9.9s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "\u001b[31m     _-----_     ╭──────────────────────────╮\r",
@@ -65,8 +65,8 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported\r",
-    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m @humanwhocodes/config-array@0.11.14: Use @eslint/config-array instead\r",
+    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m @humanwhocodes/object-schema@2.0.3: Use @eslint/object-schema instead\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
@@ -97,7 +97,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10693182200",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10711958140",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
