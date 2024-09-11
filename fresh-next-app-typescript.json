@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 498690536,
+  "size": 498683976,
   "timing": {
-    "startTime": "2024-09-10T01:03:59.370Z",
-    "finishTime": "2024-09-10T01:04:40.921Z"
+    "startTime": "2024-09-11T01:03:23.824Z",
+    "finishTime": "2024-09-11T01:04:00.051Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --typescript\r",
-    ".../191d975787f-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../191d975787f-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../191de9b49fe-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../191de9b49fe-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -39,8 +39,8 @@
     "! For more details about this field, consult the documentation at https://nodejs.org/api/packages.html#packagemanager\r",
     "\r",
     "\u001b[0mDownloading \u001b[97mnext@14.2.9\u001b[0m: \u001b[96m20.66 MB\u001b[0m/\u001b[96m20.66 MB\u001b[0m, done\r",
-    "Downloading \u001b[97m@next/swc-linux-x64-gnu@14.2.9\u001b[0m: \u001b[96m41.91 MB\u001b[0m/\u001b[96m41.91 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@next/swc-linux-x64-musl@14.2.9\u001b[0m: \u001b[96m50.27 MB\u001b[0m/\u001b[96m50.27 MB\u001b[0m, done\r",
+    "Downloading \u001b[97m@next/swc-linux-x64-gnu@14.2.9\u001b[0m: \u001b[96m41.91 MB\u001b[0m/\u001b[96m41.91 MB\u001b[0m, done\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m5 deprecated subdependencies found:\u001b[0m @humanwhocodes/config-array@0.11.14, @humanwhocodes/object-schema@2.0.3, glob@7.2.3, inflight@1.0.6, rimraf@3.0.2\r",
     "Packages: \u001b[32m+359\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
@@ -61,7 +61,7 @@
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m3.4.10\r",
     "\u001b[32m+\u001b[0m typescript \u001b[90m5.6.2\r",
     "\r",
-    "\u001b[0mDone in 8.3s\r",
+    "\u001b[0mDone in 6.7s\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -70,7 +70,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 762ms\r",
+    "Done in 763ms\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -113,10 +113,10 @@
     "\u001b[0m  - Local:        http://localhost:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 319ms\u001b[1B\u001b[17D"
+    " \u001b[32;1m✓\u001b[0m Ready in 312ms\u001b[1B\u001b[17D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10783839063",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10803066624",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
