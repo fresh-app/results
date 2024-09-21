@@ -1,9 +1,9 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 7611689,
+  "size": 7612070,
   "timing": {
-    "startTime": "2024-09-20T01:05:22.221Z",
-    "finishTime": "2024-09-20T01:05:25.545Z"
+    "startTime": "2024-09-21T01:03:18.303Z",
+    "finishTime": "2024-09-21T01:03:21.430Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -26,19 +26,19 @@
     "+ /home/node/.bun/bin/bun create elysia fresh-app\r",
     "\r",
     "\u001b[2m$ \u001b[36;1mbun\u001b[39;22m install\r",
-    "\u001b[1;22mbun install \u001b[22;2mv1.1.28 (cf4e9cb6)\r",
+    "\u001b[1;22mbun install \u001b[22;2mv1.1.29 (6d43b366)\r",
     "\u001b[0m  🔍 Resolving [1/2] \r",
     "\u001b[2m[\u001b[1m16.00ms\u001b[22m]\u001b[0m \u001b[2mgit\r",
     "\r",
-    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.1.28\r",
+    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.1.29\r",
     "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.1.13\r",
     "\r",
-    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m521.00ms\u001b[22m]\r",
+    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m536.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m526.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m540.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1402.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1131.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10951326424",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/10968329359",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
