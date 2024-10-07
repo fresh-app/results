@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13686005,
+  "size": 13685985,
   "timing": {
-    "startTime": "2024-10-06T01:11:49.233Z",
-    "finishTime": "2024-10-06T01:12:45.866Z"
+    "startTime": "2024-10-07T01:08:30.762Z",
+    "finishTime": "2024-10-07T01:09:29.849Z"
   },
   "log": [
     "Unpacking fonts-unifont (1:15.0.01-2) ...\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (7.1s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (6.7s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.87:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.217:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Sun Oct 06 2024 01:12:40 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "\u001b[31m(node:5229) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Mon Oct 07 2024 01:09:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[31m(node:5218) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "\u001b[0m[Sun Oct 06 2024 01:12:41 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[0m[Mon Oct 07 2024 01:09:25 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11197732829",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11206832567",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
