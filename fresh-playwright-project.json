@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13917545,
+  "size": 13917541,
   "timing": {
-    "startTime": "2024-10-27T01:12:03.233Z",
-    "finishTime": "2024-10-27T01:12:56.731Z"
+    "startTime": "2024-10-28T01:09:46.029Z",
+    "finishTime": "2024-10-28T01:10:40.323Z"
   },
   "log": [
     "Unpacking fonts-unifont (1:15.0.01-2) ...\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.200:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.70:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Sun Oct 27 2024 01:12:51 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "\u001b[31m(node:5305) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Mon Oct 28 2024 01:10:35 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[31m(node:5292) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "\u001b[0m[Sun Oct 27 2024 01:12:52 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[0m[Mon Oct 28 2024 01:10:35 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11536374992",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11545485667",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
