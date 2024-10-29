@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 57981555,
+  "size": 57991457,
   "timing": {
-    "startTime": "2024-10-28T01:11:43.494Z",
-    "finishTime": "2024-10-28T01:12:09.909Z"
+    "startTime": "2024-10-29T01:10:53.778Z",
+    "finishTime": "2024-10-29T01:11:14.071Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -11,15 +11,13 @@
     "> mv fresh-extension fresh-app\r",
     "> test -f fresh-app/package.json' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm install --global yo generator-code\r",
-    "\u001b[30;43m WARN \u001b[0m GET https://registry.npmjs.org/p-any error (500). Will retry in 10 seconds. 2 retries left.\r",
-    "\u001b[30;43m WARN \u001b[0m GET https://registry.npmjs.org/process/-/process-0.11.10.tgz error (ERR_PNPM_FETCH_500). Will retry in 10 seconds. 2 retries left.\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
     "Packages: \u001b[32m+703\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m749\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m703\u001b[0m, added \u001b[96m703\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 36ms\r",
-    "\u001b[90m.pnpm/core-js@3.38.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 41ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.8.1_@yeoman+types@1.5.0_@types+node@22.8.1_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1..pnpm/yo@5.0.0_@types+node@22.8.1_@yeoman+types@1.5.0_@types+node@22.8.1_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 601ms\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 34ms\r",
+    "\u001b[90m.pnpm/core-js@3.38.1/node_modules/\u001b[0mcore-js: Running postinstall script, done in 42ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.8.2_@yeoman+types@1.5.0_@types+node@22.8.2_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1..pnpm/yo@5.0.0_@types+node@22.8.2_@yeoman+types@1.5.0_@types+node@22.8.2_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 633ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -31,7 +29,7 @@
     "└─┬ @yeoman/types \u001b[90m1.5.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.1\r",
     "\r",
-    "Done in 14.6s\r",
+    "Done in 7.5s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "\u001b[31m     _-----_     ╭──────────────────────────╮\r",
@@ -69,7 +67,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 266 packages, and audited 267 packages in 8s\r",
+    "added 266 packages, and audited 267 packages in 10s\r",
     "\r",
     "69 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -95,7 +93,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11545485667",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11565361996",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
