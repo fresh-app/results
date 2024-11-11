@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13923579,
+  "size": 13923567,
   "timing": {
-    "startTime": "2024-11-10T01:10:16.510Z",
-    "finishTime": "2024-11-10T01:11:46.271Z"
+    "startTime": "2024-11-11T01:06:57.318Z",
+    "finishTime": "2024-11-11T01:08:13.472Z"
   },
   "log": [
     "Unpacking libproxy1v5:amd64 (0.4.18-1.2) ...\r",
@@ -593,8 +593,8 @@
     "Preparing to unpack .../225-libnspr4_2%3a4.35-1_amd64.deb ...\r",
     "Unpacking libnspr4:amd64 (2:4.35-1) ...\r",
     "Selecting previously unselected package libnss3:amd64.\r",
-    "Preparing to unpack .../226-libnss3_2%3a3.87.1-1_amd64.deb ...\r",
-    "Unpacking libnss3:amd64 (2:3.87.1-1) ...\r",
+    "Preparing to unpack .../226-libnss3_2%3a3.87.1-1+deb12u1_amd64.deb ...\r",
+    "Unpacking libnss3:amd64 (2:3.87.1-1+deb12u1) ...\r",
     "Selecting previously unselected package libsrtp2-1:amd64.\r",
     "Preparing to unpack .../227-libsrtp2-1_2.5.0-3_amd64.deb ...\r",
     "Unpacking libsrtp2-1:amd64 (2.5.0-3) ...\r",
@@ -956,7 +956,7 @@
     "Setting up libavahi-common3:amd64 (0.8-10) ...\r",
     "Setting up libglib2.0-bin (2.74.6-2+deb12u4) ...\r",
     "Setting up libgstreamer-plugins-base1.0-0:amd64 (1.22.0-3+deb12u2) ...\r",
-    "Setting up libnss3:amd64 (2:3.87.1-1) ...\r",
+    "Setting up libnss3:amd64 (2:3.87.1-1+deb12u1) ...\r",
     "Setting up dbus-daemon (1.14.10-1~deb12u1) ...\r",
     "Setting up libatspi2.0-0:amd64 (2.46.0-5) ...\r",
     "Setting up xfonts-utils (1:7.7+6) ...\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (9.2s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.1s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.71:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.197:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Sun Nov 10 2024 01:11:41 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "\u001b[31m(node:5533) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Mon Nov 11 2024 01:08:08 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[31m(node:5507) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "\u001b[0m[Sun Nov 10 2024 01:11:41 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[0m[Mon Nov 11 2024 01:08:09 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11760910376",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11770212929",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
