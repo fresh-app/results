@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 13923567,
+  "size": 13923575,
   "timing": {
-    "startTime": "2024-11-11T01:06:57.318Z",
-    "finishTime": "2024-11-11T01:08:13.472Z"
+    "startTime": "2024-11-12T01:04:52.187Z",
+    "finishTime": "2024-11-12T01:06:11.948Z"
   },
   "log": [
     "Unpacking libproxy1v5:amd64 (0.4.18-1.2) ...\r",
@@ -143,8 +143,8 @@
     "Preparing to unpack .../075-libgme0_0.6.3-6_amd64.deb ...\r",
     "Unpacking libgme0:amd64 (0.6.3-6) ...\r",
     "Selecting previously unselected package libmpg123-0:amd64.\r",
-    "Preparing to unpack .../076-libmpg123-0_1.31.2-1_amd64.deb ...\r",
-    "Unpacking libmpg123-0:amd64 (1.31.2-1) ...\r",
+    "Preparing to unpack .../076-libmpg123-0_1.31.2-1+deb12u1_amd64.deb ...\r",
+    "Unpacking libmpg123-0:amd64 (1.31.2-1+deb12u1) ...\r",
     "Selecting previously unselected package libvorbisfile3:amd64.\r",
     "Preparing to unpack .../077-libvorbisfile3_1.3.7-1_amd64.deb ...\r",
     "Unpacking libvorbisfile3:amd64 (1.3.7-1) ...\r",
@@ -777,7 +777,7 @@
     "Setting up libsodium23:amd64 (1.0.18-1) ...\r",
     "Setting up libgpm2:amd64 (1.20.7-10+b1) ...\r",
     "Setting up libxdamage1:amd64 (1:1.1.6-1) ...\r",
-    "Setting up libmpg123-0:amd64 (1.31.2-1) ...\r",
+    "Setting up libmpg123-0:amd64 (1.31.2-1+deb12u1) ...\r",
     "Setting up libxcb-xfixes0:amd64 (1.15-1) ...\r",
     "Setting up libogg0:amd64 (1.3.5-3) ...\r",
     "Setting up libspeex1:amd64 (1.2.1-2) ...\r",
@@ -1078,7 +1078,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.1s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.3s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1103,18 +1103,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.197:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.21:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Mon Nov 11 2024 01:08:08 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "\u001b[31m(node:5507) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Tue Nov 12 2024 01:06:06 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[31m(node:5534) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "\u001b[0m[Mon Nov 11 2024 01:08:09 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "\u001b[0m[Tue Nov 12 2024 01:06:07 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11770212929",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/11788750842",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
