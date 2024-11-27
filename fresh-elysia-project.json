@@ -1,9 +1,9 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 7719920,
+  "size": 8640923,
   "timing": {
-    "startTime": "2024-11-26T01:10:59.930Z",
-    "finishTime": "2024-11-26T01:11:06.463Z"
+    "startTime": "2024-11-27T01:12:28.522Z",
+    "finishTime": "2024-11-27T01:12:32.557Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -26,19 +26,19 @@
     "+ /home/node/.bun/bin/bun create elysia fresh-app\r",
     "\r",
     "\u001b[2m$ \u001b[36;1mbun\u001b[39;22m install\r",
-    "\u001b[1;22mbun install \u001b[22;2mv1.1.36 (ededc168)\r",
-    "\u001b[0m  🚚 fast-decode-uri-component [26/30] \r",
-    "\u001b[2m[\u001b[1m518.00ms\u001b[22m]\u001b[0m \u001b[2mgit\r",
+    "\u001b[1;22mbun install \u001b[22;2mv1.1.37 (8ca0eb83)\r",
+    "\u001b[0m  🔍 Resolving [1/2] \r",
+    "\u001b[2m[\u001b[1m461.00ms\u001b[22m]\u001b[0m \u001b[2mgit\r",
     "\r",
-    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.1.36\r",
+    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.1.37\r",
     "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.1.25\r",
     "\r",
-    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m672.00ms\u001b[22m]\r",
+    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m513.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m678.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m518.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1358.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1177.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12021794815",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12041835028",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
