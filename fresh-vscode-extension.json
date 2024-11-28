@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 58309748,
   "timing": {
-    "startTime": "2024-11-27T01:14:36.983Z",
-    "finishTime": "2024-11-27T01:15:00.288Z"
+    "startTime": "2024-11-28T01:13:48.731Z",
+    "finishTime": "2024-11-28T01:14:11.930Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -15,9 +15,9 @@
     "Packages: \u001b[32m+703\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m749\u001b[0m, reused \u001b[96m46\u001b[0m, downloaded \u001b[96m703\u001b[0m, added \u001b[96m703\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 35ms\r",
-    "\u001b[90m.pnpm/core-js@3.39.0/node_modules/\u001b[0mcore-js: Running postinstall script, done in 42ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.10.0_@yeoman+types@1.5.0_@types+node@22.10.0_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4..pnpm/yo@5.0.0_@types+node@22.10.0_@yeoman+types@1.5.0_@types+node@22.10.0_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 1s\r",
+    "\u001b[90m.pnpm/core-js@3.39.0/node_modules/\u001b[0mcore-js: Running postinstall script, done in 43ms\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 37ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.10.0_@yeoman+types@1.5.0_@types+node@22.10.0_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4..pnpm/yo@5.0.0_@types+node@22.10.0_@yeoman+types@1.5.0_@types+node@22.10.0_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 896ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -29,7 +29,7 @@
     "└─┬ @yeoman/types \u001b[90m1.5.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.1\r",
     "\r",
-    "Done in 8.1s\r",
+    "Done in 7.4s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -93,7 +93,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12041835028",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12060701615",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
