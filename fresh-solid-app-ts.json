@@ -1,9 +1,9 @@
 {
   "generator": "fresh-solid-app-ts",
-  "size": 63790804,
+  "size": 63790906,
   "timing": {
-    "startTime": "2024-11-28T01:11:38.026Z",
-    "finishTime": "2024-11-28T01:12:26.312Z"
+    "startTime": "2024-11-29T01:11:37.497Z",
+    "finishTime": "2024-11-29T01:12:31.573Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/ts fresh-app\r",
@@ -19,7 +19,7 @@
     "\u001b[0m+ cd fresh-app\r",
     "+ rm -f pnpm-lock.yaml\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@9.14.2 in the project...\r",
+    "Installing pnpm@9.14.3 in the project...\r",
     "\r",
     "Packages: \u001b[32m+92\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
@@ -35,7 +35,7 @@
     "\u001b[32m+\u001b[0m vite \u001b[90m5.4.11\u001b[0m \u001b[90m(6.0.1 is available)\r",
     "\u001b[32m+\u001b[0m vite-plugin-solid \u001b[90m2.11.0\r",
     "\r",
-    "\u001b[0mDone in 3.6s\r",
+    "\u001b[0mDone in 3.1s\r",
     "+ pnpm build\r",
     "\r",
     "> vite-template-solid@0.0.0 build /workspace/fresh-app\r",
@@ -48,7 +48,7 @@
     "dist/assets/\u001b[32;22mfavicon-mtvwWgEY.ico  \u001b[39;1;2m15.09 kB\r",
     "\u001b[22mdist/assets/\u001b[35;22mindex-kNDHXHrP.css    \u001b[39;1;2m 0.71 kB\u001b[22m │ gzip: 0.47 kB\r",
     "dist/assets/\u001b[36;22mindex-Dv8B4f7S.js     \u001b[39;1;2m 9.44 kB\u001b[22m │ gzip: 3.81 kB\r",
-    "\u001b[32;22m✓ built in 455ms\r",
+    "\u001b[32;22m✓ built in 440ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -68,21 +68,21 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.69:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.253:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Nov 29 2024 01:12:26 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     "(node:107) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Dv8B4f7S.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Dv8B4f7S.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Thu Nov 28 2024 01:12:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[94D"
+    "[Fri Nov 29 2024 01:12:26 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Dv8B4f7S.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Nov 29 2024 01:12:26 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Nov 29 2024 01:12:27 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Nov 29 2024 01:12:27 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Dv8B4f7S.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Nov 29 2024 01:12:27 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[94D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12060701615",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12077341482",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
