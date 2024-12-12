@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 55408786,
+  "size": 55409673,
   "timing": {
-    "startTime": "2024-12-11T01:15:14.689Z",
-    "finishTime": "2024-12-11T01:15:34.585Z"
+    "startTime": "2024-12-12T01:15:00.357Z",
+    "finishTime": "2024-12-12T01:15:18.772Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm install --global yo generator-code\r",
@@ -14,10 +14,10 @@
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
     "Packages: \u001b[32m+704\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m751\u001b[0m, reused \u001b[96m47\u001b[0m, downloaded \u001b[96m704\u001b[0m, added \u001b[96m704\u001b[0m, done\r",
-    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 34ms\r",
+    "\u001b[0mProgress: resolved \u001b[96m757\u001b[0m, reused \u001b[96m53\u001b[0m, downloaded \u001b[96m704\u001b[0m, added \u001b[96m704\u001b[0m, done\r",
+    "\u001b[90m.pnpm/spawn-sync@1.0.15/node_modules/\u001b[0mspawn-sync: Running postinstall script, done in 35ms\r",
     "\u001b[90m.pnpm/core-js@3.39.0/node_modules/\u001b[0mcore-js: Running postinstall script, done in 41ms\r",
-    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.10.1_@yeoman+types@1.5.0_@types+node@22.10.1_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4..pnpm/yo@5.0.0_@types+node@22.10.1_@yeoman+types@1.5.0_@types+node@22.10.1_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 598ms\r",
+    "\u001b[90m.pnpm/yo@5.0.0_@types+node@22.10.2_@yeoman+types@1.5.0_@types+node@22.10.2_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4..pnpm/yo@5.0.0_@types+node@22.10.2_@yeoman+types@1.5.0_@types+node@22.10.2_@yeoman+adapter@1.6.0_mem-fs@4.1.1__mem-fs@4.1.1/node_modules/\u001b[0myo: Running postinstall script, done in 578ms\r",
     "\u001b[30;43m WARN \u001b[0m generator-code has no binaries\r",
     "\r",
     "\u001b[96m/pnpm-bin/global/5:\r",
@@ -29,7 +29,7 @@
     "└─┬ @yeoman/types \u001b[90m1.5.0\r",
     "\u001b[0m  └── \u001b[93m✕ unmet peer\u001b[0m mem-fs@^3.0.0: found 4.1.1\r",
     "\r",
-    "Done in 7.6s\r",
+    "Done in 6.7s\r",
     "+ yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -93,7 +93,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12267698621",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/12287889237",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
