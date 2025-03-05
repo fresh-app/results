@@ -1,9 +1,9 @@
 {
   "generator": "fresh-turbo-monorepo",
-  "size": 661182876,
+  "size": 661181924,
   "timing": {
-    "startTime": "2025-03-04T00:39:17.613Z",
-    "finishTime": "2025-03-04T00:40:04.815Z"
+    "startTime": "2025-03-05T00:39:13.187Z",
+    "finishTime": "2025-03-05T00:39:59.228Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
-    ".../1955e97c12c-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
-    "\u001b[0m.../1955e97c12c-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m10\u001b[0m, downloaded \u001b[96m86\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
+    ".../19563be0cf4-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
+    "\u001b[0m.../19563be0cf4-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m10\u001b[0m, downloaded \u001b[96m86\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
     "\r",
     "\u001b[38;5;39;1m>>>\u001b[0m Creating a new Turborepo with:\r",
     "\r",
@@ -45,10 +45,10 @@
     "Packages: \u001b[32m+453\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mDownloading \u001b[97mnext@15.2.1\u001b[0m: \u001b[96m24.13 MB\u001b[0m/\u001b[96m24.13 MB\u001b[0m, done\r",
-    "Downloading \u001b[97m@next/swc-linux-x64-musl@15.2.1\u001b[0m: \u001b[96m46.45 MB\u001b[0m/\u001b[96m46.45 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@next/swc-linux-x64-gnu@15.2.1\u001b[0m: \u001b[96m46.50 MB\u001b[0m/\u001b[96m46.50 MB\u001b[0m, done\r",
-    "Downloading \u001b[97m@img/sharp-libvips-linux-x64@1.0.4\u001b[0m: \u001b[96m7.06 MB\u001b[0m/\u001b[96m7.06 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@img/sharp-libvips-linuxmusl-x64@1.0.4\u001b[0m: \u001b[96m7.20 MB\u001b[0m/\u001b[96m7.20 MB\u001b[0m, done\r",
+    "Downloading \u001b[97m@img/sharp-libvips-linux-x64@1.0.4\u001b[0m: \u001b[96m7.06 MB\u001b[0m/\u001b[96m7.06 MB\u001b[0m, done\r",
+    "Downloading \u001b[97m@next/swc-linux-x64-musl@15.2.1\u001b[0m: \u001b[96m46.45 MB\u001b[0m/\u001b[96m46.45 MB\u001b[0m, done\r",
     "Downloading \u001b[97mturbo-linux-64@2.4.4\u001b[0m: \u001b[96m14.06 MB\u001b[0m/\u001b[96m14.06 MB\u001b[0m, done\r",
     "Progress: resolved \u001b[96m453\u001b[0m, reused \u001b[96m112\u001b[0m, downloaded \u001b[96m341\u001b[0m, added \u001b[96m453\u001b[0m, done\r",
     "\r",
@@ -64,7 +64,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.4s using pnpm v10.5.2\r",
+    "\u001b[0mDone in 6.1s using pnpm v10.5.2\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -151,7 +151,7 @@
     "\r",
     "\u001b[1m Tasks:    \u001b[32m2 successful\u001b[0m, 2 total\r",
     "\u001b[1mCached:    0 cached\u001b[0m, 2 total\r",
-    "\u001b[1m  Time:    27.376s\u001b[0m \r",
+    "\u001b[1m  Time:    27.656s\u001b[0m \r",
     "\r",
     "Finished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
@@ -162,14 +162,14 @@
     "\r",
     "   \u001b[38;2;173;127;168;1m▲ Next.js 15.2.1\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
-    "   - Network:      http://10.1.0.174:3000\r",
+    "   - Network:      http://10.1.0.31:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 349ms\r",
+    " \u001b[32;1m✓\u001b[0m Ready in 341ms\r",
     ""
   ],
   "description": "Fresh monorepo, built with Turborepo, automatically generated everyday with \"pnpm create turbo --package-manager pnpm\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13643522346",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13665834410",
   "frameworkUrl": "https://turborepo.org/",
   "frameworkDocumentationUrl": "https://turborepo.org/docs"
 }
