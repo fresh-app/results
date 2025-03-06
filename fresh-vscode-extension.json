@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54865468,
+  "size": 54868019,
   "timing": {
-    "startTime": "2025-03-05T00:41:11.349Z",
-    "finishTime": "2025-03-05T00:41:31.345Z"
+    "startTime": "2025-03-06T00:41:46.608Z",
+    "finishTime": "2025-03-06T00:42:25.660Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -54,7 +54,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7.2s using pnpm v10.5.2\r",
+    "\u001b[0mDone in 25.8s using pnpm v10.5.2\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -91,19 +91,19 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
-    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
+    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 267 packages, and audited 268 packages in 9s\r",
+    "added 267 packages, and audited 268 packages in 10s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.1.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.1.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.1.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.2.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.2.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.2.0\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
     "\r",
     "\u001b[0mYour extension fresh-extension has been created!\r",
@@ -122,7 +122,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13665834410",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13688500471",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
