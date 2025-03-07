@@ -1,17 +1,17 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 7691580,
+  "size": 7692323,
   "timing": {
-    "startTime": "2025-03-06T00:39:18.150Z",
-    "finishTime": "2025-03-06T00:39:21.680Z"
+    "startTime": "2025-03-07T00:39:04.602Z",
+    "finishTime": "2025-03-07T00:39:07.538Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
     "> git config --global user.email \"dtinth-bot@users.noreply.github.com\"\r",
     "> git config --global user.name \"dtinth-bot\"\r",
     "> ~/.bun/bin/bun create elysia fresh-app' < /dev/null; cat /opt/factory/src/completed.txt\r",
-    "+ curl -fsSL https://bun.sh/install\r",
     "+ bash\r",
+    "+ curl -fsSL https://bun.sh/install\r",
     "######################################################################## 100.0%\r",
     "\u001b[32mbun was installed successfully to \u001b[1m~/.bun/bin/bun \r",
     "\r",
@@ -31,14 +31,14 @@
     "\u001b[2m[\u001b[1m15.00ms\u001b[22m]\u001b[0m \u001b[2mgit\r",
     "\r",
     "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.2.4\r",
-    "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.2.24\r",
+    "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.2.25\r",
     "\r",
-    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m414.00ms\u001b[22m]\r",
+    "\u001b[32;22m9\u001b[0m packages installed \u001b[2m[\u001b[1m740.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m421.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m745.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1044.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1324.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13688500471",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13711120407",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
