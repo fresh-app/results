@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54928192,
   "timing": {
-    "startTime": "2025-03-09T00:37:41.183Z",
-    "finishTime": "2025-03-09T00:38:02.908Z"
+    "startTime": "2025-03-10T00:36:30.872Z",
+    "finishTime": "2025-03-10T00:36:48.903Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -54,7 +54,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 9.8s using pnpm v10.6.1\r",
+    "\u001b[0mDone in 7.1s using pnpm v10.6.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -94,7 +94,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 268 packages, and audited 269 packages in 8s\r",
+    "added 268 packages, and audited 269 packages in 7s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -122,7 +122,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13742975839",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13754190614",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
