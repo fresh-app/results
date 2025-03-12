@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54930677,
+  "size": 54932901,
   "timing": {
-    "startTime": "2025-03-11T00:42:06.702Z",
-    "finishTime": "2025-03-11T00:42:29.715Z"
+    "startTime": "2025-03-12T00:41:20.086Z",
+    "finishTime": "2025-03-12T00:41:39.195Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -37,7 +37,7 @@
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
     "Packages: \u001b[32m+708\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m708\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m690\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m708\u001b[0m, reused \u001b[96m19\u001b[0m, downloaded \u001b[96m689\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
     "\u001b[30;43m WARN \u001b[0m Issues with peer dependencies found\r",
     ".\r",
     "└─┬ @yeoman/types \u001b[90m1.5.0\r",
@@ -54,7 +54,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7.6s using pnpm v10.6.2\r",
+    "\u001b[0mDone in 5.9s using pnpm v10.6.2\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -94,7 +94,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 268 packages, and audited 269 packages in 12s\r",
+    "added 268 packages, and audited 269 packages in 9s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -122,7 +122,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13777716087",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/13801048906",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
