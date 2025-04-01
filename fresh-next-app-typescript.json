@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app-typescript",
-  "size": 582318288,
+  "size": 582311586,
   "timing": {
-    "startTime": "2025-03-31T00:43:11.744Z",
-    "finishTime": "2025-03-31T00:43:48.737Z"
+    "startTime": "2025-04-01T00:46:20.797Z",
+    "finishTime": "2025-04-01T00:46:56.337Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --typescript --yes\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --typescript --yes\r",
-    ".../195e9a7080e-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../195e9a7080e-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../195eed046ae-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../195eed046ae-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -40,10 +40,10 @@
     "! For more details about this field, consult the documentation at https://nodejs.org/api/packages.html#packagemanager\r",
     "\r",
     "Downloading \u001b[97mnext@15.2.4\u001b[0m: \u001b[96m23.87 MB\u001b[0m/\u001b[96m23.87 MB\u001b[0m, done\r",
-    "Downloading \u001b[97m@next/swc-linux-x64-gnu@15.2.4\u001b[0m: \u001b[96m46.44 MB\u001b[0m/\u001b[96m46.44 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@next/swc-linux-x64-musl@15.2.4\u001b[0m: \u001b[96m46.41 MB\u001b[0m/\u001b[96m46.41 MB\u001b[0m, done\r",
-    "Downloading \u001b[97m@img/sharp-libvips-linux-x64@1.0.4\u001b[0m: \u001b[96m7.06 MB\u001b[0m/\u001b[96m7.06 MB\u001b[0m, done\r",
+    "Downloading \u001b[97m@next/swc-linux-x64-gnu@15.2.4\u001b[0m: \u001b[96m46.44 MB\u001b[0m/\u001b[96m46.44 MB\u001b[0m, done\r",
     "Downloading \u001b[97m@img/sharp-libvips-linuxmusl-x64@1.0.4\u001b[0m: \u001b[96m7.20 MB\u001b[0m/\u001b[96m7.20 MB\u001b[0m, done\r",
+    "Downloading \u001b[97m@img/sharp-libvips-linux-x64@1.0.4\u001b[0m: \u001b[96m7.06 MB\u001b[0m/\u001b[96m7.06 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+317\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m373\u001b[0m, reused \u001b[96m27\u001b[0m, downloaded \u001b[96m295\u001b[0m, added \u001b[96m317\u001b[0m, done\r",
@@ -71,7 +71,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.8s using pnpm v10.7.0\r",
+    "\u001b[0mDone in 6.2s using pnpm v10.7.0\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -88,7 +88,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 593ms using pnpm v10.7.0\r",
+    "\u001b[0mDone in 569ms using pnpm v10.7.0\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -129,14 +129,14 @@
     "\r",
     "   \u001b[38;2;173;127;168;1m▲ Next.js 15.2.4\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
-    "   - Network:      http://10.1.0.31:3000\r",
+    "   - Network:      http://10.1.0.175:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 446ms\r",
+    " \u001b[32;1m✓\u001b[0m Ready in 416ms\r",
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14161659994",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14184457194",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
