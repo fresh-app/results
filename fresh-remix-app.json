@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 197014342,
+  "size": 197014933,
   "timing": {
-    "startTime": "2025-04-07T00:41:58.691Z",
-    "finishTime": "2025-04-07T00:42:24.788Z"
+    "startTime": "2025-04-08T00:40:10.651Z",
+    "finishTime": "2025-04-08T00:40:32.167Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create remix fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create remix fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m2 deprecated subdependencies found:\u001b[0m glob@7.2.3, inflight@1.0.6\r",
-    ".../1960db26e04-a                        | \u001b[32m+205\u001b[0m \u001b[32m+++++++++++++++++++++\r",
-    "\u001b[0m.../1960db26e04-a                        | Progress: resolved \u001b[96m205\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m183\u001b[0m, added \u001b[96m205\u001b[0m, done\r",
+    ".../19612d72439-a                        | \u001b[32m+205\u001b[0m \u001b[32m+++++++++++++++++++++\r",
+    "\u001b[0m.../19612d72439-a                        | Progress: resolved \u001b[96m205\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m183\u001b[0m, added \u001b[96m205\u001b[0m, done\r",
     "\r",
     "\u001b[47m \u001b[30mremix\u001b[39m \u001b[0m  \u001b[32;1mv2.16.4\u001b[0m \u001b[1m💿 Let's build a better website...\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -31,7 +31,7 @@
     "\r",
     "\u001b[0m+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@10.7.1 in the project...\r",
+    "Installing pnpm@10.8.0 in the project...\r",
     "\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31mdeprecated\u001b[0m eslint@8.57.1: This version is no longer supported. Please see https://eslint.org/version-support for other options.\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m5 deprecated subdependencies found:\u001b[0m @humanwhocodes/config-array@0.13.0, @humanwhocodes/object-schema@2.0.3, glob@7.2.3, inflight@1.0.6, rimraf@3.0.2\r",
@@ -51,11 +51,11 @@
     "\u001b[32m+\u001b[0m @remix-run/dev \u001b[90m2.16.4\r",
     "\u001b[32m+\u001b[0m @types/react \u001b[90m18.3.20\u001b[0m \u001b[90m(19.1.0 is available)\r",
     "\u001b[32m+\u001b[0m @types/react-dom \u001b[90m18.3.6\u001b[0m \u001b[90m(19.1.1 is available)\r",
-    "\u001b[32m+\u001b[0m @typescript-eslint/eslint-plugin \u001b[90m6.21.0\u001b[0m \u001b[90m(8.29.0 is available)\r",
-    "\u001b[32m+\u001b[0m @typescript-eslint/parser \u001b[90m6.21.0\u001b[0m \u001b[90m(8.29.0 is available)\r",
+    "\u001b[32m+\u001b[0m @typescript-eslint/eslint-plugin \u001b[90m6.21.0\u001b[0m \u001b[90m(8.29.1 is available)\r",
+    "\u001b[32m+\u001b[0m @typescript-eslint/parser \u001b[90m6.21.0\u001b[0m \u001b[90m(8.29.1 is available)\r",
     "\u001b[32m+\u001b[0m autoprefixer \u001b[90m10.4.21\r",
     "\u001b[32m+\u001b[0m eslint \u001b[90m8.57.1\u001b[0m \u001b[90m(9.24.0 is available)\u001b[0m \u001b[31mdeprecated\r",
-    "\u001b[32m+\u001b[0m eslint-import-resolver-typescript \u001b[90m3.10.0\u001b[0m \u001b[90m(4.3.1 is available)\r",
+    "\u001b[32m+\u001b[0m eslint-import-resolver-typescript \u001b[90m3.10.0\u001b[0m \u001b[90m(4.3.2 is available)\r",
     "\u001b[32m+\u001b[0m eslint-plugin-import \u001b[90m2.31.0\r",
     "\u001b[32m+\u001b[0m eslint-plugin-jsx-a11y \u001b[90m6.10.2\r",
     "\u001b[32m+\u001b[0m eslint-plugin-react \u001b[90m7.37.5\r",
@@ -73,7 +73,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7s using pnpm v10.7.1\r",
+    "\u001b[0mDone in 7.2s using pnpm v10.8.0\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -88,7 +88,7 @@
     "build/client/assets/\u001b[36;22m_index-CWhSQhKm.js        \u001b[39;1;2m  5.05 kB\u001b[22m │ gzip:  2.05 kB\r",
     "build/client/assets/\u001b[36;22mjsx-runtime-0DLF9kdB.js   \u001b[39;1;2m  7.76 kB\u001b[22m │ gzip:  2.96 kB\r",
     "build/client/assets/\u001b[36;22mcomponents-D-Q_jyef.js    \u001b[39;1;2m249.31 kB\u001b[22m │ gzip: 80.70 kB\r",
-    "\u001b[32;22m✓ built in 1.42s\r",
+    "\u001b[32;22m✓ built in 1.39s\r",
     "\u001b[36mvite v6.2.5 \u001b[32mbuilding SSR bundle for production...\r",
     "✓\u001b[0m 6 modules transformed.\r",
     "\u001b[2mbuild/server/\u001b[32;22m.vite/manifest.json               \u001b[39;1;2m 0.22 kB\r",
@@ -102,12 +102,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> remix-serve ./build/server/index.js\r",
     "\r",
-    "[remix-serve] http://localhost:3000 (http://10.1.0.126:3000)\r",
-    "GET / 200 - - 19.941 ms\r",
-    "GET / 200 - - 4.332 ms\u001b[1B\u001b[22D"
+    "[remix-serve] http://localhost:3000 (http://10.1.0.30:3000)\r",
+    "GET / 200 - - 19.863 ms\r",
+    "GET / 200 - - 4.499 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh Remix app, with TypeScript, automatically generated everyday with \"pnpm create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14298329494",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14322422231",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
