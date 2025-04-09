@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54169409,
   "timing": {
-    "startTime": "2025-04-08T00:40:14.652Z",
-    "finishTime": "2025-04-08T00:40:35.556Z"
+    "startTime": "2025-04-09T00:40:21.015Z",
+    "finishTime": "2025-04-09T00:40:42.235Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -54,7 +54,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7.4s using pnpm v10.8.0\r",
+    "\u001b[0mDone in 7.1s using pnpm v10.8.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -94,16 +94,16 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 265 packages, and audited 266 packages in 9s\r",
+    "added 265 packages, and audited 266 packages in 10s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.2.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.2.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.2.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.3.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.3.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.3.0\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
     "\r",
     "\u001b[0mYour extension fresh-extension has been created!\r",
@@ -122,7 +122,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14322422231",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14346369306",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
