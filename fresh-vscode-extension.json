@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54337228,
   "timing": {
-    "startTime": "2025-04-20T00:44:56.640Z",
-    "finishTime": "2025-04-20T00:45:15.755Z"
+    "startTime": "2025-04-21T00:46:12.826Z",
+    "finishTime": "2025-04-21T00:46:32.230Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.9s using pnpm v10.8.1\r",
+    "\u001b[0mDone in 6.2s using pnpm v10.8.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -90,7 +90,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 264 packages, and audited 265 packages in 8s\r",
+    "added 264 packages, and audited 265 packages in 10s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -114,10 +114,11 @@
     "+ mv yeoman_temp/fresh-extension fresh-app\r",
     "+ rm -rf yeoman_temp\r",
     "+ test -f fresh-app/package.json\r",
-    "Finished running generator.\u001b[1B\u001b[27D"
+    "Finished running generator.\r",
+    "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14554359931",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14564916874",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
