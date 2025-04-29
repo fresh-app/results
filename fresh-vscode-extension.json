@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54340546,
+  "size": 54341418,
   "timing": {
-    "startTime": "2025-04-28T00:46:09.358Z",
-    "finishTime": "2025-04-28T00:46:27.970Z"
+    "startTime": "2025-04-29T00:41:46.775Z",
+    "finishTime": "2025-04-29T00:42:05.156Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.5s using pnpm v10.10.0\r",
+    "\u001b[0mDone in 6.2s using pnpm v10.10.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -64,7 +64,7 @@
     " ´   \u001b[31m`  |\u001b[0m° \u001b[31m´ Y\u001b[0m ` \r",
     "\r",
     "\r",
-    "(node:47) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.\r",
+    "(node:46) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
     "Writing in /workspace/yeoman_temp/fresh-extension...\r",
     "\u001b[32m   create\u001b[0m fresh-extension/.vscode/extensions.json\r",
@@ -118,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14697834077",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14720788346",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
