@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54341418,
   "timing": {
-    "startTime": "2025-04-29T00:41:46.775Z",
-    "finishTime": "2025-04-29T00:42:05.156Z"
+    "startTime": "2025-04-30T00:42:20.681Z",
+    "finishTime": "2025-04-30T00:42:38.975Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.2s using pnpm v10.10.0\r",
+    "\u001b[0mDone in 6.5s using pnpm v10.10.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -64,7 +64,7 @@
     " ´   \u001b[31m`  |\u001b[0m° \u001b[31m´ Y\u001b[0m ` \r",
     "\r",
     "\r",
-    "(node:46) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.\r",
+    "(node:47) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
     "Writing in /workspace/yeoman_temp/fresh-extension...\r",
     "\u001b[32m   create\u001b[0m fresh-extension/.vscode/extensions.json\r",
@@ -90,7 +90,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 264 packages, and audited 265 packages in 9s\r",
+    "added 264 packages, and audited 265 packages in 8s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -118,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14720788346",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14744165814",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
