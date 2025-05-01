@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54341418,
   "timing": {
-    "startTime": "2025-04-30T00:42:20.681Z",
-    "finishTime": "2025-04-30T00:42:38.975Z"
+    "startTime": "2025-05-01T00:46:45.856Z",
+    "finishTime": "2025-05-01T00:47:05.449Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,12 +35,12 @@
     "}\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
-    "Packages: \u001b[32m+710\r",
+    "Packages: \u001b[32m+709\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m710\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m692\u001b[0m, added \u001b[96m710\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m709\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m691\u001b[0m, added \u001b[96m709\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
-    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.8\r",
+    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.9\r",
     "\u001b[32m+\u001b[0m yo \u001b[90m5.1.0\r",
     "\r",
     "\u001b[33m╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.5s using pnpm v10.10.0\r",
+    "\u001b[0mDone in 6.3s using pnpm v10.10.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -90,7 +90,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 264 packages, and audited 265 packages in 8s\r",
+    "added 264 packages, and audited 265 packages in 9s\r",
     "\r",
     "70 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -118,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14744165814",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14767247383",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
