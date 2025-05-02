@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54341418,
+  "size": 54341895,
   "timing": {
-    "startTime": "2025-05-01T00:46:45.856Z",
-    "finishTime": "2025-05-01T00:47:05.449Z"
+    "startTime": "2025-05-02T00:44:15.698Z",
+    "finishTime": "2025-05-02T00:44:34.192Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.3s using pnpm v10.10.0\r",
+    "\u001b[0mDone in 5.7s using pnpm v10.10.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -118,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14767247383",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/14786303751",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
