@@ -1,9 +1,9 @@
 {
   "generator": "fresh-turbo-monorepo",
-  "size": 688285657,
+  "size": 688282578,
   "timing": {
-    "startTime": "2025-07-02T00:44:28.933Z",
-    "finishTime": "2025-07-02T00:45:19.275Z"
+    "startTime": "2025-07-03T00:44:55.713Z",
+    "finishTime": "2025-07-03T00:45:44.394Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create turbo fresh-app --package-manager pnpm --skip-install\r",
-    ".../197c897a462-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
-    "\u001b[0m.../197c897a462-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m10\u001b[0m, downloaded \u001b[96m86\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
+    ".../197cdbe67e6-a                        |  \u001b[32m+96\u001b[0m \u001b[32m++++++++++\r",
+    "\u001b[0m.../197cdbe67e6-a                        | Progress: resolved \u001b[96m96\u001b[0m, reused \u001b[96m10\u001b[0m, downloaded \u001b[96m86\u001b[0m, added \u001b[96m96\u001b[0m, done\r",
     "\r",
     "\u001b[38;5;39;1m>>>\u001b[0m Creating a new Turborepo with:\r",
     "\r",
@@ -64,7 +64,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7.2s using pnpm v10.12.4\r",
+    "\u001b[0mDone in 7.4s using pnpm v10.12.4\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -151,7 +151,7 @@
     "\r",
     "\u001b[1m Tasks:    \u001b[32m2 successful\u001b[0m, 2 total\r",
     "\u001b[1mCached:    0 cached\u001b[0m, 2 total\r",
-    "\u001b[1m  Time:    27.366s\u001b[0m \r",
+    "\u001b[1m  Time:    28.044s\u001b[0m \r",
     "\r",
     "Finished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
@@ -162,14 +162,14 @@
     "\r",
     "   \u001b[38;2;173;127;168;1m▲ Next.js 15.3.0\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
-    "   - Network:      http://10.1.0.167:3000\r",
+    "   - Network:      http://10.1.0.230:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 362ms\r",
+    " \u001b[32;1m✓\u001b[0m Ready in 390ms\r",
     ""
   ],
   "description": "Fresh monorepo, built with Turborepo, automatically generated everyday with \"pnpm create turbo --package-manager pnpm\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16013340174",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16038877436",
   "frameworkUrl": "https://turborepo.org/",
   "frameworkDocumentationUrl": "https://turborepo.org/docs"
 }
