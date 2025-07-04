@@ -1,9 +1,9 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 33827895,
+  "size": 35895430,
   "timing": {
-    "startTime": "2025-07-03T00:44:51.997Z",
-    "finishTime": "2025-07-03T00:44:55.729Z"
+    "startTime": "2025-07-04T00:44:07.118Z",
+    "finishTime": "2025-07-04T00:44:10.649Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -26,19 +26,19 @@
     "+ /home/node/.bun/bin/bun create elysia fresh-app\r",
     "\r",
     "\u001b[2m$ \u001b[36;1mbun\u001b[39;22m install\r",
-    "\u001b[1;22mbun install \u001b[22;2mv1.2.17 (282dda62)\r",
+    "\u001b[1;22mbun install \u001b[22;2mv1.2.18 (0d4089ea)\r",
     "\u001b[0m  🔍 Resolving [1/2] \r",
     "\u001b[2m[\u001b[1m13.00ms\u001b[22m]\u001b[0m \u001b[2mgit\r",
     "\r",
-    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.2.17\r",
+    "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.2.18\r",
     "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.3.5\r",
     "\r",
-    "\u001b[32;22m20\u001b[0m packages installed \u001b[2m[\u001b[1m626.00ms\u001b[22m]\r",
+    "\u001b[32;22m22\u001b[0m packages installed \u001b[2m[\u001b[1m563.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m639.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m577.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1188.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1413.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16038877436",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16063271430",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
