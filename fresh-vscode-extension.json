@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54150009,
+  "size": 54248174,
   "timing": {
-    "startTime": "2025-07-04T00:46:25.953Z",
-    "finishTime": "2025-07-04T00:46:48.875Z"
+    "startTime": "2025-07-05T00:44:50.552Z",
+    "finishTime": "2025-07-05T00:45:08.142Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -40,7 +40,7 @@
     "\u001b[0mProgress: resolved \u001b[96m708\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m690\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
-    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.9\r",
+    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.10\r",
     "\u001b[32m+\u001b[0m yo \u001b[90m5.1.0\r",
     "\r",
     "\u001b[33m╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 7s using pnpm v10.12.4\r",
+    "\u001b[0mDone in 5.8s using pnpm v10.12.4\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -86,11 +86,10 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
-    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@8.1.0: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 269 packages, and audited 270 packages in 12s\r",
+    "added 261 packages, and audited 262 packages in 8s\r",
     "\r",
-    "73 packages are looking for funding\r",
+    "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
@@ -116,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16063271430",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16082802666",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
