@@ -1,9 +1,9 @@
 {
   "generator": "fresh-solid-app-ts",
-  "size": 61667550,
+  "size": 61668932,
   "timing": {
-    "startTime": "2025-07-07T00:48:47.154Z",
-    "finishTime": "2025-07-07T00:49:29.175Z"
+    "startTime": "2025-07-08T00:47:08.640Z",
+    "finishTime": "2025-07-08T00:47:50.861Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/ts fresh-app\r",
@@ -23,7 +23,7 @@
     "\r",
     "Packages: \u001b[32m+74\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m117\u001b[0m, reused \u001b[96m2\u001b[0m, downloaded \u001b[96m72\u001b[0m, added \u001b[96m74\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m118\u001b[0m, reused \u001b[96m2\u001b[0m, downloaded \u001b[96m72\u001b[0m, added \u001b[96m74\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m solid-js \u001b[90m1.9.7\r",
@@ -40,7 +40,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 1.9s using pnpm v10.12.4\r",
+    "\u001b[0mDone in 2s using pnpm v10.12.4\r",
     "+ pnpm build\r",
     "\r",
     "> vite-template-solid@0.0.0 build /workspace/fresh-app\r",
@@ -72,21 +72,21 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.165:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.180:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Tue Jul 08 2025 00:47:45 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     "(node:94) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Lsq-0Bcw.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Lsq-0Bcw.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Mon Jul 07 2025 00:49:24 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[94D"
+    "[Tue Jul 08 2025 00:47:45 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Lsq-0Bcw.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Tue Jul 08 2025 00:47:45 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Tue Jul 08 2025 00:47:46 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Tue Jul 08 2025 00:47:46 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-Lsq-0Bcw.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Tue Jul 08 2025 00:47:46 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-kNDHXHrP.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[94D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16105019815",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16131099465",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
