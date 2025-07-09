@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 608185895,
+  "size": 608186873,
   "timing": {
-    "startTime": "2025-07-08T00:44:57.564Z",
-    "finishTime": "2025-07-08T00:45:33.777Z"
+    "startTime": "2025-07-09T00:45:50.956Z",
+    "finishTime": "2025-07-09T00:46:26.708Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript --yes\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript --yes\r",
-    ".../197e77e3c06-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../197e77e3c06-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../197eca56837-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../197eca56837-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -38,8 +38,8 @@
     "Downloading next@15.3.5: \u001b[96m27.79 MB\u001b[0m/\u001b[96m27.79 MB\u001b[0m, done\r",
     "Downloading @next/swc-linux-x64-musl@15.3.5: \u001b[96m48.09 MB\u001b[0m/\u001b[96m48.09 MB\u001b[0m, done\r",
     "Downloading @next/swc-linux-x64-gnu@15.3.5: \u001b[96m48.12 MB\u001b[0m/\u001b[96m48.12 MB\u001b[0m, done\r",
-    "Downloading @img/sharp-libvips-linuxmusl-x64@1.1.0: \u001b[96m7.53 MB\u001b[0m/\u001b[96m7.53 MB\u001b[0m, done\r",
     "Downloading @img/sharp-libvips-linux-x64@1.1.0: \u001b[96m7.40 MB\u001b[0m/\u001b[96m7.40 MB\u001b[0m, done\r",
+    "Downloading @img/sharp-libvips-linuxmusl-x64@1.1.0: \u001b[96m7.53 MB\u001b[0m/\u001b[96m7.53 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+332\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m395\u001b[0m, reused \u001b[96m27\u001b[0m, downloaded \u001b[96m310\u001b[0m, added \u001b[96m332\u001b[0m, done\r",
@@ -63,7 +63,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.8s using pnpm v10.12.4\r",
+    "\u001b[0mDone in 6.9s using pnpm v10.12.4\r",
     "\u001b[32mSuccess!\u001b[0m Created fresh-app at /workspace/fresh-app\r",
     "\r",
     "+ cd fresh-app\r",
@@ -80,7 +80,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 534ms using pnpm v10.12.4\r",
+    "\u001b[0mDone in 514ms using pnpm v10.12.4\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -121,14 +121,14 @@
     "\r",
     "   \u001b[38;2;173;127;168;1m▲ Next.js 15.3.5\r",
     "\u001b[0m   - Local:        http://localhost:3000\r",
-    "   - Network:      http://10.1.0.196:3000\r",
+    "   - Network:      http://10.1.0.203:3000\r",
     "\r",
     " \u001b[32;1m✓\u001b[0m Starting...\r",
-    " \u001b[32;1m✓\u001b[0m Ready in 351ms\r",
+    " \u001b[32;1m✓\u001b[0m Ready in 349ms\r",
     ""
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16131099465",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16157539213",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
