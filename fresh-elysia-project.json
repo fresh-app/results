@@ -1,9 +1,9 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 35895342,
+  "size": 35894871,
   "timing": {
-    "startTime": "2025-07-10T00:45:27.288Z",
-    "finishTime": "2025-07-10T00:45:31.726Z"
+    "startTime": "2025-07-11T00:45:43.914Z",
+    "finishTime": "2025-07-11T00:45:47.539Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -33,12 +33,12 @@
     "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.2.18\r",
     "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.3.5\r",
     "\r",
-    "\u001b[32;22m22\u001b[0m packages installed \u001b[2m[\u001b[1m1230.00ms\u001b[22m]\r",
+    "\u001b[32;22m22\u001b[0m packages installed \u001b[2m[\u001b[1m734.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m1243.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m747.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1.76s\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1280.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16183361963",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16209128459",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
