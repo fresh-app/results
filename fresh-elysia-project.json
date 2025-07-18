@@ -1,17 +1,17 @@
 {
   "generator": "fresh-elysia-project",
-  "size": 35893034,
+  "size": 35893033,
   "timing": {
-    "startTime": "2025-07-17T00:49:31.259Z",
-    "finishTime": "2025-07-17T00:49:35.990Z"
+    "startTime": "2025-07-18T00:46:02.406Z",
+    "finishTime": "2025-07-18T00:46:05.938Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
     "> git config --global user.email \"dtinth-bot@users.noreply.github.com\"\r",
     "> git config --global user.name \"dtinth-bot\"\r",
     "> ~/.bun/bin/bun create elysia fresh-app' < /dev/null; cat /opt/factory/src/completed.txt\r",
-    "+ bash\r",
     "+ curl -fsSL https://bun.sh/install\r",
+    "+ bash\r",
     "######################################################################## 100.0%\r",
     "\u001b[32mbun was installed successfully to \u001b[1m~/.bun/bin/bun \r",
     "\r",
@@ -33,12 +33,12 @@
     "\u001b[32;22m+\u001b[0m \u001b[1mbun-types\u001b[22;2m@1.2.18\r",
     "\u001b[32;22m+\u001b[0m \u001b[1melysia\u001b[22;2m@1.3.5\r",
     "\r",
-    "\u001b[32;22m22\u001b[0m packages installed \u001b[2m[\u001b[1m1038.00ms\u001b[22m]\r",
+    "\u001b[32;22m22\u001b[0m packages installed \u001b[2m[\u001b[1m697.00ms\u001b[22m]\r",
     "\r",
-    "[\u001b[1m1051.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
+    "[\u001b[1m710.00ms\u001b[22m]\u001b[0m \u001b[2mbun install\r",
     "\r",
     "\r",
-    "[\u001b[1m1.60s\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
+    "[\u001b[1m1283.00ms\u001b[22m]\u001b[0m \u001b[2mbun create elysia\r",
     "\r",
     "Come hang out in bun's Discord: https://bun.sh/discord\r",
     "\r",
@@ -57,7 +57,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh Elysia project, automatically generated everyday with \"bun create elysia\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16333452691",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16359312460",
   "frameworkUrl": "https://elysiajs.com/",
   "frameworkDocumentationUrl": "https://elysiajs.com/at-glance.html"
 }
