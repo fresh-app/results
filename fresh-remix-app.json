@@ -2,8 +2,8 @@
   "generator": "fresh-remix-app",
   "size": 196475940,
   "timing": {
-    "startTime": "2025-07-20T00:53:07.684Z",
-    "finishTime": "2025-07-20T00:53:28.769Z"
+    "startTime": "2025-07-21T00:54:18.560Z",
+    "finishTime": "2025-07-21T00:54:43.121Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create remix fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create remix fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../1982552055e-a                        | \u001b[32m+208\u001b[0m \u001b[32m+++++++++++++++++++++\r",
-    "\u001b[0m.../1982552055e-a                        | Progress: resolved \u001b[96m208\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m186\u001b[0m, added \u001b[96m208\u001b[0m, done\r",
+    ".../1982a79776b-a                        | \u001b[32m+208\u001b[0m \u001b[32m+++++++++++++++++++++\r",
+    "\u001b[0m.../1982a79776b-a                        | Progress: resolved \u001b[96m208\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m186\u001b[0m, added \u001b[96m208\u001b[0m, done\r",
     "\r",
     "\u001b[47m \u001b[30mremix\u001b[39m \u001b[0m  \u001b[32;1mv2.16.8\u001b[0m \u001b[1m💿 Let's build a better website...\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -73,7 +73,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.9s using pnpm v10.13.1\r",
+    "\u001b[0mDone in 8.2s using pnpm v10.13.1\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -88,13 +88,13 @@
     "build/client/assets/\u001b[36;22m_index-CWhSQhKm.js        \u001b[39;1;2m  5.05 kB\u001b[22m │ gzip:  2.05 kB\r",
     "build/client/assets/\u001b[36;22mjsx-runtime-0DLF9kdB.js   \u001b[39;1;2m  7.76 kB\u001b[22m │ gzip:  2.96 kB\r",
     "build/client/assets/\u001b[36;22mcomponents--sOfPsXs.js    \u001b[39;1;2m249.35 kB\u001b[22m │ gzip: 80.72 kB\r",
-    "\u001b[32;22m✓ built in 1.41s\r",
+    "\u001b[32;22m✓ built in 1.39s\r",
     "\u001b[36mvite v6.3.5 \u001b[32mbuilding SSR bundle for production...\r",
     "✓\u001b[0m 6 modules transformed.\r",
     "\u001b[2mbuild/server/\u001b[32;22m.vite/manifest.json               \u001b[39;1;2m 0.22 kB\r",
     "\u001b[22mbuild/server/assets/\u001b[35;22mserver-build-CS6YCbpS.css  \u001b[39;1;2m 6.79 kB\r",
     "\u001b[22mbuild/server/\u001b[36;22mindex.js                          \u001b[39;1;2m12.86 kB\r",
-    "\u001b[32;22;22m✓ built in 55ms\r",
+    "\u001b[32;22;22m✓ built in 60ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -102,12 +102,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> remix-serve ./build/server/index.js\r",
     "\r",
-    "[remix-serve] http://localhost:3000 (http://10.1.0.125:3000)\r",
-    "GET / 200 - - 19.934 ms\r",
-    "GET / 200 - - 4.115 ms\u001b[1B\u001b[22D"
+    "[remix-serve] http://localhost:3000 (http://10.1.0.160:3000)\r",
+    "GET / 200 - - 20.049 ms\r",
+    "GET / 200 - - 4.292 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh Remix app, with TypeScript, automatically generated everyday with \"pnpm create remix\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16394422563",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16406130338",
   "frameworkUrl": "https://remix.run/",
   "frameworkDocumentationUrl": "https://remix.run/docs"
 }
