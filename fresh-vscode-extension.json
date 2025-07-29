@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54187783,
   "timing": {
-    "startTime": "2025-07-28T00:54:48.781Z",
-    "finishTime": "2025-07-28T00:55:10.374Z"
+    "startTime": "2025-07-29T00:55:54.622Z",
+    "finishTime": "2025-07-29T00:56:16.918Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.8s using pnpm v10.13.1\r",
+    "\u001b[0mDone in 7.1s using pnpm v10.13.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -87,7 +87,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 260 packages, and audited 261 packages in 10s\r",
+    "added 260 packages, and audited 261 packages in 11s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -115,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16557439715",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16583760935",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
