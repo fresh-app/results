@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54187783,
+  "size": 54187836,
   "timing": {
-    "startTime": "2025-08-03T00:54:35.377Z",
-    "finishTime": "2025-08-03T00:54:56.480Z"
+    "startTime": "2025-08-04T00:54:11.239Z",
+    "finishTime": "2025-08-04T00:54:33.045Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,9 +35,9 @@
     "}\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
-    "Packages: \u001b[32m+708\r",
+    "Packages: \u001b[32m+707\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m708\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m690\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m707\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m689\u001b[0m, added \u001b[96m707\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.10\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 6.1s using pnpm v10.14.0\r",
+    "\u001b[0mDone in 7.5s using pnpm v10.14.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -87,7 +87,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 260 packages, and audited 261 packages in 11s\r",
+    "added 260 packages, and audited 261 packages in 10s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -115,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16699447709",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/16711436246",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
