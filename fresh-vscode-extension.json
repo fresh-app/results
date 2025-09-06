@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 55065174,
+  "size": 55082633,
   "timing": {
-    "startTime": "2025-09-05T00:40:45.966Z",
-    "finishTime": "2025-09-05T00:41:07.272Z"
+    "startTime": "2025-09-06T00:38:57.990Z",
+    "finishTime": "2025-09-06T00:39:17.988Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -40,7 +40,7 @@
     "\u001b[0mProgress: resolved \u001b[96m708\u001b[0m, reused \u001b[96m18\u001b[0m, downloaded \u001b[96m690\u001b[0m, added \u001b[96m708\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
-    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.11\r",
+    "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.12\r",
     "\u001b[32m+\u001b[0m yo \u001b[90m5.1.0\r",
     "\r",
     "\u001b[33m╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\r",
@@ -87,7 +87,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 259 packages, and audited 260 packages in 10s\r",
+    "added 259 packages, and audited 260 packages in 9s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -115,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17480293949",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17507529787",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
