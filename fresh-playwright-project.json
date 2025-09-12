@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 15038501,
+  "size": 15038549,
   "timing": {
-    "startTime": "2025-09-11T00:40:58.699Z",
-    "finishTime": "2025-09-11T00:42:07.630Z"
+    "startTime": "2025-09-12T00:39:43.342Z",
+    "finishTime": "2025-09-12T00:40:51.494Z"
   },
   "log": [
     "Preparing to unpack .../055-libspeex1_1.2.1-2_amd64.deb ...\r",
@@ -436,8 +436,8 @@
     "Preparing to unpack .../199-libavahi-client3_0.8-10+deb12u1_amd64.deb ...\r",
     "Unpacking libavahi-client3:amd64 (0.8-10+deb12u1) ...\r",
     "Selecting previously unselected package libcups2:amd64.\r",
-    "Preparing to unpack .../200-libcups2_2.4.2-3+deb12u8_amd64.deb ...\r",
-    "Unpacking libcups2:amd64 (2.4.2-3+deb12u8) ...\r",
+    "Preparing to unpack .../200-libcups2_2.4.2-3+deb12u9_amd64.deb ...\r",
+    "Unpacking libcups2:amd64 (2.4.2-3+deb12u9) ...\r",
     "Selecting previously unselected package libxcomposite1:amd64.\r",
     "Preparing to unpack .../201-libxcomposite1_1%3a0.4.5-1_amd64.deb ...\r",
     "Unpacking libxcomposite1:amd64 (1:0.4.5-1) ...\r",
@@ -1011,7 +1011,7 @@
     "Setting up libegl-mesa0:amd64 (22.3.6-1+deb12u1) ...\r",
     "Setting up gcc-12 (12.2.0-14+deb12u1) ...\r",
     "Setting up libswresample4:amd64 (7:5.1.7-0+deb12u1) ...\r",
-    "Setting up libcups2:amd64 (2.4.2-3+deb12u8) ...\r",
+    "Setting up libcups2:amd64 (2.4.2-3+deb12u9) ...\r",
     "Setting up libegl1:amd64 (1.6.0-1) ...\r",
     "Setting up libpostproc56:amd64 (7:5.1.7-0+deb12u1) ...\r",
     "Setting up libavcodec59:amd64 (7:5.1.7-0+deb12u1) ...\r",
@@ -1075,7 +1075,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.6s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.8s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1100,18 +1100,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.38:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.209:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Thu Sep 11 2025 00:42:02 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:5614) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Fri Sep 12 2025 00:40:46 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:5624) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[Thu Sep 11 2025 00:42:03 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Fri Sep 12 2025 00:40:47 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17630506519",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17661005617",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
