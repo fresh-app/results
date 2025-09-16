@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 55098557,
+  "size": 55103825,
   "timing": {
-    "startTime": "2025-09-15T00:43:55.503Z",
-    "finishTime": "2025-09-15T00:44:15.393Z"
+    "startTime": "2025-09-16T00:42:07.440Z",
+    "finishTime": "2025-09-16T00:42:27.433Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -115,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17718971122",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17750687024",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
