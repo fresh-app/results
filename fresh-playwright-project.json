@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 15058428,
+  "size": 15058364,
   "timing": {
-    "startTime": "2025-09-23T00:40:41.461Z",
-    "finishTime": "2025-09-23T00:41:51.420Z"
+    "startTime": "2025-09-24T00:41:04.011Z",
+    "finishTime": "2025-09-24T00:42:25.012Z"
   },
   "log": [
     "Preparing to unpack .../055-libspeex1_1.2.1-2_amd64.deb ...\r",
@@ -1057,12 +1057,12 @@
     "debconf: unable to initialize frontend: Readline\r",
     "debconf: (This frontend requires a controlling tty.)\r",
     "debconf: falling back to frontend: Teletype\r",
-    "Downloading Chromium 140.0.7339.16 (playwright build v1187)\u001b[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1187/chromium-linux.zip\r",
-    "\u001b[0m173.7 MiB [====================] 100% 0.0s\r",
-    "Chromium 140.0.7339.16 (playwright build v1187) downloaded to /home/node/.cache/ms-playwright/chromium-1187\r",
-    "Downloading Chromium Headless Shell 140.0.7339.16 (playwright build v1187)\u001b[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1187/chromium-headless-shell-linux.zip\r",
+    "Downloading Chromium 140.0.7339.186 (playwright build v1193)\u001b[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1193/chromium-linux.zip\r",
+    "\u001b[0m173.8 MiB [====================] 100% 0.0s\r",
+    "Chromium 140.0.7339.186 (playwright build v1193) downloaded to /home/node/.cache/ms-playwright/chromium-1193\r",
+    "Downloading Chromium Headless Shell 140.0.7339.186 (playwright build v1193)\u001b[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/chromium/1193/chromium-headless-shell-linux.zip\r",
     "\u001b[0m104.3 MiB [====================] 100% 0.0s\r",
-    "Chromium Headless Shell 140.0.7339.16 (playwright build v1187) downloaded to /home/node/.cache/ms-playwright/chromium_headless_shell-1187\r",
+    "Chromium Headless Shell 140.0.7339.186 (playwright build v1193) downloaded to /home/node/.cache/ms-playwright/chromium_headless_shell-1193\r",
     "Downloading Firefox 141.0 (playwright build v1490)\u001b[2m from https://cdn.playwright.dev/dbazure/download/playwright/builds/firefox/1490/firefox-debian-12.zip\r",
     "\u001b[0m96 MiB [====================] 100% 0.0s\r",
     "Firefox 141.0 (playwright build v1490) downloaded to /home/node/.cache/ms-playwright/firefox-1490\r",
@@ -1075,7 +1075,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.8s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.5s)\r",
     "\r",
     "\u001b[0mTo open last HTML report run:\r",
     "\r",
@@ -1100,18 +1100,18 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.76:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.192:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Tue Sep 23 2025 00:41:46 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:5648) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Wed Sep 24 2025 00:42:19 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:5625) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[Tue Sep 23 2025 00:41:47 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Wed Sep 24 2025 00:42:20 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17932410801",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17962791819",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
