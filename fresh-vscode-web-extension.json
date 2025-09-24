@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 177313612,
+  "size": 177313831,
   "timing": {
-    "startTime": "2025-09-23T00:43:05.564Z",
-    "finishTime": "2025-09-23T00:44:29.631Z"
+    "startTime": "2025-09-24T00:43:56.918Z",
+    "finishTime": "2025-09-24T00:45:27.661Z"
   },
   "log": [
     "Selecting previously unselected package libavformat59:amd64.\r",
@@ -1036,7 +1036,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 439 packages, and audited 440 packages in 24s\r",
+    "added 439 packages, and audited 440 packages in 30s\r",
     "\r",
     "96 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -1081,11 +1081,11 @@
     "║ <3 Playwright Team                                                                             ║\r",
     "╚════════════════════════════════════════════════════════════════════════════════════════════════╝\r",
     "Call log:\r",
-    "\u001b[2m  - <launching> /home/node/.cache/ms-playwright/chromium-1187/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --user-data-dir=/tmp/playwright_chromiumdev_profile-aKoUym --remote-debugging-pipe --no-startup-window\r",
+    "\u001b[2m  - <launching> /home/node/.cache/ms-playwright/chromium-1193/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --user-data-dir=/tmp/playwright_chromiumdev_profile-9hNlAH --remote-debugging-pipe --no-startup-window\r",
     "  - <launched> pid=4396\r",
-    "  - [pid=4396][err] [4396:4410:0923/004419.288587:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\r",
-    "  - [pid=4396][err] [4396:4396:0923/004419.290739:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:249] Missing X server or $DISPLAY\r",
-    "  - [pid=4396][err] [4396:4396:0923/004419.290755:ERROR:ui/aura/env.cc:257] The platform failed to initialize.  Exiting.\r",
+    "  - [pid=4396][err] [4396:4411:0924/004516.852502:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\r",
+    "  - [pid=4396][err] [4396:4396:0924/004516.853985:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:249] Missing X server or $DISPLAY\r",
+    "  - [pid=4396][err] [4396:4396:0924/004516.853997:ERROR:ui/aura/env.cc:257] The platform failed to initialize.  Exiting.\r",
     "  - [pid=4396] <gracefully close start>\r",
     "  - [pid=4396] <kill>\r",
     "  - [pid=4396] <will force kill>\r",
@@ -1096,16 +1096,16 @@
     "\r",
     "\u001b[0m    at openBrowser (/pnpm-bin/global/5/.pnpm/@vscode+test-web@0.0.73/node_modules/\u001b[4m@vscode\u001b[0m/test-web/out/server/index.js:133:39)\r",
     "    at async open (/pnpm-bin/global/5/.pnpm/@vscode+test-web@0.0.73/node_modules/\u001b[4m@vscode\u001b[0m/test-web/out/server/index.js:104:21)\r",
-    "GET /static/build/out/vs/webPackagePaths.js \u001b[33m404\u001b[0m 15.327 ms - 9\r",
-    "GET /static/build/out/vs/workbench/workbench.web.main.nls.js \u001b[33m404\u001b[0m 16.166 ms - 9\r",
-    "GET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.140 ms - 9\r",
-    "GET /static/build/out/vs/webPackagePaths.js \u001b[33m404\u001b[0m 1.785 ms - 9\r",
-    "GET /static/build/out/vs/workbench/workbench.web.main.nls.js \u001b[33m404\u001b[0m 2.392 ms - 9\r",
-    "GET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.619 ms - 9\r",
+    "GET /static/build/out/vs/webPackagePaths.js \u001b[33m404\u001b[0m 14.714 ms - 9\r",
+    "GET /static/build/out/vs/workbench/workbench.web.main.nls.js \u001b[33m404\u001b[0m 5.152 ms - 9\r",
+    "GET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.668 ms - 9\r",
+    "GET /static/build/out/vs/webPackagePaths.js \u001b[33m404\u001b[0m 2.286 ms - 9\r",
+    "GET /static/build/out/vs/workbench/workbench.web.main.nls.js \u001b[33m404\u001b[0m 2.464 ms - 9\r",
+    "GET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.532 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17932410801",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17962791819",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
