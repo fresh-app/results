@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55108406,
   "timing": {
-    "startTime": "2025-09-24T00:43:57.771Z",
-    "finishTime": "2025-09-24T00:44:22.175Z"
+    "startTime": "2025-09-26T00:43:17.566Z",
+    "finishTime": "2025-09-26T00:43:41.167Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 8.3s using pnpm v10.17.1\r",
+    "\u001b[0mDone in 7.5s using pnpm v10.17.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -94,9 +94,9 @@
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.6.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.6.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.6.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.6.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.6.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.6.1\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
     "\r",
     "\u001b[0mYour extension fresh-extension has been created!\r",
@@ -115,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/17962791819",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/18024428934",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
