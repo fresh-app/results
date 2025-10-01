@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54743373,
+  "size": 54743646,
   "timing": {
-    "startTime": "2025-09-30T00:42:53.072Z",
-    "finishTime": "2025-09-30T00:43:20.804Z"
+    "startTime": "2025-10-01T00:48:53.997Z",
+    "finishTime": "2025-10-01T00:49:16.818Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -34,7 +34,6 @@
     "  \"packageManager\": \"pnpm@10.17.1\"\r",
     "}\r",
     "+ pnpm add yo generator-code\r",
-    "\u001b[30;43m WARN \u001b[0m GET https://registry.npmjs.org/isbinaryfile/-/isbinaryfile-5.0.3.tgz error (ERR_PNPM_FETCH_500). Will retry in 10 seconds. 2 retries left.\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m4 deprecated subdependencies found:\u001b[0m are-we-there-yet@1.1.7, boolean@3.2.0, gauge@1.2.7, npmlog@2.0.4\r",
     "Packages: \u001b[32m+706\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
@@ -51,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 14.5s using pnpm v10.17.1\r",
+    "\u001b[0mDone in 7s using pnpm v10.17.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -88,7 +87,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m inflight@1.0.6: This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, which is much more comprehensive and powerful.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@7.2.3: Glob versions prior to v9 are no longer supported\r",
     "\r",
-    "added 259 packages, and audited 260 packages in 9s\r",
+    "added 259 packages, and audited 260 packages in 12s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -116,7 +115,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/18114849740",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/18147544607",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
