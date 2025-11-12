@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54347858,
+  "size": 54348562,
   "timing": {
-    "startTime": "2025-11-11T00:45:03.984Z",
-    "finishTime": "2025-11-11T00:45:34.488Z"
+    "startTime": "2025-11-12T00:46:33.791Z",
+    "finishTime": "2025-11-12T00:46:55.896Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 10.5s using pnpm v10.21.0\r",
+    "\u001b[0mDone in 6.8s using pnpm v10.21.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -85,7 +85,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 250 packages, and audited 251 packages in 15s\r",
+    "added 250 packages, and audited 251 packages in 11s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -113,7 +113,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19250969013",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19282625242",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
