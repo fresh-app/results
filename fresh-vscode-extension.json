@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54333985,
+  "size": 54364269,
   "timing": {
-    "startTime": "2025-11-17T00:47:41.476Z",
-    "finishTime": "2025-11-17T00:48:00.684Z"
+    "startTime": "2025-11-18T00:46:16.746Z",
+    "finishTime": "2025-11-18T00:46:36.350Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,9 +35,9 @@
     "}\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
-    "Packages: \u001b[32m+515\r",
+    "Packages: \u001b[32m+517\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m515\u001b[0m, reused \u001b[96m15\u001b[0m, downloaded \u001b[96m500\u001b[0m, added \u001b[96m515\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m517\u001b[0m, reused \u001b[96m15\u001b[0m, downloaded \u001b[96m502\u001b[0m, added \u001b[96m517\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.14\r",
@@ -50,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 4.6s using pnpm v10.22.0\r",
+    "\u001b[0mDone in 4.3s using pnpm v10.22.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -85,12 +85,17 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 250 packages, and audited 251 packages in 10s\r",
+    "added 250 packages, and audited 251 packages in 11s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
-    "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
+    "5 \u001b[31;1mhigh\u001b[0m severity vulnerabilities\r",
+    "\r",
+    "Some issues need review, and may require choosing\r",
+    "a different dependency.\r",
+    "\r",
+    "Run `npm audit` for details.\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.6.2\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.6.2\r",
@@ -113,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19414810981",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19449722266",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
