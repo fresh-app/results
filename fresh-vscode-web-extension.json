@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 186095692,
+  "size": 185857316,
   "timing": {
-    "startTime": "2025-11-23T00:51:18.901Z",
-    "finishTime": "2025-11-23T00:52:33.831Z"
+    "startTime": "2025-11-25T00:45:22.786Z",
+    "finishTime": "2025-11-25T00:46:33.646Z"
   },
   "log": [
     "Selecting previously unselected package libavformat59:amd64.\r",
@@ -984,7 +984,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 5.3s using pnpm v10.23.0\r",
+    "\u001b[0mDone in 5.1s using pnpm v10.23.0\r",
     "+ pnpm install --global @vscode/test-web\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m keygrip@1.1.0\r",
     "Packages: \u001b[32m+101\r",
@@ -1001,7 +1001,7 @@
     "│\u001b[0m                                                                                               \u001b[33m│\r",
     "╰───────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 1.9s using pnpm v10.23.0\r",
+    "\u001b[0mDone in 2s using pnpm v10.23.0\r",
     "+ pnpm exec yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -1038,9 +1038,9 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m keygrip@1.1.0: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.\r",
     "\r",
-    "added 439 packages, and audited 440 packages in 25s\r",
+    "added 429 packages, and audited 430 packages in 24s\r",
     "\r",
-    "100 packages are looking for funding\r",
+    "98 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
@@ -1069,7 +1069,7 @@
     "node@factory:/workspace/fresh-app$ vscode-test-web --extensionDevelopmentPath=. .\r",
     "@vscode/test-web: 0.0.76\r",
     "Downloading VS Code Insiders: complete\r",
-    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-b2426c57053497e6c1eea406b8f2855e442992b4\r",
+    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-29ea21caf8e29d76a96bcb651a05feb07891cfa7\r",
     "Serving dev extensions from /workspace/fresh-app\r",
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
@@ -1083,11 +1083,11 @@
     "║ <3 Playwright Team                                                                             ║\r",
     "╚════════════════════════════════════════════════════════════════════════════════════════════════╝\r",
     "Call log:\r",
-    "\u001b[2m  - <launching> /home/node/.cache/ms-playwright/chromium-1194/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --user-data-dir=/tmp/playwright_chromiumdev_profile-UkK2s7 --remote-debugging-pipe --no-startup-window\r",
+    "\u001b[2m  - <launching> /home/node/.cache/ms-playwright/chromium-1194/chrome-linux/chrome --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=AcceptCHFrame,AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,Translate,AutoDeElevate,RenderDocument --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --enable-automation --no-sandbox --no-sandbox --user-data-dir=/tmp/playwright_chromiumdev_profile-xJcdQU --remote-debugging-pipe --no-startup-window\r",
     "  - <launched> pid=4396\r",
-    "  - [pid=4396][err] [4396:4410:1123/005230.165863:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\r",
-    "  - [pid=4396][err] [4396:4396:1123/005230.167375:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:249] Missing X server or $DISPLAY\r",
-    "  - [pid=4396][err] [4396:4396:1123/005230.167387:ERROR:ui/aura/env.cc:257] The platform failed to initialize.  Exiting.\r",
+    "  - [pid=4396][err] [4396:4410:1125/004629.506044:ERROR:dbus/bus.cc:408] Failed to connect to the bus: Failed to connect to socket /run/dbus/system_bus_socket: No such file or directory\r",
+    "  - [pid=4396][err] [4396:4396:1125/004629.506931:ERROR:ui/ozone/platform/x11/ozone_platform_x11.cc:249] Missing X server or $DISPLAY\r",
+    "  - [pid=4396][err] [4396:4396:1125/004629.506944:ERROR:ui/aura/env.cc:257] The platform failed to initialize.  Exiting.\r",
     "  - [pid=4396] <gracefully close start>\r",
     "  - [pid=4396] <kill>\r",
     "  - [pid=4396] <will force kill>\r",
@@ -1102,7 +1102,7 @@
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19603566117",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19654192699",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
