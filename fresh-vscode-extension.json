@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54254990,
   "timing": {
-    "startTime": "2025-12-03T00:44:28.139Z",
-    "finishTime": "2025-12-03T00:44:47.234Z"
+    "startTime": "2025-12-04T00:44:48.593Z",
+    "finishTime": "2025-12-04T00:45:14.328Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -34,6 +34,7 @@
     "  \"packageManager\": \"pnpm@10.24.0\"\r",
     "}\r",
     "+ pnpm add yo generator-code\r",
+    "\u001b[30;43m WARN \u001b[0m GET https://registry.npmjs.org/is-installed-globally/-/is-installed-globally-1.0.0.tgz error (ERR_PNPM_FETCH_500). Will retry in 10 seconds. 2 retries left.\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
     "Packages: \u001b[32m+501\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
@@ -50,7 +51,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 4.8s using pnpm v10.24.0\r",
+    "\u001b[0mDone in 11.8s using pnpm v10.24.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -113,7 +114,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19878352339",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19913706104",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
