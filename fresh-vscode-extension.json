@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54254990,
   "timing": {
-    "startTime": "2025-12-04T00:44:48.593Z",
-    "finishTime": "2025-12-04T00:45:14.328Z"
+    "startTime": "2025-12-05T00:47:42.126Z",
+    "finishTime": "2025-12-05T00:47:59.215Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -34,7 +34,6 @@
     "  \"packageManager\": \"pnpm@10.24.0\"\r",
     "}\r",
     "+ pnpm add yo generator-code\r",
-    "\u001b[30;43m WARN \u001b[0m GET https://registry.npmjs.org/is-installed-globally/-/is-installed-globally-1.0.0.tgz error (ERR_PNPM_FETCH_500). Will retry in 10 seconds. 2 retries left.\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
     "Packages: \u001b[32m+501\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
@@ -51,7 +50,7 @@
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
     "\r",
-    "\u001b[0mDone in 11.8s using pnpm v10.24.0\r",
+    "\u001b[0mDone in 4.3s using pnpm v10.24.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -86,7 +85,7 @@
     "\r",
     "Running npm install for you to install the required dependencies.\r",
     "\r",
-    "added 243 packages, and audited 244 packages in 10s\r",
+    "added 243 packages, and audited 244 packages in 8s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -114,7 +113,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19913706104",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/19948756356",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
