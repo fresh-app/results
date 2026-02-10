@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 53624600,
+  "size": 54567039,
   "timing": {
-    "startTime": "2026-02-09T02:02:52.307Z",
-    "finishTime": "2026-02-09T02:03:13.221Z"
+    "startTime": "2026-02-10T02:10:37.990Z",
+    "finishTime": "2026-02-10T02:10:56.985Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -49,7 +49,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 5.1s using pnpm v10.29.2\r",
+    "\u001b[0mDone in 5.5s using pnpm v10.29.2\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -85,7 +85,7 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 242 packages, and audited 243 packages in 12s\r",
+    "added 242 packages, and audited 243 packages in 9s\r",
     "\r",
     "74 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -118,7 +118,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/21809761845",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/21848842673",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
