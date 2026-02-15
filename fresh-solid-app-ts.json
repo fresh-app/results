@@ -2,8 +2,8 @@
   "generator": "fresh-solid-app-ts",
   "size": 60834517,
   "timing": {
-    "startTime": "2026-02-14T01:53:43.311Z",
-    "finishTime": "2026-02-14T01:54:26.943Z"
+    "startTime": "2026-02-15T02:04:23.086Z",
+    "finishTime": "2026-02-15T02:05:05.077Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/vanilla/basic fresh-app\r",
@@ -41,7 +41,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 2s using pnpm v10.29.3\r",
+    "\u001b[0mDone in 1.9s using pnpm v10.29.3\r",
     "+ pnpm install\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
@@ -51,7 +51,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 438ms using pnpm v10.29.3\r",
+    "\u001b[0mDone in 444ms using pnpm v10.29.3\r",
     "+ pnpm build\r",
     "\r",
     "> vite-template-solid@0.0.0 build /workspace/fresh-app\r",
@@ -61,7 +61,7 @@
     "✓\u001b[0m 8 modules transformed.\r",
     "\u001b[2mdist/\u001b[32;22mindex.html                \u001b[39;1;2m0.44 kB\u001b[22m │ gzip: 0.29 kB\r",
     "dist/assets/\u001b[36;22mindex-DHGDo24c.js  \u001b[39;1;2m6.75 kB\u001b[22m │ gzip: 2.83 kB\r",
-    "\u001b[32;22m✓ built in 281ms\r",
+    "\u001b[32;22m✓ built in 277ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -81,19 +81,19 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.225:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.196:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[Sat Feb 14 2026 01:54:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "(node:107) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
+    "[Sun Feb 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "(node:106) [DEP0066] DeprecationWarning: OutgoingMessage.prototype._headers is deprecated\r",
     "(Use `node --trace-deprecation ...` to show where the warning was created)\r",
-    "[Sat Feb 14 2026 01:54:21 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Sat Feb 14 2026 01:54:22 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[Sat Feb 14 2026 01:54:22 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[93D"
+    "[Sun Feb 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Sun Feb 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[Sun Feb 15 2026 02:05:00 GMT+0000 (Coordinated Universal Time)]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[93D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/vanilla/basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22008932746",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22027900571",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
