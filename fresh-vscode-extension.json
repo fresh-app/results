@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 54688682,
+  "size": 54708689,
   "timing": {
-    "startTime": "2026-02-20T01:54:10.251Z",
-    "finishTime": "2026-02-20T01:54:53.132Z"
+    "startTime": "2026-02-21T01:51:31.112Z",
+    "finishTime": "2026-02-21T01:52:17.702Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -49,7 +49,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4s using pnpm v10.30.1\r",
+    "\u001b[0mDone in 4.1s using pnpm v10.30.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -85,12 +85,12 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 243 packages, and audited 244 packages in 35s\r",
+    "added 243 packages, and audited 244 packages in 38s\r",
     "\r",
     "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
     "\r",
-    "\u001b[31;1m17\u001b[0m vulnerabilities (1 \u001b[1mlow\u001b[0m, 1 \u001b[33;1mmoderate\u001b[0m, 15 \u001b[31;1mhigh\u001b[0m)\r",
+    "\u001b[31;1m16\u001b[0m vulnerabilities (1 \u001b[1mlow\u001b[0m, 15 \u001b[31;1mhigh\u001b[0m)\r",
     "\r",
     "To address issues that do not require attention, run:\r",
     "  npm audit fix\r",
@@ -124,7 +124,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22208065977",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22247977361",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
