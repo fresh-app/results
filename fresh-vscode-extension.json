@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 54708689,
   "timing": {
-    "startTime": "2026-02-21T01:51:31.112Z",
-    "finishTime": "2026-02-21T01:52:17.702Z"
+    "startTime": "2026-02-22T01:57:03.395Z",
+    "finishTime": "2026-02-22T01:57:56.190Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -83,9 +83,10 @@
     "Changes to package.json were detected.\r",
     "\r",
     "Running npm install for you to install the required dependencies.\r",
-    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
+    "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mUnknown env config \"verify-deps-before-run\". This will stop working in the next major version of npm.\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 243 packages, and audited 244 packages in 38s\r",
+    "added 243 packages, and audited 244 packages in 44s\r",
     "\r",
     "75 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -103,7 +104,7 @@
     "\r",
     "Run `npm audit` for details.\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[31mmajor\u001b[0m version of npm available! \u001b[31m10.9.2\u001b[0m -> \u001b[34m11.10.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[33m11.8.0\u001b[0m -> \u001b[34m11.10.1\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.10.1\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.10.1\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
@@ -124,7 +125,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22247977361",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22268407263",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
