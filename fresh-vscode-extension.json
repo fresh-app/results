@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 55887152,
+  "size": 55900279,
   "timing": {
-    "startTime": "2026-02-25T02:00:29.148Z",
-    "finishTime": "2026-02-25T02:00:47.647Z"
+    "startTime": "2026-02-26T01:53:29.696Z",
+    "finishTime": "2026-02-26T01:53:43.756Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,9 +35,9 @@
     "}\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
-    "Packages: \u001b[32m+498\r",
+    "Packages: \u001b[32m+500\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m498\u001b[0m, reused \u001b[96m14\u001b[0m, downloaded \u001b[96m484\u001b[0m, added \u001b[96m498\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m500\u001b[0m, reused \u001b[96m14\u001b[0m, downloaded \u001b[96m486\u001b[0m, added \u001b[96m500\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.17\r",
@@ -49,7 +49,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4.8s using pnpm v10.30.2\r",
+    "\u001b[0mDone in 3.3s using pnpm v10.30.2\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -86,7 +86,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mUnknown env config \"verify-deps-before-run\". This will stop working in the next major version of npm.\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 248 packages, and audited 249 packages in 10s\r",
+    "added 248 packages, and audited 249 packages in 7s\r",
     "\r",
     "76 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -98,9 +98,9 @@
     "\r",
     "Run `npm audit` for details.\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[33m11.8.0\u001b[0m -> \u001b[34m11.10.1\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.10.1\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.10.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[33m11.8.0\u001b[0m -> \u001b[34m11.11.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.11.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.11.0\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
     "\r",
     "\u001b[0mYour extension fresh-extension has been created!\r",
@@ -119,7 +119,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22378659392",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22424359217",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
