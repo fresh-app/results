@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 15965719,
+  "size": 15965524,
   "timing": {
-    "startTime": "2026-02-26T01:53:27.957Z",
-    "finishTime": "2026-02-26T01:54:34.539Z"
+    "startTime": "2026-02-27T01:52:10.972Z",
+    "finishTime": "2026-02-27T01:53:50.929Z"
   },
   "log": [
     "Selecting previously unselected package libxcb-dri3-0:amd64.\r",
@@ -566,8 +566,8 @@
     "Preparing to unpack .../222-libnspr4_2%3a4.35-1_amd64.deb ...\r",
     "Unpacking libnspr4:amd64 (2:4.35-1) ...\r",
     "Selecting previously unselected package libnss3:amd64.\r",
-    "Preparing to unpack .../223-libnss3_2%3a3.87.1-1+deb12u1_amd64.deb ...\r",
-    "Unpacking libnss3:amd64 (2:3.87.1-1+deb12u1) ...\r",
+    "Preparing to unpack .../223-libnss3_2%3a3.87.1-1+deb12u2_amd64.deb ...\r",
+    "Unpacking libnss3:amd64 (2:3.87.1-1+deb12u2) ...\r",
     "Selecting previously unselected package libsrtp2-1:amd64.\r",
     "Preparing to unpack .../224-libsrtp2-1_2.5.0-3_amd64.deb ...\r",
     "Unpacking libsrtp2-1:amd64 (2.5.0-3) ...\r",
@@ -957,7 +957,7 @@
     "Setting up libraptor2-0:amd64 (2.0.15-4+deb12u1) ...\r",
     "Setting up libavahi-common3:amd64 (0.8-10+deb12u1) ...\r",
     "Setting up libgstreamer-plugins-base1.0-0:amd64 (1.22.0-3+deb12u5) ...\r",
-    "Setting up libnss3:amd64 (2:3.87.1-1+deb12u1) ...\r",
+    "Setting up libnss3:amd64 (2:3.87.1-1+deb12u2) ...\r",
     "Setting up dbus-daemon (1.14.10-1~deb12u1) ...\r",
     "Setting up libatspi2.0-0:amd64 (2.46.0-5) ...\r",
     "Setting up xfonts-utils (1:7.7+6) ...\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.222:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.63:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-02-26T01:54:29.440Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-02-26T01:54:30.213Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-02-27T01:53:45.857Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-02-27T01:53:46.627Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22424359217",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22469320886",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
