@@ -2,8 +2,8 @@
   "generator": "fresh-remix-app",
   "size": 104414537,
   "timing": {
-    "startTime": "2026-02-27T01:54:44.274Z",
-    "finishTime": "2026-02-27T01:55:01.561Z"
+    "startTime": "2026-02-28T01:43:28.791Z",
+    "finishTime": "2026-02-28T01:43:45.234Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19c9cce331c-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19c9cce331c-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
+    ".../19ca1ea40fd-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19ca1ea40fd-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.13.1\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -62,7 +62,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 3.2s using pnpm v10.30.3\r",
+    "\u001b[0mDone in 3.1s using pnpm v10.30.3\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -78,7 +78,7 @@
     "build/client/assets/\u001b[36;22mhome-DpDhra-2.js            \u001b[39;1;2m  3.70 kB\u001b[22m │ gzip:  1.70 kB\r",
     "build/client/assets/\u001b[36;22mchunk-EPOLDU6W-CP3WDhNt.js  \u001b[39;1;2m123.50 kB\u001b[22m │ gzip: 41.73 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-C4vAeVvd.js    \u001b[39;1;2m190.41 kB\u001b[22m │ gzip: 60.01 kB\r",
-    "\u001b[32;22m✓ built in 1.40s\r",
+    "\u001b[32;22m✓ built in 1.39s\r",
     "\u001b[36mvite v7.3.1 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 9 modules transformed.\r",
     "\u001b[2mbuild/server/\u001b[32;22m.vite/manifest.json               \u001b[39;1;2m 0.58 kB\r",
@@ -92,7 +92,7 @@
     "build/client/assets/logo-light-CVbx2LBR.svg\r",
     "build/server/assets/server-build-CrHW9lRf.css\r",
     "\r",
-    "\u001b[32;22m✓ built in 75ms\r",
+    "\u001b[32;22m✓ built in 64ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -100,12 +100,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> react-router-serve ./build/server/index.js\r",
     "\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.19:3000)\r",
-    "GET / 200 - - 42.061 ms\r",
-    "GET / 200 - - 4.892 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.160:3000)\r",
+    "GET / 200 - - 39.400 ms\r",
+    "GET / 200 - - 4.962 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22469320886",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22510626094",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
