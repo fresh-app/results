@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 104414537,
+  "size": 104424364,
   "timing": {
-    "startTime": "2026-02-28T01:43:28.791Z",
-    "finishTime": "2026-02-28T01:43:45.234Z"
+    "startTime": "2026-03-01T02:04:07.674Z",
+    "finishTime": "2026-03-01T02:04:24.517Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19ca1ea40fd-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19ca1ea40fd-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
+    ".../19ca72383fe-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19ca72383fe-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.13.1\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -48,7 +48,7 @@
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m @react-router/dev \u001b[90m7.12.0\u001b[0m \u001b[90m(7.13.1 is available)\r",
     "\u001b[32m+\u001b[0m @tailwindcss/vite \u001b[90m4.2.1\r",
-    "\u001b[32m+\u001b[0m @types/node \u001b[90m22.19.13\u001b[0m \u001b[90m(25.3.2 is available)\r",
+    "\u001b[32m+\u001b[0m @types/node \u001b[90m22.19.13\u001b[0m \u001b[90m(25.3.3 is available)\r",
     "\u001b[32m+\u001b[0m @types/react \u001b[90m19.2.14\r",
     "\u001b[32m+\u001b[0m @types/react-dom \u001b[90m19.2.3\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m4.2.1\r",
@@ -62,7 +62,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 3.1s using pnpm v10.30.3\r",
+    "\u001b[0mDone in 3.4s using pnpm v10.30.3\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -78,7 +78,7 @@
     "build/client/assets/\u001b[36;22mhome-DpDhra-2.js            \u001b[39;1;2m  3.70 kB\u001b[22m │ gzip:  1.70 kB\r",
     "build/client/assets/\u001b[36;22mchunk-EPOLDU6W-CP3WDhNt.js  \u001b[39;1;2m123.50 kB\u001b[22m │ gzip: 41.73 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-C4vAeVvd.js    \u001b[39;1;2m190.41 kB\u001b[22m │ gzip: 60.01 kB\r",
-    "\u001b[32;22m✓ built in 1.39s\r",
+    "\u001b[32;22m✓ built in 1.41s\r",
     "\u001b[36mvite v7.3.1 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 9 modules transformed.\r",
     "\u001b[2mbuild/server/\u001b[32;22m.vite/manifest.json               \u001b[39;1;2m 0.58 kB\r",
@@ -92,7 +92,7 @@
     "build/client/assets/logo-light-CVbx2LBR.svg\r",
     "build/server/assets/server-build-CrHW9lRf.css\r",
     "\r",
-    "\u001b[32;22m✓ built in 64ms\r",
+    "\u001b[32;22m✓ built in 65ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -100,12 +100,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> react-router-serve ./build/server/index.js\r",
     "\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.160:3000)\r",
-    "GET / 200 - - 39.400 ms\r",
-    "GET / 200 - - 4.962 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.197:3000)\r",
+    "GET / 200 - - 39.628 ms\r",
+    "GET / 200 - - 5.133 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22510626094",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/22533738225",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
