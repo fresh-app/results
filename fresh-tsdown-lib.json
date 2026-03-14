@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdown-lib",
-  "size": 103656727,
+  "size": 103663205,
   "timing": {
-    "startTime": "2026-03-13T13:56:07.649Z",
-    "finishTime": "2026-03-13T13:56:13.188Z"
+    "startTime": "2026-03-14T01:51:23.138Z",
+    "finishTime": "2026-03-14T01:51:28.674Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create tsdown@latest fresh-app --template=default\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create tsdown@latest fresh-app --template=default\r",
-    ".../19ce77bb175-a                        |   \u001b[32m+7\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../19ce77bb175-a                        | Progress: resolved \u001b[96m7\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m7\u001b[0m, added \u001b[96m7\u001b[0m, done\r",
+    ".../19cea0a883c-a                        |   \u001b[32m+7\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../19cea0a883c-a                        | Progress: resolved \u001b[96m7\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m7\u001b[0m, added \u001b[96m7\u001b[0m, done\r",
     "\u001b[90m┌\u001b[0m  Creating a tsdown project...\r",
     "\u001b[90m│\r",
     "\u001b[32m◇\u001b[0m  Template cloned\r",
@@ -57,12 +57,12 @@
     "\u001b[34mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.10 kB\u001b[0m \u001b[2m│ gzip: 0.11 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.08 kB\u001b[0m \u001b[2m│ gzip: 0.10 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.18 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m178ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m171ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh TypeScript library, built with tsdown, automatically generated everyday with \"pnpm create tsdown@latest --template=default\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23054049237",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23077662436",
   "frameworkUrl": "https://tsdown.dev/",
   "frameworkDocumentationUrl": "https://tsdown.dev/guide/getting-started"
 }
