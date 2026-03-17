@@ -1,11 +1,12 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 209917543,
+  "size": 209924469,
   "timing": {
-    "startTime": "2026-03-16T02:11:36.807Z",
-    "finishTime": "2026-03-16T02:12:50.363Z"
+    "startTime": "2026-03-17T01:58:31.581Z",
+    "finishTime": "2026-03-17T01:59:44.181Z"
   },
   "log": [
+    "Preparing to unpack .../064-libpng16-16_1.6.39-2+deb12u3_amd64.deb ...\r",
     "Unpacking libpng16-16:amd64 (1.6.39-2+deb12u3) over (1.6.39-2+deb12u1) ...\r",
     "Selecting previously unselected package libzvbi-common.\r",
     "Preparing to unpack .../065-libzvbi-common_0.2.41-1_all.deb ...\r",
@@ -1014,7 +1015,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 3.8s using pnpm v10.32.1\r",
+    "\u001b[0mDone in 4.2s using pnpm v10.32.1\r",
     "+ pnpm install --global @vscode/test-web\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m whatwg-encoding@2.0.0\r",
     "Packages: \u001b[32m+101\r",
@@ -1104,20 +1105,19 @@
     "node@factory:/workspace/fresh-app$ vscode-test-web --headless --extensionDevelopmentPath=. .\r",
     "@vscode/test-web: 0.0.80\r",
     "Downloading VS Code Insiders: complete\r",
-    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-3d2f6d94495933ec2e7b6a2bed05b6cb6a0e487b\r",
+    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-2a363564b7c43022ad9fb461e2b6b8e80a80b92c\r",
     "Serving dev extensions from /workspace/fresh-app\r",
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 3.693 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 3.524 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.900 ms - 9\r",
-    "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.196 ms - 9\r",
+    "\u001b[0mUsing ESM loader: \u001b[33mtrue\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.621 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23124932137",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23174728775",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
