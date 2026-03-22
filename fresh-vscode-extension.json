@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55842553,
   "timing": {
-    "startTime": "2026-03-21T01:52:09.309Z",
-    "finishTime": "2026-03-21T01:52:25.484Z"
+    "startTime": "2026-03-22T02:03:42.061Z",
+    "finishTime": "2026-03-22T02:03:57.934Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -49,7 +49,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4s using pnpm v10.32.1\r",
+    "\u001b[0mDone in 4.1s using pnpm v10.32.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -119,7 +119,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23369417490",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23393467942",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
