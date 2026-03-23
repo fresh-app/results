@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 104586378,
+  "size": 104595137,
   "timing": {
-    "startTime": "2026-03-22T02:01:17.282Z",
-    "finishTime": "2026-03-22T02:01:36.017Z"
+    "startTime": "2026-03-23T02:04:45.735Z",
+    "finishTime": "2026-03-23T02:05:03.182Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19d1346799c-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19d1346799c-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
+    ".../19d18700305-a                        | \u001b[32m+194\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19d18700305-a                        | Progress: resolved \u001b[96m194\u001b[0m, reused \u001b[96m22\u001b[0m, downloaded \u001b[96m172\u001b[0m, added \u001b[96m194\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.13.1\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -69,8 +69,8 @@
     "> react-router build\r",
     "\r",
     "\u001b[36mvite v7.3.1 \u001b[32mbuilding client environment for production...\r",
-    "✓\u001b[0m 44 modules transformed.\r",
-    "\u001b[2mbuild/client/\u001b[32;22m.vite/manifest.json                \u001b[39;1;2m  1.65 kB\u001b[22m │ gzip:  0.46 kB\r",
+    "\u001b[2m✓\u001b[39m 44 modules transformed.\r",
+    "build/client/\u001b[32;22m.vite/manifest.json                \u001b[39;1;2m  1.65 kB\u001b[22m │ gzip:  0.46 kB\r",
     "build/client/assets/\u001b[32;22mlogo-dark-pX2395Y0.svg      \u001b[39;1;2m  6.10 kB\u001b[22m │ gzip:  2.40 kB\r",
     "build/client/assets/\u001b[32;22mlogo-light-CVbx2LBR.svg     \u001b[39;1;2m  6.13 kB\u001b[22m │ gzip:  2.41 kB\r",
     "build/client/assets/\u001b[35;22mroot-CrHW9lRf.css           \u001b[39;1;2m  7.83 kB\u001b[22m │ gzip:  2.39 kB\r",
@@ -78,7 +78,7 @@
     "build/client/assets/\u001b[36;22mhome-CvdXiR6b.js            \u001b[39;1;2m  3.70 kB\u001b[22m │ gzip:  1.70 kB\r",
     "build/client/assets/\u001b[36;22mchunk-LFPYN7LY-CmdQzttt.js  \u001b[39;1;2m124.94 kB\u001b[22m │ gzip: 42.09 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-C4zM3e0D.js    \u001b[39;1;2m190.54 kB\u001b[22m │ gzip: 60.05 kB\r",
-    "\u001b[32;22m✓ built in 1.42s\r",
+    "\u001b[32;22m✓ built in 1.45s\r",
     "\u001b[36mvite v7.3.1 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 9 modules transformed.\r",
     "\u001b[2mbuild/server/\u001b[32;22m.vite/manifest.json               \u001b[39;1;2m 0.58 kB\r",
@@ -92,7 +92,7 @@
     "build/client/assets/logo-light-CVbx2LBR.svg\r",
     "build/server/assets/server-build-CrHW9lRf.css\r",
     "\r",
-    "\u001b[32;22m✓ built in 69ms\r",
+    "\u001b[32;22m✓ built in 74ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -100,12 +100,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> react-router-serve ./build/server/index.js\r",
     "\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.170:3000)\r",
-    "GET / 200 - - 39.942 ms\r",
-    "GET / 200 - - 4.787 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.161:3000)\r",
+    "GET / 200 - - 40.533 ms\r",
+    "GET / 200 - - 4.683 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23393467942",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23418224269",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
