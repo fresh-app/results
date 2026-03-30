@@ -2,8 +2,8 @@
   "generator": "fresh-viteplus-lib",
   "size": 201584675,
   "timing": {
-    "startTime": "2026-03-29T02:09:02.471Z",
-    "finishTime": "2026-03-29T02:09:50.603Z"
+    "startTime": "2026-03-30T02:11:32.488Z",
+    "finishTime": "2026-03-30T02:12:19.926Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://vite.plus | CI=true bash\r",
@@ -53,7 +53,7 @@
     "> vp config\r",
     "\r",
     ".git can't be found\r",
-    "Done in 576ms using pnpm v10.33.0\r",
+    "Done in 566ms using pnpm v10.33.0\r",
     "\r",
     "\u001b[90;1mtip:\u001b[0m \u001b[90mAvailable short aliases: i = install, rm = remove, un = uninstall, up = update, ls = list, ln = link\r",
     "\u001b[0m+ vp pack\r",
@@ -66,7 +66,7 @@
     "\u001b[34mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.10 kB\u001b[0m \u001b[2m│ gzip: 0.11 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.08 kB\u001b[0m \u001b[2m│ gzip: 0.10 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.18 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m136ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m149ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -86,13 +86,13 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.221:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.107:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-03-29T02:09:45.648Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-29T02:09:46.366Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[31D"
+    "[2026-03-30T02:12:14.952Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-30T02:12:15.672Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[31D"
   ],
   "description": "Fresh Vite+ library, automatically generated everyday with \"vp create vite:library\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23699206626"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23724905377"
 }
