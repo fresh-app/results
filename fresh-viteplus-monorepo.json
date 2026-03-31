@@ -2,8 +2,8 @@
   "generator": "fresh-viteplus-monorepo",
   "size": 225381346,
   "timing": {
-    "startTime": "2026-03-30T02:16:13.319Z",
-    "finishTime": "2026-03-30T02:17:03.181Z"
+    "startTime": "2026-03-31T02:09:57.049Z",
+    "finishTime": "2026-03-31T02:10:47.634Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://vite.plus | CI=true bash\r",
@@ -51,7 +51,7 @@
     "Already up to date\r",
     ". \u001b[96mprepare\u001b[0m$ vp config\r",
     "\u001b[95m└─\u001b[0m \u001b[95mDone in 111ms\r",
-    "\u001b[0mDone in 776ms using pnpm v10.33.0\r",
+    "\u001b[0mDone in 691ms using pnpm v10.33.0\r",
     "\r",
     "\u001b[90;1mtip:\u001b[0m \u001b[90mAvailable short aliases: i = install, rm = remove, un = uninstall, up = update, ls = list, ln = link\r",
     "\u001b[0m+ vp build apps/website\r",
@@ -66,7 +66,7 @@
     "\u001b[22mapps/website/dist/assets/\u001b[35;22mindex-CsUDhMuy.css  \u001b[39;1;2m 4.10 kB\u001b[22m │ gzip: 1.46 kB\r",
     "apps/website/dist/assets/\u001b[36;22mindex-BZHxPfsZ.js   \u001b[39;1;2m 4.52 kB\u001b[22m │ gzip: 2.02 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 78ms\r",
+    "\u001b[32;22m✓ built in 63ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/apps/website/dist\r",
     "node@factory:/workspace/fresh-app/apps/website/dist$ http-server\r",
@@ -86,23 +86,23 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.149:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.156:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-03-30T02:16:58.045Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.061Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BZHxPfsZ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.063Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-CsUDhMuy.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.076Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/icons.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.077Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/hero-5sT3BiRD.png\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.087Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/vite-BF8QNONU.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.856Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.867Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BZHxPfsZ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.871Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-CsUDhMuy.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.882Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/icons.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.883Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/hero-5sT3BiRD.png\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-03-30T02:16:58.898Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/vite-BF8QNONU.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[55D"
+    "[2026-03-31T02:10:42.562Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:42.576Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BZHxPfsZ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:42.576Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-CsUDhMuy.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:42.586Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/icons.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:42.591Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/hero-5sT3BiRD.png\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:42.593Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/vite-BF8QNONU.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.334Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.342Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-BZHxPfsZ.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.344Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-CsUDhMuy.css\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.353Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/icons.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.354Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/hero-5sT3BiRD.png\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-03-31T02:10:43.359Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/vite-BF8QNONU.svg\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\u001b[1B\u001b[55D"
   ],
   "description": "Fresh Vite+ monorepo, automatically generated everyday with \"vp create vite:monorepo\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23724905377"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23776991789"
 }
