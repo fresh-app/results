@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 212782442,
+  "size": 212816747,
   "timing": {
-    "startTime": "2026-04-03T02:07:17.024Z",
-    "finishTime": "2026-04-03T02:08:32.366Z"
+    "startTime": "2026-04-04T01:57:52.332Z",
+    "finishTime": "2026-04-04T01:59:06.071Z"
   },
   "log": [
     "Unpacking libpng16-16:amd64 (1.6.39-2+deb12u4) over (1.6.39-2+deb12u1) ...\r",
@@ -1068,7 +1068,7 @@
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mUnknown env config \"verify-deps-before-run\". This will stop working in the next major version of npm.\r",
     "\u001b[39;1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 428 packages, and audited 429 packages in 26s\r",
+    "added 428 packages, and audited 429 packages in 24s\r",
     "\r",
     "100 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -1104,20 +1104,20 @@
     "node@factory:/workspace/fresh-app$ vscode-test-web --headless --extensionDevelopmentPath=. .\r",
     "@vscode/test-web: 0.0.80\r",
     "Downloading VS Code Insiders: complete\r",
-    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-69eb46235615cbdffb974a0f33a76395e180d2a1\r",
+    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-3d70aab9a4ed407832e43584ac7a661be08e2d74\r",
     "Serving dev extensions from /workspace/fresh-app\r",
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.921 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.245 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.704 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.603 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 3.336 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.671 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23930520374",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/23968873621",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
