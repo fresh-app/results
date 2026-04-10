@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55888924,
   "timing": {
-    "startTime": "2026-04-09T02:03:40.769Z",
-    "finishTime": "2026-04-09T02:03:58.241Z"
+    "startTime": "2026-04-10T02:16:15.550Z",
+    "finishTime": "2026-04-10T02:16:32.526Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,21 +35,21 @@
     "}\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
-    "Packages: \u001b[32m+504\r",
+    "Packages: \u001b[32m+508\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
-    "\u001b[0mProgress: resolved \u001b[96m504\u001b[0m, reused \u001b[96m14\u001b[0m, downloaded \u001b[96m490\u001b[0m, added \u001b[96m504\u001b[0m, done\r",
+    "\u001b[0mProgress: resolved \u001b[96m508\u001b[0m, reused \u001b[96m14\u001b[0m, downloaded \u001b[96m494\u001b[0m, added \u001b[96m508\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.18\r",
-    "\u001b[32m+\u001b[0m yo \u001b[90m7.0.0\r",
+    "\u001b[32m+\u001b[0m yo \u001b[90m7.0.1\r",
     "\r",
     "\u001b[33m╭ Warning ───────────────────────────────────────────────────────────────────────────────────╮\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
-    "│\u001b[0m   Ignored build scripts: yo@7.0.0.                                                         \u001b[33m│\r",
+    "│\u001b[0m   Ignored build scripts: yo@7.0.1.                                                         \u001b[33m│\r",
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4.2s using pnpm v10.33.0\r",
+    "\u001b[0mDone in 4.3s using pnpm v10.33.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -119,7 +119,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/24168438401",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/24222898963",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
