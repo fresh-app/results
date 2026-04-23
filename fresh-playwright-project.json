@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 16680858,
+  "size": 16680870,
   "timing": {
-    "startTime": "2026-04-22T02:16:58.678Z",
-    "finishTime": "2026-04-22T02:18:03.741Z"
+    "startTime": "2026-04-23T02:26:22.833Z",
+    "finishTime": "2026-04-23T02:27:34.290Z"
   },
   "log": [
     "Preparing to unpack .../043-libxcb-dri3-0_1.15-1_amd64.deb ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (9.0s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (9.2s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.244:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.236:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-04-22T02:17:58.670Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
-    "[2026-04-22T02:17:59.443Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-04-23T02:27:29.212Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
+    "[2026-04-23T02:27:29.986Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/121.0.6167.57 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/24756606359",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/24813285915",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
