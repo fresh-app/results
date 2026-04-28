@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 131199346,
+  "size": 131201830,
   "timing": {
-    "startTime": "2026-04-27T02:33:10.307Z",
-    "finishTime": "2026-04-27T02:33:27.056Z"
+    "startTime": "2026-04-28T02:42:35.817Z",
+    "finishTime": "2026-04-28T02:42:51.305Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19dccc898e3-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19dccc898e3-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m189\u001b[0m, done\r",
+    ".../19dd1f796b8-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19dd1f796b8-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m189\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.14.2\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -62,7 +62,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4.2s using pnpm v10.33.2\r",
+    "\u001b[0mDone in 3.4s using pnpm v10.33.2\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -80,7 +80,7 @@
     "build/client/assets/\u001b[36;22mjsx-runtime-D5qcWm1G.js   \u001b[39;1;2m126.95 kB\u001b[22m │ gzip: 41.78 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-Dqpdiu-g.js  \u001b[39;1;2m186.57 kB\u001b[22m │ gzip: 58.90 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 229ms\r",
+    "\u001b[32;22m✓ built in 196ms\r",
     "\u001b[36mvite v8.0.10 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 10 modules transformed.\r",
     "\r",
@@ -96,7 +96,7 @@
     "build/server/assets/\u001b[35;22mserver-build-llXdC538.css  \u001b[39;1;2m 8.04 kB\u001b[22m │ gzip: 2.46 kB\r",
     "build/server/\u001b[36;22mindex.js                          \u001b[39;1;2m11.49 kB\u001b[22m │ gzip: 4.16 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 68ms\r",
+    "\u001b[32;22m✓ built in 80ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -104,12 +104,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> react-router-serve ./build/server/index.js\r",
     "\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.234:3000)\r",
-    "GET / 200 - - 40.004 ms\r",
-    "GET / 200 - - 4.897 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.73:3000)\r",
+    "GET / 200 - - 39.062 ms\r",
+    "GET / 200 - - 4.946 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/24973768177",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25030908028",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
