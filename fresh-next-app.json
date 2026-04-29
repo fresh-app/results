@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 412240555,
+  "size": 412240417,
   "timing": {
-    "startTime": "2026-04-28T02:41:13.501Z",
-    "finishTime": "2026-04-28T02:41:37.587Z"
+    "startTime": "2026-04-29T02:41:10.621Z",
+    "finishTime": "2026-04-29T02:41:35.546Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript --yes\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript --yes\r",
-    ".../19dd1f655a1-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../19dd1f655a1-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../19dd71ca675-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../19dd71ca675-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -32,8 +32,8 @@
     "\u001b[0m- \u001b[36mtailwindcss\r",
     "\r",
     "\u001b[0mDownloading next@16.2.4: \u001b[96m33.99 MB\u001b[0m/\u001b[96m33.99 MB\u001b[0m, done\r",
-    "Downloading @next/swc-linux-x64-gnu@16.2.4: \u001b[96m45.18 MB\u001b[0m/\u001b[96m45.18 MB\u001b[0m, done\r",
     "Downloading @img/sharp-libvips-linux-x64@1.2.4: \u001b[96m7.53 MB\u001b[0m/\u001b[96m7.53 MB\u001b[0m, done\r",
+    "Downloading @next/swc-linux-x64-gnu@16.2.4: \u001b[96m45.18 MB\u001b[0m/\u001b[96m45.18 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+346\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m419\u001b[0m, reused \u001b[96m27\u001b[0m, downloaded \u001b[96m324\u001b[0m, added \u001b[96m346\u001b[0m, done\r",
@@ -49,7 +49,7 @@
     "\u001b[32m+\u001b[0m eslint-config-next \u001b[90m16.2.4\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m4.2.4\r",
     "\r",
-    "\u001b[0mDone in 7.4s using pnpm v10.33.2\r",
+    "\u001b[0mDone in 9.3s using pnpm v10.33.2\r",
     "\r",
     "Generating route types...\r",
     "✓ Types generated successfully\r",
@@ -62,7 +62,7 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 594ms using pnpm v10.33.2\r",
+    "Done in 559ms using pnpm v10.33.2\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@0.1.0 build /workspace/fresh-app\r",
@@ -76,11 +76,11 @@
     "\u001b[38;2;173;127;168;1m▲ Next.js 16.2.4\u001b[0m (Turbopack)\r",
     "\r",
     "\u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
-    "\u001b[32;1m✓\u001b[0m Compiled successfully in 3.1s\r",
-    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 86ms    \r",
-    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 484ms    \r",
-    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 147ms\r",
-    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 4ms    \r",
+    "\u001b[32;1m✓\u001b[0m Compiled successfully in 2.6s\r",
+    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 80ms    \r",
+    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 388ms    \r",
+    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 149ms\r",
+    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 7ms    \r",
     "\r",
     "\u001b[4mRoute (app)\r",
     "\u001b[0m┌ ○ /\r",
@@ -98,11 +98,11 @@
     "\r",
     "\u001b[38;2;173;127;168;1m▲ Next.js 16.2.4\r",
     "\u001b[0m- Local:         http://localhost:3000\r",
-    "- Network:       http://10.1.0.104:3000\r",
-    "\u001b[32;1m✓\u001b[0m Ready in 135ms\u001b[1B\u001b[16D"
+    "- Network:       http://10.1.0.245:3000\r",
+    "\u001b[32;1m✓\u001b[0m Ready in 133ms\u001b[1B\u001b[16D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25030908028",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25088196010",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
