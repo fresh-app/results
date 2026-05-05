@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 131248950,
+  "size": 131249092,
   "timing": {
-    "startTime": "2026-05-04T02:37:43.252Z",
-    "finishTime": "2026-05-04T02:37:59.648Z"
+    "startTime": "2026-05-05T02:31:54.645Z",
+    "finishTime": "2026-05-05T02:32:13.112Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "\u001b[30;43m WARN \u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19df0d94811-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19df0d94811-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m189\u001b[0m, done\r",
+    ".../19df5fa5263-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19df5fa5263-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m189\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.14.2\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -31,7 +31,7 @@
     "\r",
     "\u001b[0m+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@10.33.2 in the project...\r",
+    "Installing pnpm@10.33.3 in the project...\r",
     "\r",
     "Downloading @rolldown/binding-linux-x64-gnu@1.0.0-rc.17: \u001b[96m9.39 MB\u001b[0m/\u001b[96m9.39 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+201\r",
@@ -62,7 +62,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 3.6s using pnpm v10.33.2\r",
+    "\u001b[0mDone in 5.6s using pnpm v10.33.3\r",
     "+ pnpm build\r",
     "\r",
     "> fresh-app@ build /workspace/fresh-app\r",
@@ -80,7 +80,7 @@
     "build/client/assets/\u001b[36;22mjsx-runtime-D5qcWm1G.js   \u001b[39;1;2m126.95 kB\u001b[22m │ gzip: 41.78 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-Dqpdiu-g.js  \u001b[39;1;2m186.57 kB\u001b[22m │ gzip: 58.90 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 229ms\r",
+    "\u001b[32;22m✓ built in 242ms\r",
     "\u001b[36mvite v8.0.10 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 10 modules transformed.\r",
     "\r",
@@ -96,7 +96,7 @@
     "build/server/assets/\u001b[35;22mserver-build-llXdC538.css  \u001b[39;1;2m 8.04 kB\u001b[22m │ gzip: 2.46 kB\r",
     "build/server/\u001b[36;22mindex.js                          \u001b[39;1;2m11.49 kB\u001b[22m │ gzip: 4.16 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 61ms\r",
+    "\u001b[32;22m✓ built in 90ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
@@ -104,12 +104,12 @@
     "> fresh-app@ start /workspace/fresh-app\r",
     "> react-router-serve ./build/server/index.js\r",
     "\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.200:3000)\r",
-    "GET / 200 - - 40.577 ms\r",
-    "GET / 200 - - 4.859 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.246:3000)\r",
+    "GET / 200 - - 39.651 ms\r",
+    "GET / 200 - - 4.931 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25298271852",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25354669909",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
