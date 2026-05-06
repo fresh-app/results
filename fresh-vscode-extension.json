@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55259390,
   "timing": {
-    "startTime": "2026-05-05T02:34:27.957Z",
-    "finishTime": "2026-05-05T02:34:45.044Z"
+    "startTime": "2026-05-06T02:39:20.604Z",
+    "finishTime": "2026-05-06T02:39:38.082Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -49,7 +49,7 @@
     "│\u001b[0m   Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.   \u001b[33m│\r",
     "│\u001b[0m                                                                                            \u001b[33m│\r",
     "╰────────────────────────────────────────────────────────────────────────────────────────────╯\r",
-    "\u001b[0mDone in 4.4s using pnpm v10.33.3\r",
+    "\u001b[0mDone in 4.8s using pnpm v10.33.3\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -115,11 +115,10 @@
     "+ mv yeoman_temp/fresh-extension fresh-app\r",
     "+ rm -rf yeoman_temp\r",
     "+ test -f fresh-app/package.json\r",
-    "Finished running generator.\r",
-    "node@factory:/workspace$ \u001b[?2004h"
+    "Finished running generator.\u001b[1B\u001b[27D"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25354669909",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/25413392601",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
