@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-web-extension",
   "size": 292854067,
   "timing": {
-    "startTime": "2026-06-04T10:39:09.081Z",
-    "finishTime": "2026-06-04T10:40:33.191Z"
+    "startTime": "2026-06-04T10:45:01.310Z",
+    "finishTime": "2026-06-04T10:46:25.548Z"
   },
   "log": [
     "Preparing to unpack .../085-libchromaprint1_1.5.1-2+b1_amd64.deb ...\r",
@@ -1016,7 +1016,7 @@
     "Packages: \u001b[32m+510\r",
     "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++\r",
     "\u001b[0mProgress: resolved \u001b[96m510\u001b[0m, reused \u001b[96m14\u001b[0m, downloaded \u001b[96m496\u001b[0m, added \u001b[96m510\u001b[0m, done\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@25.9.1_mem-fs@4.1.4/node_modules/\u001b[0myo: Running postinstall script, done in 1.2s\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@25.9.1_mem-fs@4.1.4/node_modules/\u001b[0myo: Running postinstall script, done in 1.4s\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m generator-code \u001b[90m1.11.18\r",
@@ -1031,7 +1031,7 @@
     "\u001b[96mglobal:\r",
     "\u001b[32m+\u001b[0m @vscode/test-web \u001b[90m0.0.80\r",
     "\r",
-    "\u001b[0mDone in 3.1s using pnpm v11.5.1\r",
+    "\u001b[0mDone in 2.8s using pnpm v11.5.1\r",
     "+ pnpm exec yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -1068,7 +1068,7 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 424 packages, and audited 425 packages in 25s\r",
+    "added 424 packages, and audited 425 packages in 24s\r",
     "\r",
     "104 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -1109,15 +1109,15 @@
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.022 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 260.605 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 5.978 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.400 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.491 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.134 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26946439129",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26946734425",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
