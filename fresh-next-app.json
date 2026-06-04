@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 413493669,
+  "size": 413493671,
   "timing": {
-    "startTime": "2026-06-04T10:36:08.992Z",
-    "finishTime": "2026-06-04T10:36:36.928Z"
+    "startTime": "2026-06-04T10:43:06.811Z",
+    "finishTime": "2026-06-04T10:43:34.966Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript --yes\r",
@@ -13,8 +13,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript --yes\r",
-    ".../19e92347165-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../19e92347165-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../19e923ad194-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../19e923ad194-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -76,9 +76,9 @@
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "\u001b[90mnode_modules/.pnpm/unrs-resolver@1.12.2/node_modules/\u001b[0munrs-resolver: Running postinstall script, done in 49ms\r",
-    "\u001b[90mnode_modules/.pnpm/sharp@0.34.5/node_modules/\u001b[0msharp: Running install script, done in 62ms\r",
-    "Done in 1.2s using pnpm v11.5.1\r",
+    "\u001b[90mnode_modules/.pnpm/unrs-resolver@1.12.2/node_modules/\u001b[0munrs-resolver: Running postinstall script, done in 53ms\r",
+    "\u001b[90mnode_modules/.pnpm/sharp@0.34.5/node_modules/\u001b[0msharp: Running install script, done in 78ms\r",
+    "Done in 1.3s using pnpm v11.5.1\r",
     "+ pnpm build\r",
     "\u001b[2m$ next build\r",
     "\u001b[35;1;22mAttention\u001b[0m: Next.js now collects completely anonymous telemetry regarding usage.\r",
@@ -89,11 +89,11 @@
     "\u001b[38;2;173;127;168;1m▲ Next.js 16.2.7\u001b[0m (Turbopack)\r",
     "\r",
     "\u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
-    "\u001b[32;1m✓\u001b[0m Compiled successfully in 2.6s\r",
-    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 78ms    \r",
-    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 396ms    \r",
-    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 146ms\r",
-    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 4ms    \r",
+    "\u001b[32;1m✓\u001b[0m Compiled successfully in 3.0s\r",
+    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 80ms    \r",
+    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 415ms    \r",
+    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 159ms\r",
+    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 10ms    \r",
     "\r",
     "\u001b[4mRoute (app)\r",
     "\u001b[0m┌ ○ /\r",
@@ -108,11 +108,11 @@
     "\u001b[2m$ next start\r",
     "\u001b[38;2;173;127;168;1;22m▲ Next.js 16.2.7\r",
     "\u001b[0m- Local:         http://localhost:3000\r",
-    "- Network:       http://10.1.0.10:3000\r",
-    "\u001b[32;1m✓\u001b[0m Ready in 132ms\u001b[1B\u001b[16D"
+    "- Network:       http://10.1.0.77:3000\r",
+    "\u001b[32;1m✓\u001b[0m Ready in 136ms\u001b[1B\u001b[16D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26946439129",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26946734425",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
