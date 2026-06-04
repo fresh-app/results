@@ -2,8 +2,8 @@
   "generator": "fresh-tsdown-lib",
   "size": 103119716,
   "timing": {
-    "startTime": "2026-06-04T10:04:25.297Z",
-    "finishTime": "2026-06-04T10:04:31.748Z"
+    "startTime": "2026-06-04T10:09:37.691Z",
+    "finishTime": "2026-06-04T10:09:44.434Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create tsdown@latest fresh-app --template=default\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create tsdown@latest fresh-app --template=default\r",
-    ".../19e9217646b-a                        |  \u001b[32m+10\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../19e9217646b-a                        | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
+    ".../19e921c28f0-a                        |  \u001b[32m+10\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../19e921c28f0-a                        | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
     "\u001b[90m┌\u001b[0m  Creating a tsdown project...\r",
     "\u001b[90m│\r",
     "\u001b[32m◇\u001b[0m  Template cloned\r",
@@ -42,7 +42,7 @@
     "\u001b[32m+\u001b[0m typescript \u001b[90m6.0.3\r",
     "\u001b[32m+\u001b[0m vitest \u001b[90m4.1.8\r",
     "\r",
-    "\u001b[0mDone in 2.4s using pnpm v11.5.1\r",
+    "\u001b[0mDone in 2.5s using pnpm v11.5.1\r",
     "+ pnpm build\r",
     "\u001b[2m$ tsdown\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[34mtsdown v0.22.1\u001b[0m powered by \u001b[91mrolldown v1.0.3\r",
@@ -54,12 +54,12 @@
     "\u001b[34mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.10 kB\u001b[0m \u001b[2m│ gzip: 0.11 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.08 kB\u001b[0m \u001b[2m│ gzip: 0.10 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.18 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m186ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m193ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh TypeScript library, built with tsdown, automatically generated everyday with \"pnpm create tsdown@latest --template=default\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26944777624",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/26945174942",
   "frameworkUrl": "https://tsdown.dev/",
   "frameworkDocumentationUrl": "https://tsdown.dev/guide/getting-started"
 }
