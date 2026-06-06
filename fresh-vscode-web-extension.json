@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-web-extension",
   "size": 292952613,
   "timing": {
-    "startTime": "2026-06-06T02:09:51.667Z",
-    "finishTime": "2026-06-06T02:11:15.309Z"
+    "startTime": "2026-06-06T02:38:35.492Z",
+    "finishTime": "2026-06-06T02:40:01.033Z"
   },
   "log": [
     "Selecting previously unselected package libgme0:amd64.\r",
@@ -1031,7 +1031,7 @@
     "\u001b[96mglobal:\r",
     "\u001b[32m+\u001b[0m @vscode/test-web \u001b[90m0.0.80\r",
     "\r",
-    "\u001b[0mDone in 2.5s using pnpm v11.5.2\r",
+    "\u001b[0mDone in 2.8s using pnpm v11.5.2\r",
     "+ pnpm exec yo code --quick --extensionType=web --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -1068,7 +1068,7 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 424 packages, and audited 425 packages in 24s\r",
+    "added 424 packages, and audited 425 packages in 23s\r",
     "\r",
     "104 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -1109,15 +1109,15 @@
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.242 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.809 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 2.316 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.910 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.798 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.699 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27049645171",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27050256519",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
