@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 413495749,
+  "size": 413503938,
   "timing": {
-    "startTime": "2026-06-06T02:38:34.524Z",
-    "finishTime": "2026-06-06T02:39:02.206Z"
+    "startTime": "2026-06-07T02:57:16.721Z",
+    "finishTime": "2026-06-07T02:57:47.262Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript --yes\r",
@@ -11,8 +11,8 @@
     "> corepack use pnpm@latest || (pnpm approve-builds --all && corepack use pnpm@latest)\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript --yes\r",
-    ".../19e9acbec5c-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
-    "\u001b[0m.../19e9acbec5c-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../19ea003690e-a                        |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    "\u001b[0m.../19ea003690e-a                        | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -66,14 +66,14 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/unrs-resolver@1.12.2/node_modules/\u001b[0munrs-resolver: Running postinstall script, done in 55ms\r",
-    "\u001b[90mnode_modules/.pnpm/sharp@0.34.5/node_modules/\u001b[0msharp: Running install script, done in 64ms\r",
+    "\u001b[90mnode_modules/.pnpm/unrs-resolver@1.12.2/node_modules/\u001b[0munrs-resolver: Running postinstall script, done in 50ms\r",
+    "\u001b[90mnode_modules/.pnpm/sharp@0.34.5/node_modules/\u001b[0msharp: Running install script, done in 59ms\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@11.5.2 in the project...\r",
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 675ms using pnpm v11.5.2\r",
+    "Done in 683ms using pnpm v11.5.2\r",
     "+ pnpm build\r",
     "\u001b[2m$ next build\r",
     "\u001b[35;1;22mAttention\u001b[0m: Next.js now collects completely anonymous telemetry regarding usage.\r",
@@ -84,11 +84,11 @@
     "\u001b[38;2;173;127;168;1m▲ Next.js 16.2.7\u001b[0m (Turbopack)\r",
     "\r",
     "\u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
-    "\u001b[32;1m✓\u001b[0m Compiled successfully in 2.6s\r",
-    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 87ms    \r",
-    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 397ms    \r",
-    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 150ms\r",
-    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 6ms    \r",
+    "\u001b[32;1m✓\u001b[0m Compiled successfully in 2.5s\r",
+    "\u001b[32;1m✓\u001b[0m Finished TypeScript in 82ms    \r",
+    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 404ms    \r",
+    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 144ms\r",
+    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 7ms    \r",
     "\r",
     "\u001b[4mRoute (app)\r",
     "\u001b[0m┌ ○ /\r",
@@ -103,11 +103,11 @@
     "\u001b[2m$ next start\r",
     "\u001b[38;2;173;127;168;1;22m▲ Next.js 16.2.7\r",
     "\u001b[0m- Local:         http://localhost:3000\r",
-    "- Network:       http://10.1.0.21:3000\r",
-    "\u001b[32;1m✓\u001b[0m Ready in 133ms\u001b[1B\u001b[16D"
+    "- Network:       http://10.1.0.137:3000\r",
+    "\u001b[32;1m✓\u001b[0m Ready in 132ms\u001b[1B\u001b[16D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27050256519",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27080879998",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
