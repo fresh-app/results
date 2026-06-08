@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-spa",
-  "size": 129903455,
+  "size": 129956802,
   "timing": {
-    "startTime": "2026-06-07T02:57:11.544Z",
-    "finishTime": "2026-06-07T02:57:30.073Z"
+    "startTime": "2026-06-08T03:00:12.278Z",
+    "finishTime": "2026-06-08T03:00:31.217Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install --template remix-run/react-router-templates/minimal\r",
@@ -12,8 +12,8 @@
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create react-router fresh-app --no-git-init --no-install --template remix-run/react-router-templates/minimal\r",
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m \u001b[31m3 deprecated subdependencies found:\u001b[0m @types/minimatch@6.0.0, glob@7.2.3, inflight@1.0.6\r",
-    ".../19ea0035416-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
-    "\u001b[0m.../19ea0035416-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m173\u001b[0m, done\r",
+    ".../19ea52c72e7-a                        | \u001b[32m+189\u001b[0m \u001b[32m+++++++++++++++++++\r",
+    "\u001b[0m.../19ea52c72e7-a                        | Progress: resolved \u001b[96m189\u001b[0m, reused \u001b[96m16\u001b[0m, downloaded \u001b[96m173\u001b[0m, added \u001b[96m173\u001b[0m, done\r",
     "\r",
     "         \u001b[32;1mcreate-react-router\u001b[0m \u001b[1mv7.17.0\r",
     "\u001b[0m      \u001b[36m◼\u001b[0m  \u001b[36mDirectory:\u001b[0m \u001b[2mUsing \u001b[0mfresh-app\u001b[2m as project directory\r",
@@ -60,13 +60,13 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.27.7/node_modules/\u001b[0mesbuild: Running postinstall script, done in 46ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.27.7/node_modules/\u001b[0mesbuild: Running postinstall script, done in 49ms\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@11.5.2 in the project...\r",
     "\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 628ms using pnpm v11.5.2\r",
+    "Done in 624ms using pnpm v11.5.2\r",
     "+ pnpm build\r",
     "\u001b[2m$ react-router build\r",
     "\u001b[0mUsing Vite Environment API (experimental)\r",
@@ -80,7 +80,7 @@
     "build/client/assets/\u001b[36;22mjsx-runtime-CMuTcSy_.js   \u001b[39;1;2m128.16 kB\u001b[22m │ gzip: 42.29 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-BihA2EXT.js  \u001b[39;1;2m186.50 kB\u001b[22m │ gzip: 58.90 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 209ms\r",
+    "\u001b[32;22m✓ built in 204ms\r",
     "\u001b[36mvite v8.0.16 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 7 modules transformed.\r",
     "\r",
@@ -92,7 +92,7 @@
     "build/server/assets/\u001b[35;22mserver-build-Ce51X1p1.css  \u001b[39;1;2m4.99 kB\u001b[22m │ gzip: 1.67 kB\r",
     "build/server/\u001b[36;22mindex.js                          \u001b[39;1;2m7.03 kB\u001b[22m │ gzip: 2.41 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 67ms\r",
+    "\u001b[32;22m✓ built in 63ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/build/client\r",
     "node@factory:/workspace/fresh-app/build/client$ http-server\r",
@@ -112,15 +112,15 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.199:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.70:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-06-07T02:57:25.122Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.33 Safari/537.36\"\r",
-    "[2026-06-07T02:57:25.825Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.33 Safari/537.36\"\u001b[1B\u001b[31D"
+    "[2026-06-08T03:00:26.284Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.33 Safari/537.36\"\r",
+    "[2026-06-08T03:00:26.963Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/131.0.6778.33 Safari/537.36\"\u001b[1B\u001b[31D"
   ],
   "description": "Fresh React Router minimal app (Remix successor), automatically generated everyday with \"pnpm create react-router --template remix-run/react-router-templates/minimal\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27080879998",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27113423456",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
