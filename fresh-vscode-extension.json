@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55819229,
   "timing": {
-    "startTime": "2026-06-14T03:03:55.777Z",
-    "finishTime": "2026-06-14T03:04:15.581Z"
+    "startTime": "2026-06-15T03:36:13.230Z",
+    "finishTime": "2026-06-15T03:36:33.742Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -99,7 +99,7 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 250 packages, and audited 251 packages in 8s\r",
+    "added 250 packages, and audited 251 packages in 9s\r",
     "\r",
     "77 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -132,7 +132,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27486544689",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27522376576",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
