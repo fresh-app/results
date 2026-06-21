@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 55860872,
   "timing": {
-    "startTime": "2026-06-21T02:06:38.809Z",
-    "finishTime": "2026-06-21T02:07:00.914Z"
+    "startTime": "2026-06-21T03:32:01.556Z",
+    "finishTime": "2026-06-21T03:32:22.967Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -57,7 +57,7 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.0.0_mem-fs@4.1.4/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.0.0_mem-fs@4.1.4/node_modules/\u001b[0myo: Running postinstall script, done in 1.1s\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 2s ago)\r",
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
@@ -132,7 +132,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27890459294",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/27892264844",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
