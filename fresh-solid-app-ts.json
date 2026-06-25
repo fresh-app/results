@@ -1,9 +1,9 @@
 {
   "generator": "fresh-solid-app-ts",
-  "size": 61178895,
+  "size": 61179228,
   "timing": {
-    "startTime": "2026-06-24T02:46:25.522Z",
-    "finishTime": "2026-06-24T02:46:43.064Z"
+    "startTime": "2026-06-25T02:44:26.001Z",
+    "finishTime": "2026-06-25T02:44:43.102Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/vanilla/basic fresh-app\r",
@@ -39,17 +39,17 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.27.7/node_modules/\u001b[0mesbuild: Running postinstall script, done in 52ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.27.7/node_modules/\u001b[0mesbuild: Running postinstall script, done in 50ms\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@11.9.0 in the project...\r",
     "\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 1s ago)\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 615ms using pnpm v11.9.0\r",
+    "Done in 603ms using pnpm v11.9.0\r",
     "+ pnpm install\r",
     "Already up to date\r",
-    "Done in 408ms using pnpm v11.9.0\r",
+    "Done in 420ms using pnpm v11.9.0\r",
     "+ pnpm build\r",
     "\u001b[2m$ vite build\r",
     "\u001b[36;22mvite v7.3.5 \u001b[32mbuilding client environment for production...\r",
@@ -76,17 +76,17 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.17:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.79:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-06-24T02:46:38.092Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-06-24T02:46:38.104Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-06-24T02:46:38.846Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-06-24T02:46:38.854Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
+    "[2026-06-25T02:44:38.158Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-06-25T02:44:38.170Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-06-25T02:44:38.877Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-06-25T02:44:38.884Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/vanilla/basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28071427357",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28143313097",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
