@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 20511326,
+  "size": 20511294,
   "timing": {
-    "startTime": "2026-07-06T02:40:07.420Z",
-    "finishTime": "2026-07-06T02:41:19.105Z"
+    "startTime": "2026-07-07T02:33:31.645Z",
+    "finishTime": "2026-07-07T02:34:51.182Z"
   },
   "log": [
     "Preparing to unpack .../055-libgsm1_1.0.22-1_amd64.deb ...\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.28:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.153:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-07-06T02:41:13.955Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-07-06T02:41:14.807Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-07T02:34:46.035Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-07T02:34:46.885Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28764156452",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28837323374",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
