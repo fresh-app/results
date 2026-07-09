@@ -1,9 +1,9 @@
 {
   "generator": "fresh-solid-app-ts",
-  "size": 60547005,
+  "size": 60547313,
   "timing": {
-    "startTime": "2026-07-08T02:07:23.015Z",
-    "finishTime": "2026-07-08T02:07:38.253Z"
+    "startTime": "2026-07-09T02:26:17.142Z",
+    "finishTime": "2026-07-09T02:26:32.787Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/vanilla/basic fresh-app\r",
@@ -31,7 +31,7 @@
     "\r",
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m solid-devtools \u001b[90m0.34.5\r",
-    "\u001b[32m+\u001b[0m typescript \u001b[90m5.9.3\u001b[0m \u001b[90m(6.0.3 is available)\r",
+    "\u001b[32m+\u001b[0m typescript \u001b[90m5.9.3\u001b[0m \u001b[90m(7.0.2 is available)\r",
     "\u001b[32m+\u001b[0m vite \u001b[90m7.3.6\u001b[0m \u001b[90m(8.1.3 is available)\r",
     "\u001b[32m+\u001b[0m vite-plugin-solid \u001b[90m2.11.12\r",
     "\r",
@@ -39,17 +39,17 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.28.1/node_modules/\u001b[0mesbuild: Running postinstall script, done in 47ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.28.1/node_modules/\u001b[0mesbuild: Running postinstall script, done in 49ms\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@11.10.0 in the project...\r",
     "\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 1s ago)\r",
     "Lockfile is up to date, resolution step is skipped\r",
     "Already up to date\r",
-    "Done in 603ms using pnpm v11.10.0\r",
+    "Done in 628ms using pnpm v11.10.0\r",
     "+ pnpm install\r",
     "Already up to date\r",
-    "Done in 409ms using pnpm v11.10.0\r",
+    "Done in 414ms using pnpm v11.10.0\r",
     "+ pnpm build\r",
     "\u001b[2m$ vite build\r",
     "\u001b[36;22mvite v7.3.6 \u001b[32mbuilding client environment for production...\r",
@@ -76,17 +76,17 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.83:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.237:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-07-08T02:07:33.229Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-07-08T02:07:33.243Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-07-08T02:07:34.023Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-07-08T02:07:34.035Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
+    "[2026-07-09T02:26:27.769Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-09T02:26:27.783Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-09T02:26:28.561Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-09T02:26:28.571Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/vanilla/basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28912224141",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/28989639259",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
