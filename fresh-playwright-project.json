@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 20511765,
+  "size": 20511745,
   "timing": {
-    "startTime": "2026-07-12T02:09:18.997Z",
-    "finishTime": "2026-07-12T02:10:33.387Z"
+    "startTime": "2026-07-13T02:11:22.737Z",
+    "finishTime": "2026-07-13T02:12:41.725Z"
   },
   "log": [
     "Unpacking liblcms2-dev:amd64 (2.14-2+deb12u1) over (2.14-2) ...\r",
@@ -703,8 +703,8 @@
     "Preparing to unpack .../291-libxaw7_2%3a1.0.14-1_amd64.deb ...\r",
     "Unpacking libxaw7:amd64 (2:1.0.14-1) ...\r",
     "Selecting previously unselected package libxfont2:amd64.\r",
-    "Preparing to unpack .../292-libxfont2_1%3a2.0.6-1_amd64.deb ...\r",
-    "Unpacking libxfont2:amd64 (1:2.0.6-1) ...\r",
+    "Preparing to unpack .../292-libxfont2_1%3a2.0.6-1+deb12u1_amd64.deb ...\r",
+    "Unpacking libxfont2:amd64 (1:2.0.6-1+deb12u1) ...\r",
     "Selecting previously unselected package libxkbfile1:amd64.\r",
     "Preparing to unpack .../293-libxkbfile1_1%3a1.1.0-1_amd64.deb ...\r",
     "Unpacking libxkbfile1:amd64 (1:1.1.0-1) ...\r",
@@ -897,7 +897,7 @@
     "Setting up libdrm-common (2.4.114-1) ...\r",
     "Setting up libyuv0:amd64 (0.0~git20230123.b2528b0-1) ...\r",
     "Setting up libxcomposite1:amd64 (1:0.4.5-1) ...\r",
-    "Setting up libxfont2:amd64 (1:2.0.6-1) ...\r",
+    "Setting up libxfont2:amd64 (1:2.0.6-1+deb12u1) ...\r",
     "Setting up libevdev2:amd64 (1.13.0+dfsg-1) ...\r",
     "Setting up libxml2:amd64 (2.9.14+dfsg-1.3~deb12u6) ...\r",
     "Setting up libmjpegutils-2.1-0:amd64 (1:2.1.0+debian-7) ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (9.1s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.0s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.22:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.165:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-07-12T02:10:28.216Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-07-12T02:10:29.102Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-13T02:12:36.639Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-07-13T02:12:37.439Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/29176287827",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/29218887049",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
