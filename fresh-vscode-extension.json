@@ -2,8 +2,8 @@
   "generator": "fresh-vscode-extension",
   "size": 60567299,
   "timing": {
-    "startTime": "2026-07-21T02:08:52.529Z",
-    "finishTime": "2026-07-21T02:09:11.522Z"
+    "startTime": "2026-07-22T02:04:19.650Z",
+    "finishTime": "2026-07-22T02:04:38.658Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -57,13 +57,13 @@
     "\r",
     "\u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.1.1_mem-fs@4.1.5_@types+node@26.1.1_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.1.1_mem-fs@4.1.5_@types+node@26.1.1_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.5s\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 3s ago)\r",
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
     "Already up to date\r",
-    "Progress: resolved \u001b[96m477\u001b[0m, reused \u001b[96m265\u001b[0m, downloaded \u001b[96m0\u001b[0m, added \u001b[96m0\u001b[0m, done\r",
-    "Done in 1.3s using pnpm v11.15.1\r",
+    "Progress: resolved \u001b[96m477\u001b[0m, reused \u001b[96m259\u001b[0m, downloaded \u001b[96m0\u001b[0m, added \u001b[96m0\u001b[0m, done\r",
+    "Done in 1.2s using pnpm v11.15.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -127,7 +127,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/29794832045",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/29884726552",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
