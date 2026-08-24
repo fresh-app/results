@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdown-lib",
-  "size": 76599165,
+  "size": 76599062,
   "timing": {
-    "startTime": "2026-08-23T01:01:11.719Z",
-    "finishTime": "2026-08-23T01:01:25.698Z"
+    "startTime": "2026-08-24T00:56:38.541Z",
+    "finishTime": "2026-08-24T00:56:46.488Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create tsdown@latest fresh-app --template=default\r",
@@ -11,11 +11,11 @@
     "> corepack use pnpm@latest\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create tsdown@latest fresh-app --template=default\r",
-    ".../mt53puqv-a                           |  \u001b[32m+10\u001b[0m \u001b[32m+\r",
+    ".../mt6izui0-a                           |  \u001b[32m+10\u001b[0m \u001b[32m+\r",
     "\u001b[0mPackages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
     "  Virtual store is at:             ../../pnpm-bin/store/v11/links\r",
-    ".../mt53puqv-a                           | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
+    ".../mt6izui0-a                           | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
     "\u001b[90m┌\u001b[0m  Creating a tsdown project...\r",
     "\u001b[90m│\r",
     "\u001b[32m◇\u001b[0m  Template cloned\r",
@@ -29,7 +29,7 @@
     "\r",
     "\u001b[0m+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
-    "Installing pnpm@11.22.0 in the project...\r",
+    "Installing pnpm@11.23.0 in the project...\r",
     "\r",
     "Downloading @typescript/typescript-linux-x64@7.0.2: \u001b[96m9.66 MB\u001b[0m/\u001b[96m9.66 MB\u001b[0m, done\r",
     "Downloading @rolldown/binding-linux-x64-gnu@1.2.5: \u001b[96m8.16 MB\u001b[0m/\u001b[96m8.16 MB\u001b[0m, done\r",
@@ -47,7 +47,7 @@
     "\u001b[32m+\u001b[0m typescript \u001b[90m7.0.2\r",
     "\u001b[32m+\u001b[0m vitest \u001b[90m4.1.11\r",
     "\r",
-    "\u001b[0mDone in 3.1s using pnpm v11.22.0\r",
+    "\u001b[0mDone in 2.9s using pnpm v11.23.0\r",
     "+ pnpm build\r",
     "\u001b[2m$ tsdown\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[34mtsdown v0.22.14\u001b[0m powered by \u001b[91mrolldown v1.2.5\r",
@@ -62,12 +62,12 @@
     "\u001b[34;24mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.10 kB\u001b[0m \u001b[2m│ gzip: 0.11 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.08 kB\u001b[0m \u001b[2m│ gzip: 0.10 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.18 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m145ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m124ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh TypeScript library, built with tsdown, automatically generated everyday with \"pnpm create tsdown@latest --template=default\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/32609124922",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/32678101678",
   "frameworkUrl": "https://tsdown.dev/",
   "frameworkDocumentationUrl": "https://tsdown.dev/guide/getting-started"
 }
