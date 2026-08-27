@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 61908858,
+  "size": 61911085,
   "timing": {
-    "startTime": "2026-08-26T00:56:59.333Z",
-    "finishTime": "2026-08-26T00:57:19.530Z"
+    "startTime": "2026-08-27T06:44:45.393Z",
+    "finishTime": "2026-08-27T06:45:05.287Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -63,7 +63,7 @@
     "+ pnpm approve-builds --all\r",
     "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.3.0_mem-fs@4.1.5_@types+node@26.3.0_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.3s\r",
     "+ pnpm add yo generator-code\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 2s ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 3s ago)\r",
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m \u001b[31m1 deprecated subdependencies found:\u001b[0m boolean@3.2.0\r",
     "Already up to date\r",
     "Progress: resolved \u001b[96m480\u001b[0m, reused \u001b[96m480\u001b[0m, downloaded \u001b[96m0\u001b[0m, added \u001b[96m0\u001b[0m, done\r",
@@ -110,9 +110,9 @@
     "\r",
     "found \u001b[32;1m0\u001b[0m vulnerabilities\r",
     "\u001b[1mnpm\u001b[0m \u001b[96mnotice\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[33m11.8.0\u001b[0m -> \u001b[34m11.19.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.19.0\r",
-    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.19.0\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m New \u001b[33mminor\u001b[0m version of npm available! \u001b[33m11.8.0\u001b[0m -> \u001b[34m11.19.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m Changelog: \u001b[34mhttps://github.com/npm/cli/releases/tag/v11.19.1\r",
+    "\u001b[39;1mnpm\u001b[0m \u001b[96mnotice\u001b[0m To update run: \u001b[4mnpm install -g npm@11.19.1\r",
     "\u001b[1;24mnpm\u001b[0m \u001b[96mnotice\r",
     "\r",
     "\u001b[0mYour extension fresh-extension has been created!\r",
@@ -131,7 +131,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/32916958100",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33046685036",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
