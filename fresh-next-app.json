@@ -1,9 +1,9 @@
 {
   "generator": "fresh-next-app",
-  "size": 447232343,
+  "size": 447278508,
   "timing": {
-    "startTime": "2026-08-28T08:31:46.844Z",
-    "finishTime": "2026-08-28T08:32:19.905Z"
+    "startTime": "2026-08-29T05:12:26.003Z",
+    "finishTime": "2026-08-29T05:12:57.293Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create next-app fresh-app --app --eslint --import-alias \"@/*\" --src-dir --tailwind --javascript --yes\r",
@@ -11,11 +11,11 @@
     "> corepack use pnpm@latest || (pnpm approve-builds --all && corepack use pnpm@latest)\r",
     "> pnpm build' < /dev/null; cat /opt/factory/src/completed.txt\r",
     "+ pnpm create next-app fresh-app --app --eslint --import-alias '@/*' --src-dir --tailwind --javascript --yes\r",
-    ".../mtcp0khl-a                           |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
+    ".../mtdxc2ap-a                           |   \u001b[32m+1\u001b[0m \u001b[32m+\r",
     "\u001b[0mPackages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
     "  Virtual store is at:             ../../pnpm-bin/store/v11/links\r",
-    ".../mtcp0khl-a                           | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    ".../mtdxc2ap-a                           | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "Creating a new Next.js app in \u001b[32m/workspace/fresh-app\u001b[0m.\r",
     "\r",
     "\u001b[1mUsing pnpm.\r",
@@ -56,7 +56,7 @@
     "\u001b[32m+\u001b[0m eslint-config-next \u001b[90m16.3.3\r",
     "\u001b[32m+\u001b[0m tailwindcss \u001b[90m4.3.3\r",
     "\r",
-    "\u001b[0mDone in 12.8s using pnpm v11.24.0\r",
+    "\u001b[0mDone in 11.2s using pnpm v11.24.0\r",
     "\r",
     "Generating route types...\r",
     "✓ Types generated successfully\r",
@@ -68,7 +68,7 @@
     "Installing pnpm@11.24.0 in the project...\r",
     "\r",
     "Already up to date\r",
-    "Done in 412ms using pnpm v11.24.0\r",
+    "Done in 640ms using pnpm v11.24.0\r",
     "+ pnpm build\r",
     "\u001b[2m$ next build\r",
     "\u001b[38;2;173;127;168;1;22m▲ Next.js 16.3.3\u001b[0m (Turbopack)\r",
@@ -80,11 +80,11 @@
     "\r",
     "\r",
     "\u001b[37;1m \u001b[0m Creating an optimized production build ...\r",
-    "\u001b[32;1m✓\u001b[0m Compiled successfully in 4.2s\r",
+    "\u001b[32;1m✓\u001b[0m Compiled successfully in 4.3s\r",
     "\u001b[32;1m✓\u001b[0m Finished TypeScript in 1ms    \r",
-    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 599ms    \r",
-    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 199ms\r",
-    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 5ms    \r",
+    "\u001b[32;1m✓\u001b[0m Collecting page data using 3 workers in 592ms    \r",
+    "\u001b[32;1m✓\u001b[0m Generating static pages using 3 workers (4/4) in 183ms\r",
+    "\u001b[32;1m✓\u001b[0m Finalizing page optimization in 11ms    \r",
     "\r",
     "\u001b[4mRoute (app)\r",
     "\u001b[0m┌ ○ /\r",
@@ -99,12 +99,12 @@
     "\u001b[2m$ next start\r",
     "\u001b[38;2;173;127;168;1;22m▲ Next.js 16.3.3\r",
     "\u001b[0m- Local:         http://localhost:3000\r",
-    "- Network:       http://10.1.0.203:3000\r",
-    "\u001b[32;1m✓\u001b[0m Ready in 134ms\r",
-    "\u001b[32;1m✓\u001b[0m Running next.config.mjs took 14ms\u001b[1B\u001b[35D"
+    "- Network:       http://10.1.0.166:3000\r",
+    "\u001b[32;1m✓\u001b[0m Ready in 135ms\r",
+    "\u001b[32;1m✓\u001b[0m Running next.config.mjs took 13ms\u001b[1B\u001b[35D"
   ],
   "description": "Fresh Next app, automatically generated everyday with \"pnpm create next-app --javascript\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33155572012",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33235525354",
   "frameworkUrl": "https://nextjs.org/",
   "frameworkDocumentationUrl": "https://nextjs.org/docs"
 }
