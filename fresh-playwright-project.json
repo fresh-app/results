@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 21534062,
+  "size": 21534066,
   "timing": {
-    "startTime": "2026-09-03T02:35:24.195Z",
-    "finishTime": "2026-09-03T02:36:56.598Z"
+    "startTime": "2026-09-04T02:42:31.025Z",
+    "finishTime": "2026-09-04T02:43:44.308Z"
   },
   "log": [
     "Unpacking liblcms2-dev:amd64 (2.14-2+deb12u1) over (2.14-2) ...\r",
@@ -77,8 +77,8 @@
     "Preparing to unpack .../081-libavcodec59_7%3a5.1.9-0+deb12u1_amd64.deb ...\r",
     "Unpacking libavcodec59:amd64 (7:5.1.9-0+deb12u1) ...\r",
     "Selecting previously unselected package libass9:amd64.\r",
-    "Preparing to unpack .../082-libass9_1%3a0.17.1-1_amd64.deb ...\r",
-    "Unpacking libass9:amd64 (1:0.17.1-1) ...\r",
+    "Preparing to unpack .../082-libass9_1%3a0.17.1-1+deb12u1_amd64.deb ...\r",
+    "Unpacking libass9:amd64 (1:0.17.1-1+deb12u1) ...\r",
     "Selecting previously unselected package libudfread0:amd64.\r",
     "Preparing to unpack .../083-libudfread0_1.1.2-1_amd64.deb ...\r",
     "Unpacking libudfread0:amd64 (1.1.2-1) ...\r",
@@ -823,7 +823,7 @@
     "Setting up libflac12:amd64 (1.4.2+ds-2) ...\r",
     "Setting up libgles2:amd64 (1.6.0-1) ...\r",
     "Setting up fonts-tlwg-loma-otf (1:0.7.3-1) ...\r",
-    "Setting up libass9:amd64 (1:0.17.1-1) ...\r",
+    "Setting up libass9:amd64 (1:0.17.1-1+deb12u1) ...\r",
     "Setting up libdvdread8:amd64 (6.1.3-1) ...\r",
     "Setting up emacsen-common (3.0.5) ...\r",
     "Setting up libslang2:amd64 (2.3.3-3) ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (7.1s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (9.1s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.251:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.1.206:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-09-03T02:36:51.738Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-09-03T02:36:52.318Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-09-04T02:43:39.049Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-09-04T02:43:39.999Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33707877362",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33829516385",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
