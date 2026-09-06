@@ -2,8 +2,8 @@
   "generator": "fresh-bun-project",
   "size": 36076310,
   "timing": {
-    "startTime": "2026-09-05T02:29:16.132Z",
-    "finishTime": "2026-09-05T02:29:18.656Z"
+    "startTime": "2026-09-06T02:25:25.149Z",
+    "finishTime": "2026-09-06T02:25:27.774Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://bun.sh/install | bash\r",
@@ -31,18 +31,17 @@
     "\r",
     "    \u001b[36mbun run index.ts\r",
     "\r",
-    "\u001b[39;1mbun install \u001b[22;2mv1.4.1 (4661e494f)\r",
+    "\u001b[39;1mbun install \u001b[22;2mv1.4.2 (744846f84)\r",
     "\r",
     "\u001b[32;22m+\u001b[0m \u001b[1m@types/bun\u001b[22;2m@1.4.1\r",
     "\u001b[32;22m+\u001b[0m \u001b[1mtypescript\u001b[22;2m@7.0.2\r",
     "\r",
-    "\u001b[32;22m6\u001b[0m packages installed \u001b[2m[\u001b[1m578.00ms\u001b[22m]\r",
+    "\u001b[32;22m6\u001b[0m packages installed \u001b[2m[\u001b[1m574.00ms\u001b[22m]\r",
     "\r",
-    "\u001b[0mFinished running generator.\r",
-    "node@factory:/workspace$ \u001b[?2004h"
+    "\u001b[0mFinished running generator.\u001b[1B\u001b[27D"
   ],
   "description": "Fresh Bun project, with TypeScript, automatically generated everyday with \"bun init\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/33939111140",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/34006357272",
   "frameworkUrl": "https://bun.sh/",
   "frameworkDocumentationUrl": "https://github.com/oven-sh/bun#readme"
 }
