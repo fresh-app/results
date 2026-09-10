@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 62408417,
+  "size": 62408666,
   "timing": {
-    "startTime": "2026-09-09T02:39:29.275Z",
-    "finishTime": "2026-09-09T02:39:44.240Z"
+    "startTime": "2026-09-10T02:41:20.182Z",
+    "finishTime": "2026-09-10T02:41:35.532Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -63,13 +63,13 @@
     "\u001b[36m  help: \u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 163ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 126ms ago)\r",
     "Already up to date\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.5.0_mem-fs@6.0.0_@types+node@26.5.0_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.4s\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@22.20.1_mem-fs@6.0.0_@types+node@22.20.1_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1s\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 1s ago)\r",
     "Lockfile is up to date, resolution step is skipped\r",
-    "Done in 77ms using pnpm v12.3.4\r",
+    "Done in 48ms using pnpm v12.3.4\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -133,7 +133,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/34303729971",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/34430064442",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
