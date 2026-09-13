@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 62408666,
+  "size": 62409136,
   "timing": {
-    "startTime": "2026-09-12T02:43:15.756Z",
-    "finishTime": "2026-09-12T02:43:32.108Z"
+    "startTime": "2026-09-13T02:41:18.730Z",
+    "finishTime": "2026-09-13T02:41:34.114Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -63,13 +63,13 @@
     "\u001b[36m  help: \u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 123ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 166ms ago)\r",
     "Already up to date\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@22.20.2_mem-fs@6.0.0_@types+node@22.20.2_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 990ms\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@22.20.2_mem-fs@6.0.0_@types+node@22.20.2_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.4s\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 1s ago)\r",
     "Lockfile is up to date, resolution step is skipped\r",
-    "Done in 37ms using pnpm v12.4.1\r",
+    "Done in 54ms using pnpm v12.4.1\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -133,7 +133,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/34668195831",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/34733463204",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
