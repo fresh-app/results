@@ -2,8 +2,8 @@
   "generator": "fresh-remix-app",
   "size": 108199512,
   "timing": {
-    "startTime": "2026-09-20T02:54:09.226Z",
-    "finishTime": "2026-09-20T02:54:21.728Z"
+    "startTime": "2026-09-21T02:51:32.326Z",
+    "finishTime": "2026-09-21T02:51:44.963Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -13,8 +13,8 @@
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "Packages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
-    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/c5caf1ab2b7e5cdef73d2d932cf20155/mu982y9v-m/node_modules/.pacquet\r",
-    ".../mu982y9v-m                           | Progress: resolved \u001b[96m67\u001b[0m, reused \u001b[96m1\u001b[0m, downloaded \u001b[96m66\u001b[0m, added \u001b[96m67\u001b[0m, done\r",
+    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/c5caf1ab2b7e5cdef73d2d932cf20155/muanffvg-l/node_modules/.pacquet\r",
+    ".../muanffvg-l                           | Progress: resolved \u001b[96m67\u001b[0m, reused \u001b[96m1\u001b[0m, downloaded \u001b[96m66\u001b[0m, added \u001b[96m67\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m create-react-router \u001b[90m8.4.0\r",
@@ -63,7 +63,7 @@
     "$ react-router build\r",
     "Using Vite Environment API\r",
     "\u001b[36mvite v8.3.0 \u001b[32mbuilding client environment for production...\r",
-    "\u001b[2m✓\u001b[0m 101 modules transformed.\r",
+    "✓\u001b[0m 101 modules transformed.\r",
     "computing gzip size...\r",
     "\u001b[2mbuild/client/\u001b[32;22m.vite/manifest.json                 \u001b[39;1;2m  1.88 kB\u001b[22m │ gzip:  0.50 kB\r",
     "build/client/assets/\u001b[32;22mlogo-dark-pX2395Y0.svg       \u001b[39;1;2m  6.09 kB\u001b[22m │ gzip:  2.42 kB\r",
@@ -75,7 +75,7 @@
     "build/client/assets/\u001b[36;22mjsx-runtime-SYb1tFyZ.js      \u001b[39;1;2m 87.17 kB\u001b[22m │ gzip: 28.87 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-B9dDfKCB.js     \u001b[39;1;2m214.77 kB\u001b[22m │ gzip: 67.17 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 320ms\r",
+    "\u001b[32;22m✓ built in 312ms\r",
     "\u001b[36mvite v8.3.0 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 10 modules transformed.\r",
     "\r",
@@ -91,17 +91,17 @@
     "build/server/assets/\u001b[35;22mserver-build-BzTXpK0N.css  \u001b[39;1;2m 8.06 kB\u001b[22m │ gzip: 2.50 kB\r",
     "build/server/\u001b[36;22mindex.js                          \u001b[39;1;2m11.33 kB\u001b[22m │ gzip: 4.10 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 67ms\r",
+    "\u001b[32;22m✓ built in 65ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
     "$ react-router-serve ./build/server/index.js\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.1.46:3000)\r",
-    "GET / 200 - - 51.441 ms\r",
-    "GET / 200 - - 4.992 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.183:3000)\r",
+    "GET / 200 - - 45.863 ms\r",
+    "GET / 200 - - 5.779 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/35485099108",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/35555426735",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
