@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-extension",
-  "size": 63064377,
+  "size": 63065640,
   "timing": {
-    "startTime": "2026-09-23T02:52:21.757Z",
-    "finishTime": "2026-09-23T02:52:37.937Z"
+    "startTime": "2026-09-24T02:44:48.853Z",
+    "finishTime": "2026-09-24T02:45:04.942Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'mkdir -p yeoman_temp\r",
@@ -35,11 +35,11 @@
     "  \"devEngines\": {\r",
     "    \"packageManager\": {\r",
     "      \"name\": \"pnpm\",\r",
-    "      \"version\": \"12.5.1\",\r",
+    "      \"version\": \"12.6.0\",\r",
     "      \"onFail\": \"download\"\r",
     "    }\r",
     "  },\r",
-    "  \"packageManager\": \"pnpm@12.5.1\",\r",
+    "  \"packageManager\": \"pnpm@12.6.0\",\r",
     "  \"type\": \"module\"\r",
     "}\r",
     "+ jq 'del(.devEngines)' package.json\r",
@@ -63,13 +63,13 @@
     "\u001b[36m  help: \u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 146ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 160ms ago)\r",
     "Already up to date\r",
-    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.6.2_mem-fs@6.0.0_@types+node@26.6.2_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.2s\r",
+    "\u001b[90mnode_modules/.pnpm/yo@7.0.1_@types+node@26.6.2_mem-fs@6.0.0_@types+node@26.6.2_@types+vinyl@2.0.12__supports-color@9.4.0/node_modules/\u001b[0myo: Running postinstall script, done in 1.4s\r",
     "+ pnpm add yo generator-code\r",
     "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 1s ago)\r",
     "Lockfile is up to date, resolution step is skipped\r",
-    "Done in 46ms using pnpm v12.5.1\r",
+    "Done in 55ms using pnpm v12.6.0\r",
     "+ pnpm exec yo code --quick --extensionType=ts --gitInit=false fresh-extension\r",
     "\r",
     "     _-----_     ╭──────────────────────────╮\r",
@@ -133,7 +133,7 @@
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh VS Code extension, automatically generated everyday with \"yo code --extensionType=ts\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/35811949515",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/35948227217",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/get-started/your-first-extension"
 }
