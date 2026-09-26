@@ -1,9 +1,9 @@
 {
   "generator": "fresh-vscode-web-extension",
-  "size": 306718329,
+  "size": 307149993,
   "timing": {
-    "startTime": "2026-09-25T02:59:54.835Z",
-    "finishTime": "2026-09-25T03:01:24.815Z"
+    "startTime": "2026-09-26T03:05:46.607Z",
+    "finishTime": "2026-09-26T03:07:17.391Z"
   },
   "log": [
     "Unpacking libssh-gcrypt-4:amd64 (0.10.6-0+deb12u2) ...\r",
@@ -968,7 +968,7 @@
     "debconf: (This frontend requires a controlling tty.)\r",
     "debconf: falling back to frontend: Teletype\r",
     "\r",
-    "Done in 28.9s using pnpm v12.6.0\r",
+    "Done in 32.2s using pnpm v12.6.0\r",
     "+ mkdir -p yeoman_temp\r",
     "+ cd yeoman_temp\r",
     "+ pnpm init\r",
@@ -1027,8 +1027,8 @@
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m Using --global skips the package manager check for this project\r",
     "Packages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
-    "  Virtual store is at:             ../../pnpm-bin/global/v11/10e1-18d8711fe5c5bd7c-0/node_modules/.pnpm\r",
-    ".../global/v11/10e1-18d8711fe5c5bd7c-0   | Progress: resolved \u001b[96m106\u001b[0m, reused \u001b[96m17\u001b[0m, downloaded \u001b[96m89\u001b[0m, added \u001b[96m106\u001b[0m, done\r",
+    "  Virtual store is at:             ../../pnpm-bin/global/v11/10e8-18d8c006e036f267-0/node_modules/.pnpm\r",
+    ".../global/v11/10e8-18d8c006e036f267-0   | Progress: resolved \u001b[96m106\u001b[0m, reused \u001b[96m17\u001b[0m, downloaded \u001b[96m89\u001b[0m, added \u001b[96m106\u001b[0m, done\r",
     "Ignored build scripts: @playwright/browser-chromium@1.63.0.\r",
     "Run \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "\r",
@@ -1072,7 +1072,7 @@
     "Running npm install for you to install the required dependencies.\r",
     "\u001b[1mnpm\u001b[0m \u001b[33mwarn\u001b[0m \u001b[94mdeprecated\u001b[0m glob@10.5.0: Old versions of glob are not supported, and contain widely publicized security vulnerabilities, which have been fixed in the current version. Please update. Support for old versions may be purchased (at exorbitant rates) by contacting i@izs.me\r",
     "\r",
-    "added 403 packages, and audited 404 packages in 29s\r",
+    "added 403 packages, and audited 404 packages in 26s\r",
     "\r",
     "98 packages are looking for funding\r",
     "  run `npm fund` for details\r",
@@ -1103,20 +1103,20 @@
     "node@factory:/workspace/fresh-app$ vscode-test-web --headless --extensionDevelopmentPath=. .\r",
     "@vscode/test-web: 0.0.81\r",
     "Downloading VS Code Insiders: complete\r",
-    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-eb1f2bba7cfa39fe356f40c116e7614dcb160b3b\r",
+    "Extracted to /workspace/fresh-app/.vscode-test-web/vscode-web-insider-4a6a3612a562c50f54c2bd5211f0ea42915b974e\r",
     "Serving dev extensions from /workspace/fresh-app\r",
     "Serving local content /workspace/fresh-app at /static/mount\r",
     "Listening on http://localhost:3000\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.625 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 1.678 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.556 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.688 ms - 9\r",
     "Using ESM loader: \u001b[33mtrue\r",
-    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.460 ms - 9\r",
+    "\u001b[0mGET /static/devextensions/package.nls.json \u001b[33m404\u001b[0m 0.692 ms - 9\r",
     ""
   ],
   "description": "Fresh VS Code web extension, automatically generated everyday with \"yo code --extensionType=web\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/36088367182",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/36213449869",
   "frameworkUrl": "https://code.visualstudio.com/api",
   "frameworkDocumentationUrl": "https://code.visualstudio.com/api/extension-guides/web-extensions"
 }
