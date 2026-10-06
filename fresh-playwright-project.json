@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 21590194,
+  "size": 21590234,
   "timing": {
-    "startTime": "2026-10-05T03:36:36.765Z",
-    "finishTime": "2026-10-05T03:37:40.228Z"
+    "startTime": "2026-10-06T04:21:36.634Z",
+    "finishTime": "2026-10-06T04:23:29.937Z"
   },
   "log": [
     "Unpacking librav1e0:amd64 (0.5.1-6) ...\r",
@@ -833,7 +833,7 @@
     "Setting up libopus0:amd64 (1.3.1-3) ...\r",
     "Setting up libfaad2:amd64 (2.10.1-1) ...\r",
     "Setting up libxinerama1:amd64 (2:1.1.4-3) ...\r",
-    "Setting up libpng16-16:amd64 (1.6.39-2+deb12u5) ...\r",
+    "Setting up libpng16-16:amd64 (1.6.39-2+deb12u6) ...\r",
     "Setting up libevent-core-2.1-7:amd64 (2.1.12-stable-8+deb12u1) ...\r",
     "Setting up libvorbis0a:amd64 (1.3.7-1) ...\r",
     "Setting up libevent-2.1-7:amd64 (2.1.12-stable-8+deb12u1) ...\r",
@@ -939,7 +939,7 @@
     "Setting up x11-xkb-utils (7.7+7) ...\r",
     "Setting up libmanette-0.2-0:amd64 (0.2.6-3+b1) ...\r",
     "Setting up libxcursor1:amd64 (1:1.2.1-1) ...\r",
-    "Setting up libpng-dev:amd64 (1.6.39-2+deb12u5) ...\r",
+    "Setting up libpng-dev:amd64 (1.6.39-2+deb12u6) ...\r",
     "Setting up libavahi-common3:amd64 (0.8-10+deb12u1) ...\r",
     "Setting up libevent-openssl-2.1-7:amd64 (2.1.12-stable-8+deb12u1) ...\r",
     "Setting up libglib2.0-bin (2.74.6-2+deb12u9) ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (6.6s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.9s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.19:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.152:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-10-05T03:37:35.292Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-05T03:37:35.955Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-06T04:23:24.790Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-06T04:23:25.644Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/37259789810",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/37413151545",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
