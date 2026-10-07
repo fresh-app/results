@@ -1,9 +1,9 @@
 {
   "generator": "fresh-solid-app-ts",
-  "size": 62157823,
+  "size": 62160018,
   "timing": {
-    "startTime": "2026-10-06T04:22:13.525Z",
-    "finishTime": "2026-10-06T04:22:26.660Z"
+    "startTime": "2026-10-07T03:50:38.119Z",
+    "finishTime": "2026-10-07T03:50:51.536Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpx degit solidjs/templates/vanilla/basic fresh-app\r",
@@ -15,8 +15,8 @@
     "+ pnpx degit solidjs/templates/vanilla/basic fresh-app\r",
     "Packages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
-    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/f83bc4721c0f8819e43881e78028371d/muw69ubx-l/node_modules/.pnpm\r",
-    ".../muw69ubx-l                           | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
+    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/f83bc4721c0f8819e43881e78028371d/muxkl2f4-l/node_modules/.pnpm\r",
+    ".../muxkl2f4-l                           | Progress: resolved \u001b[96m1\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m1\u001b[0m, added \u001b[96m1\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m degit \u001b[90m3.10.0\r",
@@ -50,9 +50,9 @@
     "\u001b[36m  help: \u001b[0mRun \"pnpm approve-builds\" to pick which dependencies should be allowed to run scripts.\r",
     "\r",
     "+ pnpm approve-builds --all\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 135ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 141ms ago)\r",
     "Already up to date\r",
-    "\u001b[90mnode_modules/.pnpm/esbuild@0.28.2/node_modules/\u001b[0mesbuild: Running postinstall script, done in 38ms\r",
+    "\u001b[90mnode_modules/.pnpm/esbuild@0.28.2/node_modules/\u001b[0mesbuild: Running postinstall script, done in 41ms\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@12.9.1 in the project...\r",
     "\r",
@@ -67,7 +67,7 @@
     "✓\u001b[0m 8 modules transformed.\r",
     "\u001b[2mdist/\u001b[32;22mindex.html                \u001b[39;1;2m0.44 kB\u001b[22m │ gzip: 0.29 kB\r",
     "dist/assets/\u001b[36;22mindex-DHGDo24c.js  \u001b[39;1;2m6.75 kB\u001b[22m │ gzip: 2.83 kB\r",
-    "\u001b[32;22m✓ built in 294ms\r",
+    "\u001b[32;22m✓ built in 289ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -87,17 +87,17 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.216:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.39:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-10-06T04:22:21.679Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-06T04:22:21.694Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-06T04:22:22.434Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-06T04:22:22.442Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
+    "[2026-10-07T03:50:46.520Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-07T03:50:46.537Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-07T03:50:47.296Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-07T03:50:47.306Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/assets/index-DHGDo24c.js\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\u001b[1B\u001b[55D"
   ],
   "description": "Fresh SolidJS app, automatically generated everyday with \"npx degit solidjs/templates/vanilla/basic\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/37413151545",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/37568254507",
   "frameworkUrl": "https://www.solidjs.com/",
   "frameworkDocumentationUrl": "https://www.solidjs.com/guides/getting-started"
 }
