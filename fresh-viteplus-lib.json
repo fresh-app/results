@@ -1,9 +1,9 @@
 {
   "generator": "fresh-viteplus-lib",
-  "size": 184726432,
+  "size": 184726680,
   "timing": {
-    "startTime": "2026-10-09T04:09:53.825Z",
-    "finishTime": "2026-10-09T04:10:15.917Z"
+    "startTime": "2026-10-10T03:54:34.458Z",
+    "finishTime": "2026-10-10T03:54:56.804Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://vite.plus | CI=true bash\r",
@@ -71,16 +71,16 @@
     "+ vp create vite:library --directory fresh-app --no-interactive\r",
     "\u001b[35m◇\u001b[0m Scaffolded \u001b[34mfresh-app\u001b[0m with TypeScript library\r",
     "\u001b[90m•\u001b[0m Node 24.21.0  pnpm 12.10.1\r",
-    "\u001b[32m✓\u001b[0m Dependencies installed in 2.2s\r",
+    "\u001b[32m✓\u001b[0m Dependencies installed in 2.3s\r",
     "\u001b[34m→\u001b[0m Next: \u001b[34mcd fresh-app && vp run\r",
     "\u001b[0m+ cd fresh-app\r",
     "+ vp install\r",
     "VITE+ - The Unified Toolchain for the Web\r",
     "\r",
     "Already up to date\r",
-    "Done in 2ms using pnpm v12.10.1\r",
+    "Done in 1ms using pnpm v12.10.1\r",
     "+ pnpm add -D @typescript/native-preview\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 841ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 915ms ago)\r",
     "\u001b[33;43m[\u001b[30mWARN\u001b[33m]\u001b[0m \u001b[31m24 deprecated subdependencies found:\u001b[0m @yuku-codegen/binding-android-arm64@0.9.5, @yuku-codegen/binding-darwin-arm64@0.9.5, @yuku-codegen/binding-darwin-x64@0.9.5, @yuku-codegen/binding-freebsd-x64@0.9.5, @yuku-codegen/binding-linux-arm-gnu@0.9.5, @yuku-codegen/binding-linux-arm-musl@0.9.5, @yuku-codegen/binding-linux-arm64-gnu@0.9.5, @yuku-codegen/binding-linux-arm64-musl@0.9.5, @yuku-codegen/binding-linux-x64-gnu@0.9.5, @yuku-codegen/binding-linux-x64-musl@0.9.5, @yuku-codegen/binding-win32-arm64@0.9.5, @yuku-codegen/binding-win32-x64@0.9.5, @yuku-parser/binding-android-arm64@0.9.5, @yuku-parser/binding-darwin-arm64@0.9.5, @yuku-parser/binding-darwin-x64@0.9.5, @yuku-parser/binding-freebsd-x64@0.9.5, @yuku-parser/binding-linux-arm-gnu@0.9.5, @yuku-parser/binding-linux-arm-musl@0.9.5, @yuku-parser/binding-linux-arm64-gnu@0.9.5, @yuku-parser/binding-linux-arm64-musl@0.9.5, @yuku-parser/binding-linux-x64-gnu@0.9.5, @yuku-parser/binding-linux-x64-musl@0.9.5, @yuku-parser/binding-win32-arm64@0.9.5, @yuku-parser/binding-win32-x64@0.9.5\r",
     "Downloading @typescript/native-preview-linux-x64@7.0.0-dev.20260707.2: \u001b[96m9.66 MB\u001b[0m/\u001b[96m9.66 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+11\u001b[0m \u001b[31m-8\r",
@@ -90,7 +90,7 @@
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m @typescript/native-preview \u001b[90m7.0.0-dev.20260707.2\r",
     "\r",
-    "\u001b[0mDone in 505ms using pnpm v12.10.1\r",
+    "\u001b[0mDone in 658ms using pnpm v12.10.1\r",
     "+ vp pack\r",
     "VITE+ - The Unified Toolchain for the Web\r",
     "\r",
@@ -102,7 +102,7 @@
     "\u001b[34;24mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.10 kB\u001b[0m \u001b[2m│ gzip: 0.11 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.07 kB\u001b[0m \u001b[2m│ gzip: 0.09 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.17 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m155ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m163ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -122,14 +122,14 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.34:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.162:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-10-09T04:10:10.915Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-09T04:10:11.688Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-10T03:54:51.763Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-10T03:54:52.554Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Vite+ library, automatically generated everyday with \"vp create vite:library\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/37882197861"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/38021940519"
 }
