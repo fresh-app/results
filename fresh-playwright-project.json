@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 21732048,
+  "size": 21732723,
   "timing": {
-    "startTime": "2026-10-15T02:47:30.776Z",
-    "finishTime": "2026-10-15T02:48:50.516Z"
+    "startTime": "2026-10-16T02:43:28.446Z",
+    "finishTime": "2026-10-16T02:44:33.167Z"
   },
   "log": [
     "Unpacking librav1e0:amd64 (0.5.1-6) ...\r",
@@ -604,8 +604,8 @@
     "Preparing to unpack .../264-libwavpack1_5.6.0-1_amd64.deb ...\r",
     "Unpacking libwavpack1:amd64 (5.6.0-1) ...\r",
     "Selecting previously unselected package gstreamer1.0-plugins-good:amd64.\r",
-    "Preparing to unpack .../265-gstreamer1.0-plugins-good_1.22.0-5+deb12u3_amd64.deb ...\r",
-    "Unpacking gstreamer1.0-plugins-good:amd64 (1.22.0-5+deb12u3) ...\r",
+    "Preparing to unpack .../265-gstreamer1.0-plugins-good_1.22.0-5+deb12u4_amd64.deb ...\r",
+    "Unpacking gstreamer1.0-plugins-good:amd64 (1.22.0-5+deb12u4) ...\r",
     "Selecting previously unselected package gstreamer1.0-plugins-bad:amd64.\r",
     "Preparing to unpack .../266-gstreamer1.0-plugins-bad_1.22.0-4+deb12u7_amd64.deb ...\r",
     "Unpacking gstreamer1.0-plugins-bad:amd64 (1.22.0-4+deb12u7) ...\r",
@@ -1049,7 +1049,7 @@
     "Setting up glib-networking:amd64 (2.74.0-4) ...\r",
     "Setting up libsoup-3.0-0:amd64 (3.2.3-0+deb12u2) ...\r",
     "Setting up libgssdp-1.6-0:amd64 (1.6.2-2) ...\r",
-    "Setting up gstreamer1.0-plugins-good:amd64 (1.22.0-5+deb12u3) ...\r",
+    "Setting up gstreamer1.0-plugins-good:amd64 (1.22.0-5+deb12u4) ...\r",
     "Setting up libgupnp-1.6-0:amd64 (1.6.3-1) ...\r",
     "Setting up libgupnp-igd-1.0-4:amd64 (1.2.0-3) ...\r",
     "Setting up libnice10:amd64 (0.1.21-1) ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.2s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (8.1s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.1.175:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.14:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-10-15T02:48:45.589Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-10-15T02:48:46.248Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-16T02:44:28.121Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-10-16T02:44:28.898Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/38672627342",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/38841710048",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
