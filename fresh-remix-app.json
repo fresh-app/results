@@ -1,9 +1,9 @@
 {
   "generator": "fresh-remix-app",
-  "size": 106804166,
+  "size": 106931226,
   "timing": {
-    "startTime": "2026-11-18T05:56:44.890Z",
-    "finishTime": "2026-11-18T05:56:57.450Z"
+    "startTime": "2026-11-19T06:00:33.022Z",
+    "finishTime": "2026-11-19T06:00:48.548Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create react-router fresh-app --no-git-init --no-install\r",
@@ -13,8 +13,8 @@
     "+ pnpm create react-router fresh-app --no-git-init --no-install\r",
     "Packages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
-    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/db26f0a4d2f9b5ab874477c13823f2e8/mwlpl17m-l/node_modules/.pnpm\r",
-    ".../mwlpl17m-l                           | Progress: resolved \u001b[96m68\u001b[0m, reused \u001b[96m1\u001b[0m, downloaded \u001b[96m67\u001b[0m, added \u001b[96m68\u001b[0m, done\r",
+    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/db26f0a4d2f9b5ab874477c13823f2e8/mwn55tqv-l/node_modules/.pnpm\r",
+    ".../mwn55tqv-l                           | Progress: resolved \u001b[96m68\u001b[0m, reused \u001b[96m1\u001b[0m, downloaded \u001b[96m67\u001b[0m, added \u001b[96m68\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m create-react-router \u001b[90m8.5.1\r",
@@ -27,7 +27,7 @@
     "\r",
     "\u001b[39;47m \u001b[30mskill\u001b[39m \u001b[0m  Include the React Router agent skill?\u001b[2m (recommended)\r",
     "\u001b[0m         \u001b[32m●\u001b[0m Yes \u001b[2m ○ No \r",
-    "\u001b[0mDone in 987ms using pnpm v12.21.0\r",
+    "\u001b[0mDone in 1.1s using pnpm v12.21.0\r",
     "+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@12.21.0 in the project...\r",
@@ -63,7 +63,7 @@
     "$ react-router build\r",
     "Using Vite Environment API\r",
     "\u001b[36mvite v8.3.8 \u001b[32mbuilding client environment for production...\r",
-    "✓\u001b[0m 102 modules transformed.\r",
+    "\u001b[2m✓\u001b[0m 102 modules transformed.\r",
     "computing gzip size...\r",
     "\u001b[2mbuild/client/\u001b[32;22m.vite/manifest.json              \u001b[39;1;2m  1.63 kB\u001b[22m │ gzip:  0.45 kB\r",
     "build/client/assets/\u001b[32;22mlogo-dark-pX2395Y0.svg    \u001b[39;1;2m  6.09 kB\u001b[22m │ gzip:  2.42 kB\r",
@@ -74,7 +74,7 @@
     "build/client/assets/\u001b[36;22mjsx-runtime-7vNEmt-1.js   \u001b[39;1;2m123.49 kB\u001b[22m │ gzip: 40.43 kB\r",
     "build/client/assets/\u001b[36;22mentry.client-ChhaeA7v.js  \u001b[39;1;2m223.05 kB\u001b[22m │ gzip: 69.76 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 337ms\r",
+    "\u001b[32;22m✓ built in 230ms\r",
     "\u001b[36mvite v8.3.8 \u001b[32mbuilding ssr environment for production...\r",
     "✓\u001b[0m 10 modules transformed.\r",
     "\r",
@@ -90,17 +90,17 @@
     "build/server/assets/\u001b[35;22mserver-build-w3SWnYCO.css  \u001b[39;1;2m 8.06 kB\u001b[22m │ gzip: 2.50 kB\r",
     "build/server/\u001b[36;22mindex.js                          \u001b[39;1;2m11.22 kB\u001b[22m │ gzip: 4.09 kB\r",
     "\r",
-    "\u001b[32;22m✓ built in 74ms\r",
+    "\u001b[32;22m✓ built in 53ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app\r",
     "node@factory:/workspace/fresh-app$ pnpm start\r",
     "$ react-router-serve ./build/server/index.js\r",
-    "[react-router-serve] http://localhost:3000 (http://10.1.0.174:3000)\r",
-    "GET / 200 - - 56.620 ms\r",
-    "GET / 200 - - 4.813 ms\u001b[1B\u001b[22D"
+    "[react-router-serve] http://localhost:3000 (http://10.1.0.129:3000)\r",
+    "GET / 200 - - 40.224 ms\r",
+    "GET / 200 - - 4.027 ms\u001b[1B\u001b[22D"
   ],
   "description": "Fresh React Router app (Remix successor), with TypeScript, automatically generated everyday with \"pnpm create react-router\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/44247538447",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/44468507898",
   "frameworkUrl": "https://reactrouter.com/",
   "frameworkDocumentationUrl": "https://reactrouter.com/start/framework/installation"
 }
