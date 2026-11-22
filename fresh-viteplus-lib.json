@@ -1,9 +1,9 @@
 {
   "generator": "fresh-viteplus-lib",
-  "size": 205455529,
+  "size": 205456072,
   "timing": {
-    "startTime": "2026-11-21T05:43:47.643Z",
-    "finishTime": "2026-11-21T05:44:18.417Z"
+    "startTime": "2026-11-22T05:07:41.962Z",
+    "finishTime": "2026-11-22T05:08:09.914Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'curl -fsSL https://vite.plus | CI=true bash\r",
@@ -75,7 +75,7 @@
     "+ vp create vite:library --directory fresh-app --no-interactive\r",
     "\u001b[35m◇\u001b[0m Scaffolded \u001b[34mfresh-app\u001b[0m with TypeScript library\r",
     "\u001b[90m•\u001b[0m Node 26.13.1  pnpm 12.21.0\r",
-    "\u001b[32m✓\u001b[0m Dependencies installed in 2.0s\r",
+    "\u001b[32m✓\u001b[0m Dependencies installed in 1.8s\r",
     "\u001b[34m→\u001b[0m Next: \u001b[34mcd fresh-app && vp run\r",
     "\u001b[0m+ cd fresh-app\r",
     "+ vp install\r",
@@ -84,7 +84,7 @@
     "Already up to date\r",
     "Done in 2ms using pnpm v12.21.0\r",
     "+ pnpm add -D @typescript/native-preview\r",
-    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 800ms ago)\r",
+    "\u001b[32m✓\u001b[0m Lockfile passes supply-chain policies (verified 781ms ago)\r",
     "Downloading @typescript/native-preview-linux-x64@7.0.0-dev.20260707.2: \u001b[96m9.66 MB\u001b[0m/\u001b[96m9.66 MB\u001b[0m, done\r",
     "Packages: \u001b[32m+11\u001b[0m \u001b[31m-8\r",
     "\u001b[32m+++++++++++\u001b[31m--------\r",
@@ -93,7 +93,7 @@
     "\u001b[96mdevDependencies:\r",
     "\u001b[32m+\u001b[0m @typescript/native-preview \u001b[90m7.0.0-dev.20260707.2\r",
     "\r",
-    "\u001b[0mDone in 483ms using pnpm v12.21.0\r",
+    "\u001b[0mDone in 384ms using pnpm v12.21.0\r",
     "+ vp pack\r",
     "VITE+ - The Unified Toolchain for the Web\r",
     "\r",
@@ -105,7 +105,7 @@
     "\u001b[34;24mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.07 kB\u001b[0m \u001b[2m│ gzip: 0.09 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.04 kB\u001b[0m \u001b[2m│ gzip: 0.06 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.11 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m192ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m191ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/dist\r",
     "node@factory:/workspace/fresh-app/dist$ http-server\r",
@@ -125,14 +125,14 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.2.43:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.208:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-11-21T05:44:13.370Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-11-21T05:44:14.181Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-11-22T05:08:04.885Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-11-22T05:08:05.679Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Vite+ library, automatically generated everyday with \"vp create vite:library\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/44871872945"
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/44987908020"
 }
