@@ -1,9 +1,9 @@
 {
   "generator": "fresh-tsdown-lib",
-  "size": 104680704,
+  "size": 104681650,
   "timing": {
-    "startTime": "2026-11-24T08:28:57.876Z",
-    "finishTime": "2026-11-24T08:29:02.513Z"
+    "startTime": "2026-11-25T07:01:38.726Z",
+    "finishTime": "2026-11-25T07:01:45.164Z"
   },
   "log": [
     "node@factory:/workspace$ bash -exc 'pnpm create tsdown@latest fresh-app --template=default\r",
@@ -13,8 +13,8 @@
     "+ pnpm create tsdown@latest fresh-app --template=default\r",
     "Packages are hard linked from the content-addressable store to the virtual store.\r",
     "  Content-addressable store is at: /pnpm-bin/store/v11\r",
-    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/9ef00e916b4900bad91073cb52e5d0d0/mwufnw9p-l/node_modules/.pnpm\r",
-    ".../mwufnw9p-l                           | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
+    "  Virtual store is at:             ../home/node/.cache/pnpm/dlx/9ef00e916b4900bad91073cb52e5d0d0/mwvrzh8d-l/node_modules/.pnpm\r",
+    ".../mwvrzh8d-l                           | Progress: resolved \u001b[96m10\u001b[0m, reused \u001b[96m0\u001b[0m, downloaded \u001b[96m10\u001b[0m, added \u001b[96m10\u001b[0m, done\r",
     "\r",
     "\u001b[96mdependencies:\r",
     "\u001b[32m+\u001b[0m create-tsdown \u001b[90m0.23.7\r",
@@ -30,7 +30,7 @@
     "\u001b[0mFor more information, visit: \u001b[4mhttps://tsdown.dev/\r",
     "\r",
     "\r",
-    "\u001b[0mDone in 824ms using pnpm v12.23.0\r",
+    "\u001b[0mDone in 668ms using pnpm v12.23.0\r",
     "+ cd fresh-app\r",
     "+ corepack use pnpm@latest\r",
     "Installing pnpm@12.23.0 in the project...\r",
@@ -56,7 +56,7 @@
     "\u001b[32m+\u001b[0m typescript \u001b[90m7.0.2\r",
     "\u001b[32m+\u001b[0m vitest \u001b[90m5.1.1\r",
     "\r",
-    "\u001b[0mDone in 1s using pnpm v12.23.0\r",
+    "\u001b[0mDone in 2s using pnpm v12.23.0\r",
     "+ pnpm build\r",
     "$ tsdown\r",
     "\u001b[34mℹ\u001b[0m \u001b[34mtsdown v0.23.7\u001b[0m powered by \u001b[33mrolldown v1.3.3\r",
@@ -71,12 +71,12 @@
     "\u001b[34;24mℹ\u001b[0m \u001b[2mdist/\u001b[1;22mindex.mjs\u001b[0m    \u001b[2m0.07 kB\u001b[0m \u001b[2m│ gzip: 0.09 kB\r",
     "\u001b[34;22mℹ\u001b[0m \u001b[2mdist/\u001b[32;1;22mindex.d.mts\u001b[0m  \u001b[2m0.04 kB\u001b[0m \u001b[2m│ gzip: 0.06 kB\r",
     "\u001b[34;22mℹ\u001b[0m 2 files, total: 0.11 kB\r",
-    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m184ms\r",
+    "\u001b[32m✔\u001b[0m Build complete in \u001b[32m157ms\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ \u001b[?2004h"
   ],
   "description": "Fresh TypeScript library, built with tsdown, automatically generated everyday with \"pnpm create tsdown@latest --template=default\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/45355915413",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/45564714397",
   "frameworkUrl": "https://tsdown.dev/",
   "frameworkDocumentationUrl": "https://tsdown.dev/guide/getting-started"
 }
