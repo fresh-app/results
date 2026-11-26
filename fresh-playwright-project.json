@@ -1,9 +1,9 @@
 {
   "generator": "fresh-playwright-project",
-  "size": 22123508,
+  "size": 22123684,
   "timing": {
-    "startTime": "2026-11-25T07:04:05.397Z",
-    "finishTime": "2026-11-25T07:05:12.787Z"
+    "startTime": "2026-11-26T06:57:15.577Z",
+    "finishTime": "2026-11-26T06:58:20.137Z"
   },
   "log": [
     "Unpacking librav1e0:amd64 (0.5.1-6) ...\r",
@@ -1082,7 +1082,7 @@
     "+ pnpm playwright test\r",
     "\r",
     "\u001b[2mRunning \u001b[0m6\u001b[2m tests using \u001b[0m2\u001b[2m workers\r",
-    "\u001b[32;22m  6 passed\u001b[39;2m (8.7s)\r",
+    "\u001b[32;22m  6 passed\u001b[39;2m (6.0s)\r",
     "\u001b[0mFinished running generator.\r",
     "node@factory:/workspace$ cd /workspace/fresh-app/playwright-report\r",
     "node@factory:/workspace/fresh-app/playwright-report$ http-server\r",
@@ -1102,16 +1102,16 @@
     "\r",
     "\u001b[33mAvailable on:\r",
     "\u001b[0m  http://127.0.0.1:\u001b[32m8080\r",
-    "\u001b[0m  http://10.1.0.4:\u001b[32m8080\r",
+    "\u001b[0m  http://10.1.0.178:\u001b[32m8080\r",
     "\u001b[0m  http://172.17.0.1:\u001b[32m8080\r",
     "\u001b[0mHit CTRL-C to stop the server\r",
     "\r",
-    "[2026-11-25T07:05:07.629Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
-    "[2026-11-25T07:05:08.489Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-11-26T06:58:15.324Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
+    "[2026-11-26T06:58:15.887Z]  \"\u001b[36mGET\u001b[0m \u001b[36m/\u001b[0m\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/148.0.7778.96 Safari/537.36\"\r",
     ""
   ],
   "description": "Fresh Playwright Test project with TypeScript, automatically generated everyday with \"pnpm create playwright\"",
-  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/45564714397",
+  "buildUrl": "https://github.com/fresh-app/factory/actions/runs/45771262248",
   "frameworkUrl": "https://playwright.dev/",
   "frameworkDocumentationUrl": "https://playwright.dev/docs/intro"
 }
